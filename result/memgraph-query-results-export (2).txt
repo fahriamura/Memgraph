@@ -1,0 +1,341 @@
+fact
+Irys Network enables Programmable Datachain for AI & Beyond
+Irys Testnet Faucet provides IRYS
+Learn Hub uses IRYS
+Irys Network provides HighPerformance ComposableUtilities
+Irys Network provides CostEfficient ProgrammableData
+Irys Network offers CostEfficient ProgrammableData
+native execution layer enables data programmability
+Irys Network enables Cheaper retrieval costs
+Cheaper retrieval costs enables Programmable data
+Irys Academy uses Programmable data
+Irys Network enables Onchain services
+Cheaper retrieval costs enables Onchain services
+Irys enables Onchain services
+BN Labs Ltd has_component Irys
+Thedatachain enables Irys
+Genesis Hunt runs_on Irys
+Irys integrates_with Data Layer
+Data Layer supports AI
+Programmable Datachain enables AI
+Irys data layer connects_to AI
+Irys data layer supports AI
+Build contains ONCHAIN STORAGE
+Build contains PROGRAMMABILITY
+Datachain enables On-chain storage
+Datachain provides Affordable on-chain storage
+Datachain has_component Storing data
+IRYS provides Privacy Policy
+Terms of Use connects_to Privacy Policy
+Privacy Policy contains What Personal Data We Collect About You
+Privacy Policy contains How We Collect Your Personal Data
+Privacy Policy contains How We Use Your Personal Data
+Irys Network has_component Marketing
+Privacy Policy contains Marketing
+Privacy Policy contains Automated Decision Making
+Privacy Policy contains How We May Share Your Personal Data
+Privacy Policy contains International Transfers
+Privacy Policy contains Data Security
+Privacy Policy contains Data Retention
+Privacy Policy contains Your Legal Rights
+Privacy Policy contains Complaints
+Privacy Policy contains Third Party Links
+Privacy Policy contains Changes to This Privacy Policy
+Privacy Policy contains About Us
+Privacy Policy contains Our Contact Details
+Personal data has_component Name
+Personal data has_component Contact details
+Personal data has_component Identification numbers
+Personal data has_component Electronic location data
+Personal data has_component Online identifiers
+Identity Data has_component first name
+Identity Data has_component last name
+Identity Data has_component username or similar identifier
+Identity Data has_component title
+Identity Data has_component date of birth
+Contact Data has_component current address
+Contact Data has_component email address
+Contact Data has_component telephone number
+Financial Data has_component bank account
+Financial Data has_component payment card details
+Transaction Data contains payments to and from you
+Transaction Data contains details of products and services you have purchased from us
+Technical Data contains IP address
+Web beacons provides IP address
+Technical Data contains visitor login data
+Technical Data contains browser type and version
+Technical Data contains time zone setting
+Technical Data contains location
+Technical Data contains browser plug-in types and versions
+Technical Data contains operating system and platform
+Technical Data contains device ID
+Technical Data contains other technology on the devices visitor uses to access our site
+Profile Data contains visitor username and password
+Profile Data contains purchases or orders
+Profile Data contains interests
+Profile Data contains preferences
+Profile Data contains feedback
+Profile Data contains survey responses
+Usage Data contains Site Usage Information
+Marketing and Communications Data contains Marketing Preferences
+Aggregated Data contains Statistical Data
+Aggregated Data contains Demographic Data
+Irys Network has_component Programmable Datachain
+Irys Network provides High-Performance Composable Utilities
+Irys Network has_component instructions
+Irys Network enables developers
+onchain services uses data
+multi-ledger system contains data
+datachains contains data
+Irys Network enables Onchain data
+Irys integrates_with Irys data layer
+Irys has_component Storage
+Irys has_component Execution
+Irys offers Stable pricing models
+Irys Network enables Smart contracts
+Embedded instructions in data enables Smart contracts
+IrysVM supports Smart contracts
+IrysVM integrates_with Smart contracts
+Embedded instructions in data enables Transactions execution
+Embedded instructions in data enables AI workflows automation
+Embedded instructions in data enables Ownership enforcement
+Embedded instructions in data enables Smart contracts triggering
+IRYS has_component Terms of Use
+Irys created_by BN Labs Ltd
+Privacy Policy provides Data processing terms
+Irys Network connects_to irys.xyz
+irys.xyz contains Cookie Policy (irys.xyz/cookies)
+Cookie Policy (irys.xyz/cookies) contains Cookies and similar technologies used on this site
+User identification/access details and login details uses Security procedures
+Irys Network has_component User identification/access details
+Irys Network has_component User login details
+Irys Network provides Under-18 age restriction
+Irys Network provides Compliance notification process
+Irys provides Cookies Policy
+Cookies Policy contains Introduction
+Cookies Policy contains What are Cookies and Similar Technologies?
+Cookies Policy contains Why Do We Use Cookies and Similar Technologies?
+Cookies Policy contains Cookies That We Use
+Cookies Policy contains Third Parties
+Cookies Policy contains Your Privacy
+Cookies Policy contains Options
+Cookies Policy contains Cookies
+Cookies Policy contains Similar Technologies
+Cookies uses Web beacons
+Cookies uses Local storage
+Browser manages Local storage
+Cookies uses Session storage
+Web beacons provides URL
+Web beacons provides Time_date_viewed
+Web beacons provides Browser_details
+Web beacons provides Device_details
+Cookies enables Visitor_distinction
+Local storage contains Login credentials
+Local storage contains User preferences
+Local storage contains User-specific configurations
+Local storage contains User-generated form data
+Local storage contains Analytics and performance data
+Session storage contains Temporary session identifiers
+Session storage contains Form inputs
+Session storage contains Navigation history
+Session storage contains Session-specific features or actions information
+Irys Network has_component Wallets
+Irys Network has_component Bridges
+Irys Network has_component Block Explorers
+Irys Network has_component Dashboards
+Irys Network has_component Analytics
+Irys Network has_component Developer Resources
+Irys Network has_component SDKs
+Irys Network has_component Transaction Tools
+Irys Network has_component Education Resources
+Irys Network has_component Related Services
+Irys Network has_component Sales
+Irys Network has_component Events
+Targeting has_component _ga
+Google manages _ga
+Website contains _ga
+Google manages _gat_gtgag_UA
+Google Analytics has_component _gat_gtgag_UA
+Google manages _gid
+Google Analytics has_component _gid
+Irys Network uses Google Analytics
+Irys provides Build Docs
+Irys provides Learn Docs
+Irys has_component Irys Academy
+Irys Academy uses Blockchain tech
+Irys has_component Irys VM
+Irys has_component Hybrid Consensus Model
+Irys uses_consensus Hybrid Consensus Model
+Irys Network has_component Submit Ledger
+Irys Network uses Submit Ledger
+Irys uses_ledger Submit Ledger
+Programmable Data validated_by Submit Ledger
+Irys Network has_component Publish Ledger
+Submit Ledger connects_to Publish Ledger
+Irys uses_ledger Publish Ledger
+Programmable Data stored_in Publish Ledger
+Irys Network uses EVM
+Irys Network enables AI agents
+Irys Network enables Ownership
+Irys Network enables Licensing
+Irys Network enables AI-driven automation
+Term-based ledgers enables custom storage durations
+Irys Network has_component IrysVM
+Irys Network connects_to IrysVM
+Irys contains IrysVM
+Data Layer connects_to IrysVM
+Irys has_component IrysVM
+IrysVM enables AI models
+IrysVM enables inference proofs
+IrysVM enables programmable datasets
+Smart contracts enables enforcement of rules on stored programmable data
+Irys Network uses Hybrid consensus model
+Miners participates_in Hybrid consensus model
+Hybrid consensus model uses Proof of Work (PoW)
+Hybrid consensus model uses Staking
+Miners uses Staking
+Irys Network enables Verifiable storage
+Economic incentive model supports Verifiable storage
+Irys Network enables onchain data storage
+Miners participates_in onchain data storage
+datachain enables onchain data storage
+datachain provides economical onchain storage
+datachain enables ecosystem
+Irys Network offers Programmable Data
+Permanent Ledger enables Programmable Data
+IrysVM enables Programmable Data
+Irys Network offers Price
+Irys Network offers total data transactions
+Irys Network offers Total Active Addresses
+Network Overview contains Protocol Overview
+Irys Consensus Overview has_component Protocol Overview
+Irys provides Programmable datachain
+Irys Network uses Ledgers
+Irys Network has_component multi-ledger system
+Irys has_component multi-ledger system
+data participates_in probation period
+data uses upload criteria
+Publish Ledger provides Long-term, verifiable storage
+Irys Network uses Permanent Ledger
+Ingress proofs enables Permanent Ledger
+Miners participates_in Ingress proofs
+multi-ledger system contains purpose-specific ledgers
+Irys uses Matrix Packing
+Miners uses Matrix Packing
+Partition ID enables Matrix Packing
+Irys uses capacity partitions
+Matrix Packing integrates_with capacity partitions
+capacity partitions enables onboarding of storage resources ahead of demand
+onboarding of storage resources ahead of demand uses storage resources
+Irys Network offers Term ledgers with defined durations
+Submit Ledger provides Temporary holding area for new data
+Publish Ledger provides Secure, permanent storage for data requiring long-term reliability
+Irys Network uses Pricing model anchored to physical cost of data storage
+Irys Network uses Usage-based pricing
+IrysVM provides Ethereum Virtual Machine
+IrysVM integrates_with Data storage
+IrysVM enables Irys data ledgers
+IrysVM enables Programmable data properties
+Developers enables Programmable data properties
+Programmable data properties enables Ownership rights
+Programmable data properties enables Royalties
+Programmable data properties enables Access permissions
+Programmable data properties enables Data verification
+Programmable data properties enables Predefined instructions execution
+IrysVM enables Separate processing lanes for storage and smart contract transactions
+Irys Network provides Predictable transaction costs
+Irys Network provides Scalability over time
+Irys provides Irys Consensus Overview
+Irys Consensus Overview has_component ONCHAIN STORAGE PROGRAMMABILITY
+Irys Consensus Overview has_component Step 1: Staking and Pledging
+Irys Consensus Overview has_component Step 2: Data Storage Commitment
+Irys Consensus Overview has_component Step 3: Useful Proof of Work
+Irys Consensus Overview has_component Step 4: Reward Distribution
+Irys Consensus Overview has_component Reliable Long-Term Data
+Irys Consensus Overview has_component Economic Accountability
+Irys Consensus Overview has_component Purpose-Driven Mining
+Irys Consensus Overview has_component Supporting Network Growth
+Irys Network has_component consensus mechanism (uPoW + staking)
+consensus mechanism (uPoW + staking) uses useful Proof of Work (uPoW)
+Irys Network provides Mining rewards
+Periodic validation checks enables Mining rewards
+staking enables financial penalties
+Irys Network provides Irys consensus model
+Miners has_component 16TB partitions
+Mining rewards connects_to 16TB partitions
+Irys Network provides Periodic validation checks
+Miners uses $IRYS
+Miners has_component Stake
+Useful Proof of Work enables storage integrity verification
+Irys Network integrates_with Mining on Irys
+block production connects_to storage validation
+hybrid model integrates_with uPoW
+Irys Network has_component consensus mechanism
+Irys Network provides stable block rewards
+Irys Network provides predictable costs
+Irys Network provides system that grows with increasing storage needs
+Miners uses IRYS Token
+Irys issues_token IRYS Token
+Miners participates_in 16TB partitions of data
+16TB partitions of data connects_to Mining Address
+Partition ID created_by Irys Protocol
+Irys has_component Irys SDK
+Uploading Data contains Uploading a File
+Uploading Data contains Uploading a Folder
+Uploading Data contains 3rd-Party Build Tools
+ETH payment code example uses ETH
+Irys Network supports Supported tokens
+Irys Network provides gateway.irys.xyz
+Irys Network enables Upload a group of files as a single transaction
+gateway.irys.xyz provides Direct access URLs
+programmable_data uses smart_contracts
+Irys Network provides Onchain execution
+Data networks has_component Native execution layer
+Irys Network enables disable user identification/access details and/or user login details
+Irys Network provides Terms of use
+IrysVM integrates_with onchain data
+consensus mechanism (uPoW + staking) uses staking
+hybrid model integrates_with staking
+Data on Irys connects_to Smart Contracts
+Irys in_phase Testnet
+Evolution System depends_on Testnet
+OKX Wallet connects_to Testnet
+Irys supports_apps Ecosystem / dApps
+Irys provides_tools Developer Tools
+Irys has_portal Irys Portal
+Irys Portal contains QuestLand
+QuestLand rewards_points_on Galxe
+Rank displayed_on Galxe
+Irys has_community Discord
+Irys supports_contributions_on Discord
+Irys supports_contributions_on X
+X ranked_by Kaito Leaderboard
+Testnet hosts_game Snake
+Testnet hosts_game Spritetype
+Snake tracked_by Irys Games Checker
+Spritetype tracked_by Irys Games Checker
+Testnet uses Faucet
+Discord has_channel Writers Channel
+Discord has_channel Creators Channel
+Discord has_role Deshi
+Shugo higher_than Deshi
+Discord has_role Shugo
+Senshi higher_than Shugo
+Discord has_role Senshi
+Shihan higher_than Senshi
+Discord has_role Shihan
+Writers Channel accepts Contribution
+Creators Channel accepts Contribution
+X generates Contribution
+Contribution affects Rank
+Kaito Leaderboard measures Rank
+Rank influences Reward
+Bitomo NFT qualifies_for Reward
+Bitomo Portal hosts Genesis Hunt
+Genesis Hunt partnered_with OKX Wallet
+Genesis Hunt uses Bitomo NFT
+Genesis Hunt awards_whitelist_for Irys Genesis NFT
+Bitomo Portal contains Daily Quests
+Daily Quests drives Evolution System
+Bitomo NFT evolves_with Evolution System
+Evolution System powered_by Mutable References

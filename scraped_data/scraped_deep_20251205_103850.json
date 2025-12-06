@@ -1,0 +1,1983 @@
+[
+  {
+    "url": "https://irys.xyz",
+    "normalized_url": "https://irys.xyz",
+    "timestamp": "2025-12-05T10:38:22.171050",
+    "title": "The First Programmable Datachain for AI & Beyond",
+    "headings": [
+      {
+        "level": 1,
+        "text": "$3 Trillion in Data UndiscoveredUntil Now"
+      },
+      {
+        "level": 2,
+        "text": "Purpose Built to SCALE,WithoutLimits"
+      },
+      {
+        "level": 2,
+        "text": "Backed by"
+      },
+      {
+        "level": 2,
+        "text": "the best"
+      },
+      {
+        "level": 3,
+        "text": "Welcome to"
+      },
+      {
+        "level": 3,
+        "text": "HighPerformance"
+      },
+      {
+        "level": 3,
+        "text": "ComposableUtilities"
+      },
+      {
+        "level": 3,
+        "text": "CostEfficient"
+      },
+      {
+        "level": 3,
+        "text": "ProgrammableData"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [
+      "Other data networks  only store data",
+      "but faster, cheaper, and with a  native execution layer that",
+      "makes data programmable",
+      "can be embedded with instructions  retrieved instantly and  shared across applications",
+      "Enabling developers to build onchain services that",
+      "leverage each other's data to",
+      "All at a fraction of the cost of",
+      "traditional solutions",
+      "Onchain data should move faster, cost less, and do more. Irys makes that possible. Cheaper retrieval costs unlock programmable data and enable onchain services that weren’t possible before.",
+      "Irys is a network of utilities where storage and execution enable onchain services to work together—permissionlessly. Projects can launch new utilities on Irys, while entire ecosystems can integrate with our data layer—creating a shared foundation for AI and beyond.",
+      "Storage shouldn't come with unpredictable costs. Irys is cheaper than both Web2 cloud storage and Web3 alternatives, with stable pricing models that eliminate fluctuating fees. Lower costs mean more powerful applications, better margins, and more room to scale.",
+      "Developers can embed instructions directly into data, enabling it to execute transactions, automate AI workflows, enforce ownership, trigger smart contracts, and more. Any rule, any function, any action—embedded directly into data and enforced onchain."
+    ],
+    "links": [
+      "https://irys.xyz/",
+      "https://irys.xyz/core-features",
+      "https://irys.xyz/privacy",
+      "https://irys.xyz/connect-hub",
+      "https://irys.xyz/learn-hub",
+      "https://irys.xyz/ecosystem",
+      "https://irys.xyz/faucet",
+      "https://irys.xyz/cookies",
+      "https://irys.xyz/terms",
+      "https://explorer.irys.xyz"
+    ],
+    "metadata": {
+      "description": "High-performance datachain unifying data storage and native smart contract execution.",
+      "og:title": "The First Programmable Datachain for AI & Beyond",
+      "og:description": "High-performance datachain unifying data storage and native smart contract execution.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz",
+    "normalized_url": "https://docs.irys.xyz",
+    "timestamp": "2025-12-05T10:38:23.606720",
+    "title": "Irys | What a Datachain Is",
+    "headings": [
+      {
+        "level": 1,
+        "text": "What a Datachain Is"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      }
+    ],
+    "paragraphs": [
+      "A datachain is a blockchain designed for one task: storing data. Unlike blockchains optimized only for executing smart contracts—where storage is exceptionally expensive—datachains focus on keeping data onchain affordably. They make it possible to store large quantities of data without the excessive costs associated with typical execution-heavy blockchains like Ethereum or Solana.",
+      "The early datachains solved one clear problem: the need for economical onchain storage. But while they excelled at storing information, they stopped there. A stored piece of data remains just that—stored. It isn’t part of any system where it can react, interact, or fuel other applications.",
+      "The next step is making stored data useful and versatile, capable of driving an ecosystem."
+    ],
+    "links": [
+      "https://docs.irys.xyz/",
+      "https://explorer.irys.xyz"
+    ],
+    "metadata": {
+      "og:title": "Irys | What a Datachain Is",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://irys.xyz/",
+    "normalized_url": "https://irys.xyz/",
+    "timestamp": "2025-12-05T10:38:25.039111",
+    "title": "The First Programmable Datachain for AI & Beyond",
+    "headings": [
+      {
+        "level": 1,
+        "text": "$3 Trillion in Data UndiscoveredUntil Now"
+      },
+      {
+        "level": 2,
+        "text": "Purpose Built to SCALE,WithoutLimits"
+      },
+      {
+        "level": 2,
+        "text": "Backed by"
+      },
+      {
+        "level": 2,
+        "text": "the best"
+      },
+      {
+        "level": 3,
+        "text": "Welcome to"
+      },
+      {
+        "level": 3,
+        "text": "HighPerformance"
+      },
+      {
+        "level": 3,
+        "text": "ComposableUtilities"
+      },
+      {
+        "level": 3,
+        "text": "CostEfficient"
+      },
+      {
+        "level": 3,
+        "text": "ProgrammableData"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [
+      "Other data networks  only store data",
+      "but faster, cheaper, and with a  native execution layer that",
+      "makes data programmable",
+      "can be embedded with instructions  retrieved instantly and  shared across applications",
+      "Enabling developers to build onchain services that",
+      "leverage each other's data to",
+      "All at a fraction of the cost of",
+      "traditional solutions",
+      "Onchain data should move faster, cost less, and do more. Irys makes that possible. Cheaper retrieval costs unlock programmable data and enable onchain services that weren’t possible before.",
+      "Irys is a network of utilities where storage and execution enable onchain services to work together—permissionlessly. Projects can launch new utilities on Irys, while entire ecosystems can integrate with our data layer—creating a shared foundation for AI and beyond.",
+      "Storage shouldn't come with unpredictable costs. Irys is cheaper than both Web2 cloud storage and Web3 alternatives, with stable pricing models that eliminate fluctuating fees. Lower costs mean more powerful applications, better margins, and more room to scale.",
+      "Developers can embed instructions directly into data, enabling it to execute transactions, automate AI workflows, enforce ownership, trigger smart contracts, and more. Any rule, any function, any action—embedded directly into data and enforced onchain."
+    ],
+    "links": [
+      "https://irys.xyz/",
+      "https://irys.xyz/core-features",
+      "https://irys.xyz/privacy",
+      "https://irys.xyz/connect-hub",
+      "https://irys.xyz/learn-hub",
+      "https://irys.xyz/ecosystem",
+      "https://irys.xyz/faucet",
+      "https://irys.xyz/cookies",
+      "https://irys.xyz/terms",
+      "https://explorer.irys.xyz"
+    ],
+    "metadata": {
+      "description": "High-performance datachain unifying data storage and native smart contract execution.",
+      "og:title": "The First Programmable Datachain for AI & Beyond",
+      "og:description": "High-performance datachain unifying data storage and native smart contract execution.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://irys.xyz/core-features",
+    "normalized_url": "https://irys.xyz/core-features",
+    "timestamp": "2025-12-05T10:38:26.428535",
+    "title": "The Technology Behind Irys",
+    "headings": [
+      {
+        "level": 2,
+        "text": "powered by"
+      },
+      {
+        "level": 2,
+        "text": "Thedatachaindesignedto"
+      },
+      {
+        "level": 2,
+        "text": "Programmable Data"
+      },
+      {
+        "level": 2,
+        "text": "Multi-Ledger System"
+      },
+      {
+        "level": 2,
+        "text": "Irys VM"
+      },
+      {
+        "level": 2,
+        "text": "Hybrid Consensus Model"
+      },
+      {
+        "level": 2,
+        "text": "built for a world of"
+      },
+      {
+        "level": 2,
+        "text": "builders"
+      },
+      {
+        "level": 3,
+        "text": "handlethefuture"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [
+      "Irys is the first blockchain where data isn’t just stored—it’s programmable. Users can write logic directly onto data, allowing smart contracts and AI agents to interact with it natively onchain.",
+      "Data first enters the Submit Ledger for validation before being promoted to the Publish Ledger for long-term, verifiable storage. Additional term-based ledgers will allow for custom storage durations.",
+      "By combining low-cost storage with an upgraded EVM execution layer, Irys enables smart contracts to read, modify, and enforce rules on data. Ownership, licensing, and new kinds of AI-driven automation can now happen without external databases or oracles.",
+      "Data first enters the Submit Ledger for validation before being promoted to the Publish Ledger for long-term, verifiable storage. Additional term-based ledgers will allow for custom storage durations.",
+      "The IrysVM is a high-performance, EVM-compatible execution layer designed to work natively with onchain data. It allows direct interaction between data storage and computation in a single system.",
+      "Smart contracts deployed on IrysVM have the ability to enforce rules on stored programmable data. This means AI models, inference proofs, and programmable datasets can all be managed directly onchain.",
+      "Irys secures its network through a hybrid consensus model that combines useful Proof of Work and Staking. This approach ensures strong security, verifiable storage, and decentralization without compromising scalability.",
+      "Miners must stake resources to activate a mining address, preventing spam and ensuring commitment. PoW secures the network, while an economic incentive model keeps storage honest. By limiting how much power any single miner can control, Irys prevents centralization and ensures long-term reliability."
+    ],
+    "links": [
+      "https://irys.xyz/core-features",
+      "https://docs.irys.xyz/learn/why/why-irysvm",
+      "https://docs.irys.xyz/learn/why/why-programmable-data",
+      "https://irys.xyz/privacy",
+      "https://irys.xyz/connect-hub",
+      "https://irys.xyz/learn-hub",
+      "https://docs.irys.xyz/learn/protocol-overview/ledgers-overview",
+      "https://irys.xyz/ecosystem",
+      "https://docs.irys.xyz/learn/protocol-overview/irys-consensus-overview",
+      "https://irys.xyz/faucet",
+      "https://irys.xyz/cookies",
+      "https://irys.xyz/terms",
+      "https://docs.irys.xyz/build/d/quickstart",
+      "https://explorer.irys.xyz"
+    ],
+    "metadata": {
+      "description": "From programmable data to hybrid consensus, explore how Irys redefines storage, compute, and AI coordination.",
+      "og:title": "The Technology Behind Irys",
+      "og:description": "From programmable data to hybrid consensus, explore how Irys redefines storage, compute, and AI coordination.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://irys.xyz/privacy",
+    "normalized_url": "https://irys.xyz/privacy",
+    "timestamp": "2025-12-05T10:38:27.773577",
+    "title": "Irys Privacy Policy",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Privacy"
+      },
+      {
+        "level": 2,
+        "text": "Policy"
+      },
+      {
+        "level": 2,
+        "text": "What Personal Data  We Collect About You"
+      },
+      {
+        "level": 2,
+        "text": "Information  About Us"
+      },
+      {
+        "level": 2,
+        "text": "Our Contact  Details"
+      },
+      {
+        "level": 2,
+        "text": "How We Collect  Your Personal Data"
+      },
+      {
+        "level": 2,
+        "text": "How We Use  Your Personal Data"
+      },
+      {
+        "level": 2,
+        "text": "Marketing"
+      },
+      {
+        "level": 2,
+        "text": "Automated  Decision Making"
+      },
+      {
+        "level": 2,
+        "text": "How We May Share  Your Personal Data"
+      },
+      {
+        "level": 2,
+        "text": "International  Transfers"
+      },
+      {
+        "level": 2,
+        "text": "Data Security"
+      },
+      {
+        "level": 2,
+        "text": "Data Retention"
+      },
+      {
+        "level": 2,
+        "text": "Your Legal Rights"
+      },
+      {
+        "level": 2,
+        "text": "Complaints"
+      },
+      {
+        "level": 2,
+        "text": "Third Party Links"
+      },
+      {
+        "level": 2,
+        "text": "Changes to This  Privacy Policy"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [
+      "Personal data or personal information means any information about you that enables you to be identified personally.",
+      "Personal data covers obvious information such as your name and contact details, but it also covers less obvious information such as identification numbers, electronic location data and other online identifiers that can be linked with such information in order to identify you. It does not include data where the identity has been removed (anonymous data).",
+      "Depending on the use you make of our site or services, we may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:",
+      "Identity Data includes first name, last name, username or similar identifier, title, and date of birth.",
+      "Contact Data includes current address, email address and telephone number.",
+      "Financial Data includes bank account and payment card details.",
+      "Transaction Data includes details about payments to and from you and other details of products and services you have purchased from us.",
+      "Technical Data includes internet protocol (IP) address, visitor login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, device ID and other technology on the devices visitor uses to access our site.",
+      "Profile Data includes visitor username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.",
+      "Usage Data includes information about how visitor interacts with and use the site, products and services.",
+      "Marketing and Communications Data includes visitor preferences in receiving marketing from us and our third parties and their communication preferences.",
+      "We may also collect, use and share aggregated data such as statistical or demographic data for any purpose. Aggregated Data could be derived from your personal data but is not considered personal data in law and will not directly or indirectly reveal your identity. For example, we may aggregate your usage information to calculate the percentage of users accessing a specific feature of our site. However, if we combine aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Privacy Policy.",
+      "This site is owned and operated by BN Labs Ltd, a company registered in England and Wales with company number 14211627, whose registered office is at 101 New Cavendish Street, 1st Floor South, London, United Kingdom, W1W 6XH (“BN Labs”, “we”, “us”, or “our”). We are the controller and are responsible for this site.",
+      "We are responsible for your personal data, except where we process your personal data because you use our services as a result of your relationship with a client who we supply our services to (for example, if you use our services as a result of your being our client's employee or client).",
+      "Where we process your personal data because you use our services as a result of your relationship with a client who we supply our services to, we are not the data controller as we would be processing personal data on behalf of our client as a data processor.",
+      "Where we are processing your personal data on behalf of our client, the privacy policy that you should be referring to would be our client's privacy policy. Our client's privacy policy should inform you as to how your personal data will be processed.",
+      "We are bound by applicable data protection laws in respect of the handling and collection of your personal data.",
+      "If you have any questions about this privacy policy or our privacy practices, including any request to exercise your legal rights, please contact us by any of the following means:",
+      "Email address: compliance@irys.xyz",
+      "Postal address: 101 New Cavendish Street, 1st Floor South, London, United Kingdom, W1W 6XH",
+      "We use different methods to collect data from and about you including through:",
+      "Direct interactions with us. You may give us your personal data by: filling in online forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:",
+      "• apply for our products or services;",
+      "• create an account on our website;",
+      "• subscribe to our service or publications;",
+      "• request marketing to be sent to you;",
+      "• enter a competition, promotion or survey; or",
+      "• give us feedback or contact us.",
+      "Automated technologies or interactions. As you interact with our site, we will automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies. Please see our cookie policy https://irys.xyz/cookies for further details.",
+      "Third parties or publicly available sources. We may receive personal data about you from various third parties and public sources, including but not limited to the following:",
+      "• Technical Data is collected from analytics providers such as Google which is based outside the UK",
+      "• Contact, Financial and Transaction Data is collected from providers of technical, payment and delivery services",
+      "• Identity and Contact Data is collected from data brokers or aggregators",
+      "• Identity and Contact Data is collected from publicly available sources such as social media accounts, Companies House and the Electoral Register based inside the UK",
+      "The law requires us to have a legal basis for collecting and using your personal data. We rely on one or more of the following legal bases:",
+      "Performance of a contract with you: Where we need to perform the contract we are about to enter into or have entered into with you.",
+      "Legitimate interests: We may use your personal data where it is necessary to conduct our business and pursue our legitimate interests, for example to prevent fraud and enable us to give you the best and most secure customer experience.",
+      "Legal obligation: We may use your personal data where it is necessary for compliance with a legal obligation that we are subject to.",
+      "Consent: We rely on consent only where we have obtained your active agreement to use your personal data for a specified purpose.",
+      "We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose.",
+      "Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.",
+      "We may send you marketing communications by email, text message, telephone, or email. We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.",
+      "We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which of our business offerings may be relevant to you.",
+      "We will get in your express opt-in consent before we share personal data with any third party for marketing purposes.",
+      "Opting out of marketing:",
+      "You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links within any marketing communication sent to you or by contacting us by email.",
+      "Where you opt out of receiving these marketing messages, you will still receive service-related communications that are essential for administrative or customer service purposes.",
+      "If you choose to object to the communications, unsubscribe or withdraw your consent, this will not make our processing of your personal data before you withdrew your consent unlawful.",
+      "Automated decisions are made by technological means, mostly based on algorithms subject to predefined criteria. Such automated decision-making, taken solely by technological means without any human intervention, may have legal effects or similarly significant effects on you.",
+      "We do not make any automated decisions.",
+      "We may share your personal data where necessary with the parties set out below for the purposes set out in the table above.",
+      "External third parties such as:",
+      "• Professional advisors including lawyers, bankers, auditors, and insurers",
+      "• HM Revenues & Customs, regulators, and other authorities",
+      "• Service providers and subcontractors/sub-processors such as Google Analytics",
+      "Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.",
+      "We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.",
+      "Your personal data are processed mainly within the UK.",
+      "Whenever our relations with partners, our subcontractors or third parties (such as those who provide us with support services) involve cross-border exchanges of your personal data outside the UK, we ensure a similar degree of protection is afforded to your personal data by ensuring that at least one of the following safeguards is implemented:",
+      "We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the UK.",
+      "If we transfer your personal data to any other country which is not subject to an adequacy decision of the UK regarding an adequate level of protection of personal data, we will ensure that there is a legal basis and, if required, a relevant safeguard method for such data transfer so that your personal data are treated in a manner that is consistent with, and respects the applicable laws and regulations on data protection in the UK (as applicable).",
+      "Where we use certain service providers, we may use specific contracts approved by the UK which give personal data the same protection it has in the UK.",
+      "In any event, you agree to your personal data being processed under these conditions, outside the UK.",
+      "We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used, or accessed in an unauthorised way, altered or disclosed.",
+      "In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions, and they are subject to a duty of confidentiality.",
+      "We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.",
+      "We will only retain your personal data for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements.",
+      "We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.",
+      "To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.",
+      "In some circumstances you can ask us to delete your data (see your legal rights below).",
+      "In some circumstances we will anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.",
+      "Otherwise, we securely erase or anonymise your personal data where we no longer require your information for the purposes collected.",
+      "Under UK data protection laws, you have a number of rights (subject to certain conditions) when it comes to your personal data. Your legal rights include:",
+      "Request access to your personal data (commonly known as a data subject access request). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.",
+      "Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected.",
+      "Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it.",
+      "Object to processing of your personal data where we are relying on a legitimate interest and there is something about your particular situation which makes you want to object to processing on this ground.",
+      "Request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in certain scenarios.",
+      "Request the transfer of your personal data to you or to a third party in a structured, commonly used, machine-readable format.",
+      "Withdraw consent at any time where we are relying on consent to process your personal data.",
+      "You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive.",
+      "We try to respond to all legitimate requests within 1 month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.",
+      "You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.",
+      "Our site may include links to third party websites, plug-ins, and applications. Clicking on third-party links or enabling third-party connections may allow third parties to collect or share data about you. Third-party sites are not under our control, and we are not responsible for its content. When you leave our site, we encourage you to read the privacy policy of every website you visit.",
+      "We keep this Privacy Policy under regular review and may update it from time to time. We reserve the right to make amendments to our Privacy Policy at any time. Historic versions can be obtained by contacting us.",
+      "Any changes we may make to this Privacy Policy will be posted on our website and, where appropriate, notified to you.",
+      "Unless otherwise provided in this Privacy Policy, it is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us."
+    ],
+    "links": [
+      "https://irys.xyz/privacy",
+      "https://irys.xyz/connect-hub",
+      "https://irys.xyz/learn-hub",
+      "https://irys.xyz/ecosystem",
+      "https://irys.xyz/faucet",
+      "https://irys.xyz/cookies",
+      "https://irys.xyz/terms",
+      "https://explorer.irys.xyz"
+    ],
+    "metadata": {
+      "description": "The legal framework governing your use of Irys’s website, services, branding and blockchain ecosystem.",
+      "og:title": "Irys Privacy Policy",
+      "og:description": "The legal framework governing your use of Irys’s website, services, branding and blockchain ecosystem.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://irys.xyz/connect-hub",
+    "normalized_url": "https://irys.xyz/connect-hub",
+    "timestamp": "2025-12-05T10:38:29.138212",
+    "title": "Connect With the Irys Ecosystem",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Where the magic"
+      },
+      {
+        "level": 2,
+        "text": "happens"
+      },
+      {
+        "level": 2,
+        "text": "Engage with the Irys community, explore job opportunities."
+      },
+      {
+        "level": 2,
+        "text": "LET'S GET"
+      },
+      {
+        "level": 2,
+        "text": "SOCIAL"
+      },
+      {
+        "level": 2,
+        "text": "Bring Everything you know"
+      },
+      {
+        "level": 2,
+        "text": "To nothing you've seen before."
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [],
+    "links": [
+      "https://irys.xyz/connect-hub",
+      "https://irys.xyz/learn-hub",
+      "https://irys.xyz/ecosystem",
+      "https://irys.xyz/faucet",
+      "https://irys.xyz/cookies",
+      "https://irys.xyz/terms",
+      "https://explorer.irys.xyz"
+    ],
+    "metadata": {
+      "description": "Join the Irys community, follow updates, and connect with our team.",
+      "og:title": "Connect With the Irys Ecosystem",
+      "og:description": "Join the Irys community, follow updates, and connect with our team.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://irys.xyz/learn-hub",
+    "normalized_url": "https://irys.xyz/learn-hub",
+    "timestamp": "2025-12-05T10:38:30.482424",
+    "title": "Learn Hub | Irys",
+    "headings": [
+      {
+        "level": 2,
+        "text": "acquire everything"
+      },
+      {
+        "level": 2,
+        "text": "The ultimate resource center to learn all you need to know."
+      },
+      {
+        "level": 2,
+        "text": "Begin"
+      },
+      {
+        "level": 2,
+        "text": "Building"
+      },
+      {
+        "level": 2,
+        "text": "Learn the"
+      },
+      {
+        "level": 2,
+        "text": "Essentials"
+      },
+      {
+        "level": 2,
+        "text": "Powered by"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [
+      "If you’re ready to build on Irys, hit 'Build Docs' to access everything you need to get started. If you want to explore what Irys is, what it isn’t, and how it works, check out 'Learn Docs'.",
+      "Irys Academy guides you through the basics of programmable data, blockchain tech, and Irys. Whether you’re new to blockchain or want a deeper understanding of how Irys works, our structured interactive lessons make learning fun.",
+      "Real-world use cases of Irys’s technology."
+    ],
+    "links": [
+      "https://explorer.irys.xyz",
+      "https://irys.xyz/learn-hub",
+      "https://irys.xyz/ecosystem",
+      "https://irys.xyz/faucet",
+      "https://irys.xyz/cookies",
+      "https://irys.xyz/terms",
+      "https://docs.irys.xyz/learn/what/what-irys-is",
+      "https://docs.irys.xyz/learn/what/what-a-datachain-is"
+    ],
+    "metadata": {
+      "description": "Learn Hub",
+      "og:title": "Learn Hub | Irys",
+      "og:description": "Learn Hub",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://irys.xyz/faucet",
+    "normalized_url": "https://irys.xyz/faucet",
+    "timestamp": "2025-12-05T10:38:33.147283",
+    "title": "Irys Testnet Faucet | Get Free Testnet Tokens",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Faucet"
+      },
+      {
+        "level": 2,
+        "text": "Instructions"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [],
+    "links": [
+      "https://irys.xyz/faucet",
+      "https://irys.xyz/cookies",
+      "https://explorer.irys.xyz",
+      "https://irys.xyz/terms"
+    ],
+    "metadata": {
+      "description": "Claim free testnet $IRYS to start building on Irys. Whether you’re testing EVM smart contracts, running AI agents, or experimenting with programmable data, this faucet gives you the tokens you need to interact with the network.",
+      "og:title": "Irys Testnet Faucet | Get Free Testnet Tokens",
+      "og:description": "Claim free testnet $IRYS to start building on Irys. Whether you’re testing EVM smart contracts, running AI agents, or experimenting with programmable data, this faucet gives you the tokens you need to interact with the network.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://irys.xyz/cookies",
+    "normalized_url": "https://irys.xyz/cookies",
+    "timestamp": "2025-12-05T10:38:34.514528",
+    "title": "Irys Cookies Policy",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Cookies"
+      },
+      {
+        "level": 2,
+        "text": "Policy"
+      },
+      {
+        "level": 2,
+        "text": "Introduction"
+      },
+      {
+        "level": 2,
+        "text": "What are Cookies and  Similar Technologies?"
+      },
+      {
+        "level": 2,
+        "text": "Why Do We Use Cookies and  Similar Technologies?"
+      },
+      {
+        "level": 2,
+        "text": "Cookies That  We Use"
+      },
+      {
+        "level": 2,
+        "text": "Third Parties"
+      },
+      {
+        "level": 2,
+        "text": "Your Privacy  Options"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [
+      "We use cookies and similar technologies (web beacons, local storage, and session storage) to collect information as you navigate our websites, use our services or interact with emails we send you. These technologies help us provide you with a better experience and to enable us to operate and support our services.",
+      "Cookies are small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. We use these to distinguish you from other visitors to our website, to enable you to move around our website and use their features, to understand how our website is used by visitors.",
+      "Web beacons (also known as pixel tags/pixels) are small images or text (usually invisible) on a web page or an email. We use these to collect information such as your IP address, the time and date when content was viewed, the Uniform Resource Locator (URL) of the page where the web beacon is located, and details about the browser and device used.",
+      "Local storage allows us to store data on your computer or mobile device indefinitely until you manually delete it or your browser clears it through settings or storage limits. We use data from local storage to manage user preferences or settings, login credentials (often in a hashed or encrypted form), user-specific configurations for a personalized experience, user-generated form data, and analytics and performance data.",
+      "Session storage is used to store data only for the duration of the session and they expire when the session ends. We use these to manage temporary data needed within the same session, such as temporary session identifiers, data necessary to maintain the state of a user's interaction within a single session (such as form inputs or navigation history), and information related to session-specific features or actions.",
+      "Cookies, web beacons, local storage and session storage are used across the following categories:",
+      "Strictly necessary: These are required for the operation of our website and they are always enabled because our website will not work properly without them. They include, for example, cookies that enable you to interact with our platform, access wallets, bridges, block explorers, dashboards, and analytics, interact with developer resources, SDKs, transaction tools, navigate through education resources, and utilize any related services, sales, marketing or events across our websites including irys.xyz and related sites.",
+      "Analytical or performance: These allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that visitors to our website are finding what they are looking for easily.",
+      "Functionality: These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).",
+      "Targeting: These record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests.",
+      "The following are the most commonly used cookies on our website:",
+      "Name: _gaCategory: Analytics/PerformanceController: GooglePurpose: To distinguish one visitor from another.Duration: 2 years",
+      "Name: _gat_gtgag_UACategory: Analytics/PerformanceController: GooglePurpose: To store unique user ID for statistics.Duration: 1 minute",
+      "Name: _gidCategory: Analytics/PerformanceController: GooglePurpose: To store and count pageviews for statistics.Duration: 24 hours",
+      "We work with Google Analytics to distinguish visitors and for site usage statistics. See Google Analytics for more information here: https://policies.google.com/technologies/cookies.",
+      "Please note that where our website integrates social media features, any resulting cookies are controlled by those social media platforms, not by us. Therefore, we have no control over these cookies. These social media platforms may have their own cookie policies on their websites which you should carefully review.",
+      "You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. However, if you disable or refuse cookies, please note that some parts of our website may become inaccessible or not function properly.",
+      "To opt out of being tracked by Google Analytics across all websites, visit http://tools.google.com/dlpage/gaoptout.",
+      "If you have any questions or concerns about our use of cookies, please send us an email at compliance@irys.xyz."
+    ],
+    "links": [
+      "https://irys.xyz/cookies",
+      "https://explorer.irys.xyz",
+      "https://irys.xyz/terms"
+    ],
+    "metadata": {
+      "description": "Learn how Irys uses cookies and similar technologies to enhance your experience on our website.",
+      "og:title": "Irys Cookies Policy",
+      "og:description": "Learn how Irys uses cookies and similar technologies to enhance your experience on our website.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://irys.xyz/terms",
+    "normalized_url": "https://irys.xyz/terms",
+    "timestamp": "2025-12-05T10:38:35.855059",
+    "title": "Irys Terms of Use",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Terms"
+      },
+      {
+        "level": 2,
+        "text": "of Use"
+      },
+      {
+        "level": 2,
+        "text": "Introduction"
+      },
+      {
+        "level": 2,
+        "text": "Secure Your  Account Details"
+      },
+      {
+        "level": 2,
+        "text": "Children"
+      },
+      {
+        "level": 2,
+        "text": "Use of Site"
+      },
+      {
+        "level": 2,
+        "text": "Content  Standards"
+      },
+      {
+        "level": 2,
+        "text": "No Text or Data Mining,  or Web Scraping"
+      },
+      {
+        "level": 2,
+        "text": "No Security or  Bug-Free Guarantee"
+      },
+      {
+        "level": 2,
+        "text": "Intellectual  Property Rights"
+      },
+      {
+        "level": 2,
+        "text": "Governing Law  and Jurisdiction"
+      },
+      {
+        "level": 2,
+        "text": "Changes to These  Terms or the Site"
+      },
+      {
+        "level": 2,
+        "text": "Contact Us"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [
+      "BN Labs Ltd trading as Irys, is a company registered in England and Wales with company number 14211627 and registered address at 101 New Cavendish Street, 1st Floor South, London, United Kingdom, W1W 6XH (“BN Labs”, “we”, “us”, or “our”).",
+      "These terms of use (together with the documents and additional terms referred to in it) tell you the rules for using this site when you visit it.",
+      "By using this site, you confirm that you accept these terms of use and that you agree to comply with them. If you do not agree to our terms, you must not use this site.",
+      "We recommend that you print a copy of these terms of use for future reference as they govern your use of this site",
+      "These terms of use refer to the following additional terms, which also apply to your use of this site:",
+      "Our Privacy Policy https://irys.xyz/privacy which sets out the terms on which we process any personal data we collect from you, or that you or a third party provide to us.",
+      "Our Cookie Policy https://irys.xyz/cookies which sets out information about the cookies and similar technologies used on this site.",
+      "This site is directed to people and/or entities in the United Kingdom. We do not represent that content available on or through this site is appropriate for use or available in other locations.",
+      "If you choose, or you are provided with, user identification/access details, user login details or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party.",
+      "We have the right to disable any user identification/access details and/or user login details whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.",
+      "If you know or suspect that anyone other than you, knows your user identification/access details and/or user login details you must promptly notify us at compliance@irys.xyz.",
+      "This site is not intended for and may not be used by people under the age of 18. If you are under the age of 18, you should stop using this site immediately.",
+      "You may use this site only for lawful purposes. You may not use this site (or assist an individual/entity in using this site):",
+      "In any way that breaches any applicable local, national or international law or regulation.",
+      "In any way that is unlawful or fraudulent, or has any unlawful or fraudulent purpose or effect.",
+      "For the purpose of harming or attempting to harm minors in any way.",
+      "To send, share, knowingly receive, upload, download, use or re-use any material which does not comply with our data content standards as set out in section 5 below.",
+      "To transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam).",
+      "To knowingly transmit any data, send or upload any material that contains viruses, trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation or appearance of our products/services, systems, or any other computer software or hardware.",
+      "To proxy, request or collect usernames or passwords, or any other piece of information as used by us or our users for security procedures.",
+      "To upload terrorist content.",
+      "not to reproduce, duplicate, copy or re-sell any part of this site in contravention of the provisions of these terms of use; and",
+      "not to access without authority, interfere with, damage or disrupt: any part of this site; any equipment or network on which this site is stored; any software used in the provision of this site; or any equipment or network or software owned or used by any third party.",
+      "Whenever you make use of a feature that allows you to create content directly on our site, post or upload or share content to our site, you must comply with these content standards, which must be complied with in spirit as well as to the letter.",
+      "We will determine, in our discretion, whether your content breaches the content standards.",
+      "The content you create, post, share, or upload on this site must not:",
+      "Be defamatory of any person.",
+      "Be obscene, offensive, hateful or inflammatory.",
+      "Promote sexually explicit material.",
+      "Promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.",
+      "Infringe any intellectual property rights, including, but not limited to copyright, database right or trade mark of any other person.",
+      "Be likely to deceive any person.",
+      "Breach any legal duty owed to a third party, such as a contractual duty or a duty of confidence.",
+      "Promote any illegal activity.",
+      "Be in contempt of court.",
+      "Be threatening, abuse or invade another's privacy, or cause annoyance, inconvenience or needless anxiety.",
+      "Be likely to harass, upset, embarrass, alarm or annoy any other person.",
+      "Impersonate any person, or misrepresent your identity or affiliation with any person.",
+      "Give the impression that your content emanates from BN Labs, if this is not the case.",
+      "Advocate, promote, incite any party to commit, or assist any unlawful or criminal act such as (by way of example only) copyright infringement or computer misuse.",
+      "Contain a statement which you know or believe, or have reasonable grounds for believing, that members of the public to whom the statement is, or is to be, published are likely to understand as a direct or indirect encouragement or other inducement to the commission, preparation or instigation of acts of terrorism.",
+      "You shall not conduct, facilitate, authorise or permit any text or data mining or web scraping in relation to this site or any services provided via, or in relation to, this site for any purpose, including the development, training, fine-tuning or validation of AI systems or models.",
+      "The provisions in this clause should be treated as an express reservation of our rights in this regard, including for the purposes of Article 4(3) of the Digital Copyright Directive ((EU) 2019/790).",
+      "You shall not use, and we do not consent to the use of, this site, or any data published by, or contained in, or accessible via, this site or any services provided via, or in relation to, this site for the purposes of developing, training, fine-tuning or validating any AI system or model or for any other purposes not explicitly set out in these terms of use.",
+      "This section will not apply insofar as (but only to the extent that) we are unable to exclude or limit text or data mining or web scraping activity by contract under the laws which are applicable to us.",
+      "We do not guarantee that this site will be secure or free from bugs or viruses.",
+      "You are responsible for configuring your information technology, computer programs and platform to access to this site. You should use your own virus protection software.",
+      "You must not misuse this site by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to this site, the server on which this site is stored or any server, computer or database connected to this site. You must not attack this site via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use this site will cease immediately.",
+      "We are the owner or the licensee of all intellectual property rights in this site, and in the material published on it. Those works are protected by copyright laws and treaties around the world. All such rights are reserved.",
+      "You may print off one copy, and may download extracts, of any page(s) from this site for your personal use and you may draw the attention of others within your organisation to content posted on this site.",
+      "You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.",
+      "Our status (and that of any identified contributors) as the authors of content on this site must always be acknowledged (except where the content is user-generated).",
+      "You must not use any part of the content on this site for commercial purposes without obtaining a licence to do so from us or our licensors.",
+      "If you print off, copy, download, share or repost any part of this site in breach of these terms of service, your right to use the Site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.",
+      "These terms of use and any difference or dispute or claim (including non-contractual differences or disputes or claims) arising out of or in connection with them or their performance, subject matter or formation shall be governed by and construed in accordance with the laws of England and Wales.",
+      "You and we both agree that the courts of England and Wales will have exclusive jurisdiction to settle any difference or dispute or claim (including non-contractual differences or disputes or claims) arising out of or in connection with these terms or their performance, subject matter or formation.",
+      "We amend these terms from time to time. Every time you wish to use this site, please check these terms of use to ensure you understand the terms that apply at that time.",
+      "We may update and change this site (including any content on this site) from time to time, to reflect changes in relevant laws and regulatory requirements, or make improvements or enhancements to them.",
+      "Questions, comments and requests regarding these terms of use, as well as requests for translated versions of these terms of use or any policies on our website, are welcome and should be by email to compliance@irys.xyz."
+    ],
+    "links": [
+      "https://explorer.irys.xyz",
+      "https://irys.xyz/terms"
+    ],
+    "metadata": {
+      "description": "The legal framework governing your use of Irys’s website, services, branding and blockchain ecosystem.",
+      "og:title": "Irys Terms of Use",
+      "og:description": "The legal framework governing your use of Irys’s website, services, branding and blockchain ecosystem.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    }
+  },
+  {
+    "url": "https://explorer.irys.xyz",
+    "normalized_url": "https://explorer.irys.xyz",
+    "timestamp": "2025-12-05T10:38:37.246210",
+    "title": "Irys Explorer",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Transactions"
+      },
+      {
+        "level": 2,
+        "text": "Explorer"
+      },
+      {
+        "level": 3,
+        "text": "Irys Statistics"
+      },
+      {
+        "level": 3,
+        "text": "Latest Blocks"
+      },
+      {
+        "level": 3,
+        "text": "Latest Transactions"
+      }
+    ],
+    "paragraphs": [
+      "Programmable Data Price"
+    ],
+    "links": [
+      "https://explorer.irys.xyz/",
+      "https://explorer.irys.xyz/analytics"
+    ],
+    "metadata": {
+      "description": "Irys Explorer",
+      "og:title": "Irys Explorer",
+      "og:description": "Irys Explorer",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://explorer.irys.xyz/opengraph-image.png?8092b034aa5ab732"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz/",
+    "normalized_url": "https://docs.irys.xyz/",
+    "timestamp": "2025-12-05T10:38:38.655014",
+    "title": "Irys | What a Datachain Is",
+    "headings": [
+      {
+        "level": 1,
+        "text": "What a Datachain Is"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      }
+    ],
+    "paragraphs": [
+      "A datachain is a blockchain designed for one task: storing data. Unlike blockchains optimized only for executing smart contracts—where storage is exceptionally expensive—datachains focus on keeping data onchain affordably. They make it possible to store large quantities of data without the excessive costs associated with typical execution-heavy blockchains like Ethereum or Solana.",
+      "The early datachains solved one clear problem: the need for economical onchain storage. But while they excelled at storing information, they stopped there. A stored piece of data remains just that—stored. It isn’t part of any system where it can react, interact, or fuel other applications.",
+      "The next step is making stored data useful and versatile, capable of driving an ecosystem."
+    ],
+    "links": [
+      "https://docs.irys.xyz/"
+    ],
+    "metadata": {
+      "og:title": "Irys | What a Datachain Is",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz/learn/why/why-irysvm",
+    "normalized_url": "https://docs.irys.xyz/learn/why/why-irysvm",
+    "timestamp": "2025-12-05T10:38:40.000787",
+    "title": "Irys | Why IrysVM",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Why IrysVM"
+      },
+      {
+        "level": 2,
+        "text": "What is IrysVM?"
+      },
+      {
+        "level": 2,
+        "text": "Why IrysVM Matters"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      }
+    ],
+    "paragraphs": [
+      "IrysVM is the virtual machine at the heart of Irys, built to make smart contracts and data work together efficiently and directly. While most blockchains treat data storage and smart contract execution as two separate functions, IrysVM integrates them under a single network. This lets smart contracts interact directly with data in ways that simply aren’t possible on other platforms.",
+      "IrysVM offers the same benefits as an Ethereum Virtual Machine, but with a unique advantage: it’s built for direct access to Irys’s data ledgers",
+      "The main advantage of IrysVM is that it allows developers to attach specific properties to data and have them be programmable, making it useful across applications without requiring that programability and data storage reside in separate protocols. In practical terms, this means data on Irys can carry out tasks like enforcing ownership rights, automating royalties, managing access permissions, verifying uploaded data, and effectively executing any pre-defined instructions within the smart contract.",
+      "For developers, it opens up a straightforward path to building applications where data is more than just stored information—it’s functional, adaptable, and cheap to work with.",
+      "Additionally, with IrysVM’s design, storage and smart contract transactions are kept on separate processing lanes. This prevents the typical competition for blockspace that can drive up costs on other blockchains. Developers gain predictable transaction costs and stability, even as storage needs increase, making it simpler to scale applications over time."
+    ],
+    "links": [],
+    "metadata": {
+      "og:title": "Irys | Why IrysVM",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz/learn/why/why-programmable-data",
+    "normalized_url": "https://docs.irys.xyz/learn/why/why-programmable-data",
+    "timestamp": "2025-12-05T10:38:41.340653",
+    "title": "Irys | Why Programmable Data",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Why Programmable Data"
+      },
+      {
+        "level": 2,
+        "text": "Why"
+      },
+      {
+        "level": 2,
+        "text": "Putting Data to Work"
+      },
+      {
+        "level": 2,
+        "text": "The Role of IrysVM"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      }
+    ],
+    "paragraphs": [
+      "In most datachains today, data is a static, passive entity. It’s collected, stored, and left to rest. Sure, these datachains are a significant improvement over storage on execution chains, but the data itself is stagnant. It doesn’t move, adapt, or do anything on its own.",
+      "But what if data could actually work for you? What if it could act, respond, and evolve through smart contracts that execute pre-defined logic?",
+      "That's what programmable data does.",
+      "On Irys, data is equipped with instructions, carrying specific properties and rules as it moves across applications. This means that data can actively execute ownership rights, enforce royalty structures, uphold encryption standards, or even carry interaction rules with other applications. Each piece of data on Irys has the potential to carry these embedded properties—and much, much more.",
+      "This isn’t just data sitting around. It’s data with a job to do, carrying its purpose within it and executing that purpose as it interacts with smart contracts and applications across an ecosystem.",
+      "What makes this kind of programmable data possible on Irys? It’s the native pathway between the data layer and IrysVM, allowing instructions to be executed directly onchain at a fraction of the typical cost. Unlike traditional execution chains where fragmentation and offchain solutions drive up costs, Irys provides a fully integrated, affordable approach. Everything happens onchain, reducing the headaches of working with data on first-generation datachains, while also opening new possibilities for applications and use cases that would otherwise be prohibitively expensive to build."
+    ],
+    "links": [],
+    "metadata": {
+      "og:title": "Irys | Why Programmable Data",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz/learn/protocol-overview/ledgers-overview",
+    "normalized_url": "https://docs.irys.xyz/learn/protocol-overview/ledgers-overview",
+    "timestamp": "2025-12-05T10:38:42.669385",
+    "title": "Irys | Ledgers Overview",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Ledgers Overview"
+      },
+      {
+        "level": 2,
+        "text": "What Ledgers Do"
+      },
+      {
+        "level": 2,
+        "text": "Why Ledgers Matter"
+      },
+      {
+        "level": 2,
+        "text": "How Ledgers Work"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Submit Ledger"
+      },
+      {
+        "level": 3,
+        "text": "Publish Ledger"
+      },
+      {
+        "level": 3,
+        "text": "Scalability"
+      },
+      {
+        "level": 3,
+        "text": "Cost Efficiency"
+      },
+      {
+        "level": 3,
+        "text": "Data Integrity"
+      },
+      {
+        "level": 3,
+        "text": "Adaptability"
+      },
+      {
+        "level": 3,
+        "text": "Replication Across Partitions"
+      },
+      {
+        "level": 3,
+        "text": "Entry to the Submit Ledger"
+      },
+      {
+        "level": 3,
+        "text": "Promotion to the Publish Ledger"
+      },
+      {
+        "level": 3,
+        "text": "Continuous Integrity Checks"
+      },
+      {
+        "level": 3,
+        "text": "Scalability Through Modular Expansion"
+      },
+      {
+        "level": 4,
+        "text": "Constant Proof Generation"
+      },
+      {
+        "level": 4,
+        "text": "Challenge-Response System"
+      }
+    ],
+    "paragraphs": [
+      "Irys’s multi-ledger system divides data based on how long it’s needed and what it’s meant to do. Unlike the single-ledger approach of most blockchains, Irys takes a more efficient and flexible route.",
+      "The first stop for data on Irys.",
+      "Here, data is held temporarily during a probation period. If the data doesn’t meet the upload criteria within the allotted time, it’s cleared—keeping the network efficient and ensuring that only high-quality data progresses.",
+      "This process serves two key purposes:",
+      "Data that successfully completes this stage moves on to the Publish Ledger for permanent, verifiable storage.",
+      "The Publish Ledger is where data that meets all standards is promoted for long-term, verifiable storage.",
+      "While data resides in the Submit Ledger, miners storing that data circulate proofs of ingress—cryptographic certifications verifying that the data has been successfully uploaded and replicated across the network. Once enough ingress-proofs are collected, the transaction is eligible for promotion to the permanent ledger. This process not only verifies that the data has been uploaded correctly but also ensures multiple copies exist across the network.",
+      "These assurances form the foundation of data availability in the permanent ledger and provide the consensus guarantees essential for enabling programmable data.",
+      "Irys’s use of multiple ledgers is a deliberate solution to persistent blockchain storage challenges:",
+      "Irys’s multi-ledger system addresses scalability by dividing data into purpose-specific ledgers, preventing congestion and bottlenecks. This design ensures that storage and execution activities remain independent, so smart contracts and storage transactions don’t directly compete for space.",
+      "However, scalability isn’t just about slicing data into separate ledgers. True scalability comes from Irys’s ability to manage its network resources proactively. Combined with Matrix Packing, Irys’s use of capacity partitions allows the protocol to onboard storage resources ahead of demand. This means that as ledgers grow, the network doesn’t have to wait for new miners to join or add resources—those resources are already available.",
+      "This dynamic capacity ensures that Irys can ingress large amounts of data rapidly, providing developers with a consistent and efficient experience, even as demand increases.",
+      "Users only pay for the storage they need. The Submit Ledger serves a specific role in the protocol as a temporary holding area for new data, while the Publish Ledger provides secure, permanent storage for data requiring long-term reliability.",
+      "As the network evolves, additional term ledgers with defined durations will be introduced, offering developers even more options to optimize costs by tailoring storage to their exact needs.",
+      "Unlike other systems where costs fluctuate unpredictably, Irys anchors its pricing to the physical cost of storing data, not the volatile ups and downs of token markets.",
+      "This pricing model provides developers with affordable, predictable access to onchain storage without compromising performance or scalability.",
+      "Every piece of data in Irys’s ledgers is made tamper-proof through the use of cryptography—Merkle trees, whose roots are included with each storage transaction. This ensures that data cannot be altered without detection and remains accessible across the network.",
+      "To address the most common cause of data loss—hardware failures—Irys maintains multiple replicas of data distributed globally. This redundancy ensures that data remains intact and available, even in the face of localized disruption.",
+      "Miners are held accountable for preserving data through economic commitments, backed by staked tokens and penalties for noncompliance. This combination of cryptographic proofs, global replication, and miner accountability ensures that data on Irys is consistently verifiable and reliable for developers who depend on it.",
+      "Irys’s ledger system is designed to expand with the needs of developers. As new storage requirements arise, additional ledgers can be created, avoiding rigid, one-size-fits-all models and enabling storage solutions tailored to specific demands.",
+      "This means that the longer the network exists, the more valuable it becomes.",
+      "Irys’s ledger system is designed to manage data efficiently from submission to permanent storage, ensuring reliability, verifiability, and scalability at every step.",
+      "Data in the Publish Ledger is replicated across multiple partitions, ensuring resilience against data loss and maintaining availability during programmable data execution.",
+      "This replication model applies not only to the permanent ledger but also to the active portion of the Submit Ledger. By distributing data globally across partitions, Irys ensures:",
+      "All data begins in the Submit Ledger, which acts as the network’s entry point. Here, the protocol provides the storage needed to receive uploads and generate ingress-proofs—cryptographic evidence that verifies data has been successfully uploaded to the network.",
+      "To advance from the Submit Ledger, data must:",
+      "Once data has enough ingress-proofs and meets all requirements, it is promoted to the Publish Ledger. This step ensures:",
+      "The active portion of the Submit Ledger is also replicated across multiple partitions, providing redundancy and safeguarding against potential disruptions.",
+      "Miners are central to ensuring the reliability and verifiability of data stored on Irys. They achieve this through mechanisms integrated directly into the mining process:",
+      "As part of mining, every miner generates storage proofs to demonstrate they are actively maintaining their assigned data. These proofs are evaluated by the network, and only those meeting the network’s difficulty threshold allow miners to produce a block and earn rewards.",
+      "If a miner’s integrity is called into question, the protocol allows any participant to issue a storage challenge. The miner must respond within a limited window by producing a valid proof that confirms they are actively storing the required data.",
+      "The system is designed to prevent miners from retrieving data from elsewhere or repacking it on demand, as this would take too long and miss the proving window—resulting in the miner’s economic commitments being slashed.",
+      "This system creates a strong disincentive for adversarial behavior, ensuring that miners maintain their storage commitments consistently. It establishes a reliable, self-regulating framework that underpins the reliability of Irys’s network.",
+      "As data demands grow, Irys can create new ledgers tailored to specific needs. This modularity enables the network to scale efficiently without compromising performance or reliability.",
+      "Combined with the dynamic management of capacity partitions, this approach ensures that the network is always prepared to handle increasing data volumes, maintaining smooth operations and a reliable developer experience."
+    ],
+    "links": [],
+    "metadata": {
+      "og:title": "Irys | Ledgers Overview",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz/learn/protocol-overview/irys-consensus-overview",
+    "normalized_url": "https://docs.irys.xyz/learn/protocol-overview/irys-consensus-overview",
+    "timestamp": "2025-12-05T10:38:44.006023",
+    "title": "Irys | Irys Consensus Overview",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Irys Consensus Overview"
+      },
+      {
+        "level": 2,
+        "text": "Overview"
+      },
+      {
+        "level": 2,
+        "text": "Why Staking Matters"
+      },
+      {
+        "level": 2,
+        "text": "How It Works"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Reliable Long-Term Data"
+      },
+      {
+        "level": 3,
+        "text": "Economic Accountability"
+      },
+      {
+        "level": 3,
+        "text": "Purpose-Driven Mining"
+      },
+      {
+        "level": 3,
+        "text": "Supporting Network Growth"
+      },
+      {
+        "level": 3,
+        "text": "Step 1: Staking and Pledging"
+      },
+      {
+        "level": 3,
+        "text": "Step 2: Data Storage Commitment"
+      },
+      {
+        "level": 3,
+        "text": "Step 3: Useful Proof of Work"
+      },
+      {
+        "level": 3,
+        "text": "Step 4: Reward Distribution"
+      }
+    ],
+    "paragraphs": [
+      "Irys uses a consensus mechanism that combines useful Proof of Work (uPoW) with staking, aligning mining efforts with meaningful contributions to the network. Miners don’t just compete to produce blocks; they also commit to storing verifiable data, ensuring data availability and economic accountability.",
+      "This system ties mining rewards directly to miners’ ability to maintain and prove access to historical data, while staking reinforces their commitments through financial penalties for noncompliance.",
+      "The result is a secure, scalable, and efficient consensus model designed to support reliable onchain data storage.",
+      "Miners pledge responsibility for 16TB partitions, ensuring historical data remains available and verifiable.",
+      "Periodic validation checks incentivize ongoing compliance, linking mining rewards directly to reliable storage contributions.",
+      "Miners must lock $IRYS tokens as collateral, signaling their commitment to the network and creating clear economic consequences for failing to uphold their responsibilities. If a miner neglects their storage duties or acts maliciously, they forfeit their stake, protecting the network’s integrity.",
+      "In practice, networks that incorporate staking observe far less adversarial behavior compared to systems relying solely on Proof of Work. This alignment of economic incentives reinforces Irys’s mission of building a trustworthy, reliable, and secure protocol for developers.",
+      "Mining on Irys isn’t just about expending energy to solve arbitrary computations. It’s about contributing to the protocol’s purpose. Useful Proof of Work transforms computational effort into a tool for verifying storage integrity, ensuring that:",
+      "This approach shifts the focus from wasteful energy consumption to meaningful work, integrating mining with the protocol’s foundational mission. By tying block production directly to storage validation, Irys ensures efficiency without compromise.",
+      "The hybrid model integrates uPoW and staking to scale efficiently alongside network demands.",
+      "Miners and developers benefit from stable block rewards, predictable costs, and a system that grows with increasing storage needs.",
+      "Irys’s consensus mechanism operates through four distinct steps:",
+      "Miners stake $IRYS tokens as collateral, signaling their commitment to the network. They then pledge resources to specific 16TB partitions of data, which are mapped to their mining addresses.",
+      "Once a pledge is made, the protocol assigns a Partition ID, enabling the miner to prepare the partition through Matrix Packing and begin actively mining.",
+      "Economic Accountability",
+      "Staked tokens are forfeited if miners fail to meet their commitments, ensuring reliability. Unassigned pledges are returned, maintaining an organized storage onboarding process.",
+      "Miners pledge storage to the network by assigning their resources to specific partitions. Each partition is actively mined, and rewards are distributed proportionally based on the miner’s contribution to the network’s total storage capacity.",
+      "To safeguard decentralization, the protocol enforces a strict cap: no single miner can exceed 10% of the network’s hashpower, which is directly tied to the number of partitions they mine.",
+      "This mechanism prevents any miner from accumulating disproportionate influence, ensuring the network remains balanced and resilient.",
+      "Useful Proof of Work is the process of continuous sampling by miners, who generate cryptographic storage proofs tied to their assigned data.",
+      "It functions through:",
+      "Continuous Proof Generation",
+      "Miners actively validate their assigned partitions by generating storage proofs. These proofs serve as cryptographic evidence of their ongoing storage commitments.",
+      "When a miner generates a valid storage proof that meets the network’s difficulty requirements, they can produce a block and broadcast it for validation. Other miners verify the proof, and upon acceptance, the miner earns block rewards.",
+      "Economic Accountability",
+      "Miners who fail to maintain storage face penalties, as the system detects failures within narrow proving windows. This discourages adversarial behavior and ensures reliable performance.",
+      "Once a block is produced and validated, rewards are distributed to miners based on their storage contributions.",
+      "This ensures the following:",
+      "Miners responsible for larger shares of the network’s storage earn proportionally larger rewards.",
+      "Reliable miners who consistently generate valid storage proofs receive steady rewards, reinforcing long-term engagement and network stability.",
+      "This alignment between mining activity and reward distribution ensures that the network’s storage demands are met while keeping participation economically viable."
+    ],
+    "links": [],
+    "metadata": {
+      "og:title": "Irys | Irys Consensus Overview",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz/build/d/quickstart",
+    "normalized_url": "https://docs.irys.xyz/build/d/quickstart",
+    "timestamp": "2025-12-05T10:38:45.350447",
+    "title": "Irys | Irys SDK",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Irys SDK"
+      },
+      {
+        "level": 2,
+        "text": "Installing"
+      },
+      {
+        "level": 2,
+        "text": "Connecting to the network"
+      },
+      {
+        "level": 2,
+        "text": "Funding Irys"
+      },
+      {
+        "level": 2,
+        "text": "Uploading"
+      },
+      {
+        "level": 2,
+        "text": "3rd-Party Build Tools"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Uploading Data"
+      },
+      {
+        "level": 3,
+        "text": "Uploading a File"
+      },
+      {
+        "level": 3,
+        "text": "Uploading a Folder"
+      },
+      {
+        "level": 3,
+        "text": "Parcel"
+      }
+    ],
+    "paragraphs": [
+      "This example uses ETH for payment. You can use any of the supported tokens.",
+      "The following code is for using ETH for payment, we also have examples covering all supported tokens.",
+      "Fund your account on the Irys network using any of our supported tokens:",
+      "You can upload a group of files as a single transaction from both the server and the browser.",
+      "When uploading a folder, files can be accessed either directly at\nhttps://gateway.irys.xyz/:transactionId or https://gateway.irys.xyz/:manifestId/:fileName",
+      "If using Parcel, you will need to manually enable package exports by adding the following to the package.json file in your project root directory."
+    ],
+    "links": [
+      "https://docs.irys.xyz/build/d/sdk/setup",
+      "https://docs.irys.xyz/build/d/sdk/upload/uploadFolder",
+      "https://docs.irys.xyz/build/d/features/supported-tokens"
+    ],
+    "metadata": {
+      "og:title": "Irys | Irys SDK",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz/learn/what/what-irys-is",
+    "normalized_url": "https://docs.irys.xyz/learn/what/what-irys-is",
+    "timestamp": "2025-12-05T10:38:46.720790",
+    "title": "Irys | What Irys Is",
+    "headings": [
+      {
+        "level": 1,
+        "text": "What Irys Is"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      }
+    ],
+    "paragraphs": [
+      "Imagine, for a moment, the dawn of the internet. In those early days, it was little more than a scattered network of static web pages—useful, yet fundamentally constrained. The true transformation occurred when the internet became programmable; that shift unlocked email, social media, gaming, search engines (and more)—enabling a vast ecosystem where data, applications, and people could connect in ways previously unimaginable.",
+      "Now, something similar is happening onchain. Until recently, datachains operated only as repositories, like lonely vaults where data was held—static, isolated, untouchable. But what if data weren’t just stored, but dynamically engaged across systems, flowing, adapting and evolving to power applications beyond just storage?",
+      "Irys is that vision realized—something beyond a datachain, beyond data storage. It's something entirely new: the world's first programmable datachain, where data doesn't just exist; it becomes active, fluid, valuable across applications. And it's this evolution—from passive to programmable—that marks the true primitive."
+    ],
+    "links": [],
+    "metadata": {
+      "og:title": "Irys | What Irys Is",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://docs.irys.xyz/learn/what/what-a-datachain-is",
+    "normalized_url": "https://docs.irys.xyz/learn/what/what-a-datachain-is",
+    "timestamp": "2025-12-05T10:38:48.060197",
+    "title": "Irys | What a Datachain Is",
+    "headings": [
+      {
+        "level": 1,
+        "text": "What a Datachain Is"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      }
+    ],
+    "paragraphs": [
+      "A datachain is a blockchain designed for one task: storing data. Unlike blockchains optimized only for executing smart contracts—where storage is exceptionally expensive—datachains focus on keeping data onchain affordably. They make it possible to store large quantities of data without the excessive costs associated with typical execution-heavy blockchains like Ethereum or Solana.",
+      "The early datachains solved one clear problem: the need for economical onchain storage. But while they excelled at storing information, they stopped there. A stored piece of data remains just that—stored. It isn’t part of any system where it can react, interact, or fuel other applications.",
+      "The next step is making stored data useful and versatile, capable of driving an ecosystem."
+    ],
+    "links": [],
+    "metadata": {
+      "og:title": "Irys | What a Datachain Is",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    }
+  },
+  {
+    "url": "https://explorer.irys.xyz/",
+    "normalized_url": "https://explorer.irys.xyz/",
+    "timestamp": "2025-12-05T10:38:49.418067",
+    "title": "Irys Explorer",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Transactions"
+      },
+      {
+        "level": 2,
+        "text": "Explorer"
+      },
+      {
+        "level": 3,
+        "text": "Irys Statistics"
+      },
+      {
+        "level": 3,
+        "text": "Latest Blocks"
+      },
+      {
+        "level": 3,
+        "text": "Latest Transactions"
+      }
+    ],
+    "paragraphs": [
+      "Programmable Data Price"
+    ],
+    "links": [
+      "https://explorer.irys.xyz/",
+      "https://explorer.irys.xyz/analytics"
+    ],
+    "metadata": {
+      "description": "Irys Explorer",
+      "og:title": "Irys Explorer",
+      "og:description": "Irys Explorer",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://explorer.irys.xyz/opengraph-image.png?8092b034aa5ab732"
+    }
+  },
+  {
+    "url": "https://explorer.irys.xyz/analytics",
+    "normalized_url": "https://explorer.irys.xyz/analytics",
+    "timestamp": "2025-12-05T10:38:50.770939",
+    "title": "Irys Explorer",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Transactions"
+      },
+      {
+        "level": 2,
+        "text": "Explorer"
+      },
+      {
+        "level": 3,
+        "text": "Analytics"
+      }
+    ],
+    "paragraphs": [
+      "Programmable Data Price",
+      "total data transactions",
+      "Total Active Addresses",
+      "Cumulative Data Volume"
+    ],
+    "links": [
+      "https://explorer.irys.xyz/analytics"
+    ],
+    "metadata": {
+      "description": "Irys Explorer",
+      "og:title": "Irys Explorer",
+      "og:description": "Irys Explorer",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://explorer.irys.xyz/opengraph-image.png?8092b034aa5ab732"
+    }
+  }
+]

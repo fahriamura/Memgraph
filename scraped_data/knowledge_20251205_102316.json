@@ -1,0 +1,238 @@
+{
+  "entities": [
+    {
+      "name": "Irys Network",
+      "type": "Platform",
+      "description": "The First Programmable Datachain for AI & Beyond"
+    },
+    {
+      "name": "Programmable Datachain",
+      "type": "Technology",
+      "description": "The First Programmable Datachain"
+    },
+    {
+      "name": "HighPerformance ComposableUtilities",
+      "type": "Feature",
+      "description": "HighPerformance ComposableUtilities"
+    },
+    {
+      "name": "CostEfficient ProgrammableData",
+      "type": "Feature",
+      "description": "CostEfficient ProgrammableData"
+    },
+    {
+      "name": "$3 Trillion in Data UndiscoveredUntil Now",
+      "type": "Concept",
+      "description": "$3 Trillion in Data UndiscoveredUntil Now"
+    },
+    {
+      "name": "AI",
+      "type": "Concept",
+      "description": "Artificial Intelligence"
+    },
+    {
+      "name": "Onchain data",
+      "type": "Concept",
+      "description": "Data that resides on a blockchain."
+    },
+    {
+      "name": "Programmable data",
+      "type": "Concept",
+      "description": "Data that can be programmed."
+    },
+    {
+      "name": "Onchain services",
+      "type": "Concept",
+      "description": "Services that run on or rely on onchain data."
+    },
+    {
+      "name": "Cheaper retrieval costs",
+      "type": "Concept",
+      "description": "Lower costs to retrieve data."
+    },
+    {
+      "name": "Irys",
+      "type": "Platform",
+      "description": "A network of utilities where storage and execution enable onchain services to work together—permissionlessly."
+    },
+    {
+      "name": "Storage",
+      "type": "Feature",
+      "description": "Component of Irys that enables data storage for onchain services."
+    },
+    {
+      "name": "Execution",
+      "type": "Feature",
+      "description": "Component of Irys that enables execution for onchain services."
+    },
+    {
+      "name": "Onchain services",
+      "type": "Technology",
+      "description": "Services that run on a blockchain and are enabled to work by Irys' storage and execution."
+    },
+    {
+      "name": "Data layer",
+      "type": "Technology",
+      "description": "A data layer that ecosystems can integrate with, creating a shared foundation for AI and beyond."
+    },
+    {
+      "name": "AI",
+      "type": "Technology",
+      "description": "Artificial intelligence; part of the shared foundation mentioned."
+    },
+    {
+      "name": "Smart contracts",
+      "type": "Technology",
+      "description": "Programmable contracts on blockchain that can be triggered via data-embedded instructions."
+    },
+    {
+      "name": "Utilities",
+      "type": "Feature",
+      "description": "New utilities that can be launched on Irys by projects."
+    },
+    {
+      "name": "Ecosystems",
+      "type": "Community",
+      "description": "Entire ecosystems can integrate with the Irys data layer."
+    },
+    {
+      "name": "Datachain",
+      "type": "Concept",
+      "description": "What a Datachain Is"
+    },
+    {
+      "name": "ONCHAIN STORAGE",
+      "type": "Technology",
+      "description": "ONCHAIN STORAGE"
+    },
+    {
+      "name": "PROGRAMMABILITY",
+      "type": "Feature",
+      "description": "PROGRAMMABILITY"
+    },
+    {
+      "name": "Network Overview",
+      "type": "Concept",
+      "description": "Network Overview"
+    },
+    {
+      "name": "Protocol Overview",
+      "type": "Concept",
+      "description": "Protocol Overview"
+    },
+    {
+      "name": "Datachain",
+      "type": "Technology",
+      "description": "A blockchain designed for storing data; focuses on keeping data onchain affordably and enabling large quantities of data to be stored onchain at lower costs than typical execution-heavy blockchains such as Ethereum or Solana."
+    },
+    {
+      "name": "Economical onchain storage",
+      "type": "Concept",
+      "description": "The need for economical onchain storage that early datachains aimed to solve."
+    },
+    {
+      "name": "Ethereum",
+      "type": "Platform",
+      "description": "Blockchain optimized for executing smart contracts where storage is expensive."
+    },
+    {
+      "name": "Solana",
+      "type": "Platform",
+      "description": "Blockchain optimized for executing smart contracts where storage is expensive."
+    },
+    {
+      "name": "Ecosystem",
+      "type": "Concept",
+      "description": "A system into which stored data can drive and interact, enabling versatility and usefulness."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Programmable Datachain"
+    },
+    {
+      "subject": "Programmable Datachain",
+      "relation": "created_by",
+      "object": "Irys Network"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "offers",
+      "object": "HighPerformance ComposableUtilities"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "CostEfficient ProgrammableData"
+    },
+    {
+      "subject": "Programmable Datachain",
+      "relation": "enables",
+      "object": "AI"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Cheaper retrieval costs"
+    },
+    {
+      "subject": "Cheaper retrieval costs",
+      "relation": "enables",
+      "object": "Programmable data"
+    },
+    {
+      "subject": "Cheaper retrieval costs",
+      "relation": "enables",
+      "object": "Onchain services"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "Storage"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "Execution"
+    },
+    {
+      "subject": "Storage",
+      "relation": "enables",
+      "object": "Onchain services"
+    },
+    {
+      "subject": "Execution",
+      "relation": "enables",
+      "object": "Onchain services"
+    },
+    {
+      "subject": "Irys",
+      "relation": "enables",
+      "object": "Utilities"
+    },
+    {
+      "subject": "Ecosystems",
+      "relation": "integrates_with",
+      "object": "Data layer"
+    },
+    {
+      "subject": "Irys",
+      "relation": "provides",
+      "object": "AI"
+    },
+    {
+      "subject": "Datachain",
+      "relation": "provides",
+      "object": "Economical onchain storage"
+    },
+    {
+      "subject": "Datachain",
+      "relation": "enables",
+      "object": "Ecosystem"
+    }
+  ],
+  "total_entities": 29,
+  "total_relationships": 17
+}

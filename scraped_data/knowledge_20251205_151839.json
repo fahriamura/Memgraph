@@ -1,0 +1,3133 @@
+{
+  "entities": [
+    {
+      "name": "Irys Network",
+      "type": "Platform",
+      "description": "The First Programmable Datachain for AI & Beyond"
+    },
+    {
+      "name": "Programmable Datachain for AI & Beyond",
+      "type": "Concept",
+      "description": "A programmable datachain for AI & Beyond"
+    },
+    {
+      "name": "IRYS",
+      "type": "Token",
+      "description": "Token associated with Irys Network"
+    },
+    {
+      "name": "HighPerformance ComposableUtilities",
+      "type": "Feature",
+      "description": "HighPerformance ComposableUtilities"
+    },
+    {
+      "name": "CostEfficient ProgrammableData",
+      "type": "Feature",
+      "description": "CostEfficient ProgrammableData"
+    },
+    {
+      "name": "native execution layer",
+      "type": "Technology",
+      "description": "A native execution layer that makes data programmable."
+    },
+    {
+      "name": "data programmability",
+      "type": "Concept",
+      "description": "Ability to program data."
+    },
+    {
+      "name": "Cheaper retrieval costs",
+      "type": "Concept",
+      "description": "Costs to retrieve onchain data that are lower than traditional solutions."
+    },
+    {
+      "name": "Programmable data",
+      "type": "Concept",
+      "description": "Data that can be programmable or interact with on-chain logic."
+    },
+    {
+      "name": "Onchain services",
+      "type": "Concept",
+      "description": "Services that operate on the blockchain."
+    },
+    {
+      "name": "Irys",
+      "type": "Platform",
+      "description": "A network of utilities where storage and execution enable onchain services to work together—permissionlessly."
+    },
+    {
+      "name": "Data Layer",
+      "type": "Technology",
+      "description": "A data layer that ecosystems can integrate with, creating a shared foundation for AI and beyond."
+    },
+    {
+      "name": "AI",
+      "type": "Technology",
+      "description": "Artificial intelligence."
+    },
+    {
+      "name": "Datachain",
+      "type": "Concept",
+      "description": "A concept referred to as Datachain."
+    },
+    {
+      "name": "ONCHAIN STORAGE",
+      "type": "Technology",
+      "description": "On-chain storage."
+    },
+    {
+      "name": "PROGRAMMABILITY",
+      "type": "Feature",
+      "description": "Programmability feature."
+    },
+    {
+      "name": "Protocol",
+      "type": "Concept",
+      "description": "A protocol (as indicated by 'Protocol Overview')."
+    },
+    {
+      "name": "On-chain storage",
+      "type": "Concept",
+      "description": "Storage of data directly on the blockchain."
+    },
+    {
+      "name": "Affordable on-chain storage",
+      "type": "Concept",
+      "description": "Storing data on-chain at low cost."
+    },
+    {
+      "name": "Storing data",
+      "type": "Concept",
+      "description": "The act of storing data."
+    },
+    {
+      "name": "Ethereum",
+      "type": "Platform",
+      "description": "An execution-heavy blockchain where storage is expensive."
+    },
+    {
+      "name": "Solana",
+      "type": "Platform",
+      "description": "An execution-heavy blockchain where storage is expensive."
+    },
+    {
+      "name": "Irys Ecosystem",
+      "type": "Concept",
+      "description": "The ecosystem surrounding the Irys network."
+    },
+    {
+      "name": "Irys community",
+      "type": "Community",
+      "description": "The community associated with the Irys network."
+    },
+    {
+      "name": "IRYS",
+      "type": "Technology",
+      "description": "Brand/technology referenced in the text."
+    },
+    {
+      "name": "IRYS",
+      "type": "Organization",
+      "description": "Brand/organization issuing the privacy policy."
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "Concept",
+      "description": "Document describing how Irys collects, uses, shares, and protects personal data."
+    },
+    {
+      "name": "What Personal Data We Collect About You",
+      "type": "Concept",
+      "description": "Section describing categories of personal data collected by Irys."
+    },
+    {
+      "name": "How We Collect Your Personal Data",
+      "type": "Concept",
+      "description": "Section describing methods of collecting personal data."
+    },
+    {
+      "name": "How We Use Your Personal Data",
+      "type": "Concept",
+      "description": "Section describing how personal data is used."
+    },
+    {
+      "name": "Marketing",
+      "type": "Concept",
+      "description": "Section related to marketing purposes in relation to personal data."
+    },
+    {
+      "name": "Automated Decision Making",
+      "type": "Concept",
+      "description": "Section addressing automated decision making."
+    },
+    {
+      "name": "How We May Share Your Personal Data",
+      "type": "Concept",
+      "description": "Section about sharing personal data with third parties."
+    },
+    {
+      "name": "International Transfers",
+      "type": "Concept",
+      "description": "Section about cross-border transfers of personal data."
+    },
+    {
+      "name": "Data Security",
+      "type": "Concept",
+      "description": "Section about safeguards for personal data."
+    },
+    {
+      "name": "Data Retention",
+      "type": "Concept",
+      "description": "Section about the retention period of personal data."
+    },
+    {
+      "name": "Your Legal Rights",
+      "type": "Concept",
+      "description": "Section describing the rights of individuals regarding their personal data."
+    },
+    {
+      "name": "Complaints",
+      "type": "Concept",
+      "description": "Section about complaints process."
+    },
+    {
+      "name": "Third Party Links",
+      "type": "Concept",
+      "description": "Section about links to third-party websites."
+    },
+    {
+      "name": "Changes to This Privacy Policy",
+      "type": "Concept",
+      "description": "Section about updates to the privacy policy."
+    },
+    {
+      "name": "About Us",
+      "type": "Concept",
+      "description": "Section header in the privacy policy."
+    },
+    {
+      "name": "Our Contact Details",
+      "type": "Concept",
+      "description": "Section header in the privacy policy."
+    },
+    {
+      "name": "Personal data",
+      "type": "Concept",
+      "description": "Personal data or personal information means any information about you that enables you to be identified personally. It covers obvious information such as your name and contact details, but it also covers less obvious information such as identification numbers, electronic location data and other online identifiers that can be linked with such information in order to identify you. It does not include data where the identity has been removed (anonymous data)."
+    },
+    {
+      "name": "Name",
+      "type": "Concept",
+      "description": "An example of personal data that enables identification."
+    },
+    {
+      "name": "Contact details",
+      "type": "Concept",
+      "description": "An example of personal data that enables identification."
+    },
+    {
+      "name": "Identification numbers",
+      "type": "Concept",
+      "description": "An example of personal data that enables identification."
+    },
+    {
+      "name": "Electronic location data",
+      "type": "Concept",
+      "description": "An example of personal data that enables identification."
+    },
+    {
+      "name": "Online identifiers",
+      "type": "Concept",
+      "description": "An example of personal data that enables identification."
+    },
+    {
+      "name": "Anonymous data",
+      "type": "Concept",
+      "description": "Data where the identity has been removed."
+    },
+    {
+      "name": "Identity Data",
+      "type": "Concept",
+      "description": "Data category that includes first name, last name, username or similar identifier, title, and date of birth."
+    },
+    {
+      "name": "Contact Data",
+      "type": "Concept",
+      "description": "Data category that includes current address, email address and telephone number."
+    },
+    {
+      "name": "Financial Data",
+      "type": "Concept",
+      "description": "Data category that includes bank account and payment card details."
+    },
+    {
+      "name": "first name",
+      "type": "Concept",
+      "description": "Given name."
+    },
+    {
+      "name": "last name",
+      "type": "Concept",
+      "description": "Family name or surname."
+    },
+    {
+      "name": "username or similar identifier",
+      "type": "Concept",
+      "description": "User identifier."
+    },
+    {
+      "name": "title",
+      "type": "Concept",
+      "description": "Personal title."
+    },
+    {
+      "name": "date of birth",
+      "type": "Concept",
+      "description": "Date of birth."
+    },
+    {
+      "name": "current address",
+      "type": "Concept",
+      "description": "Current residence address."
+    },
+    {
+      "name": "email address",
+      "type": "Concept",
+      "description": "Electronic mail address."
+    },
+    {
+      "name": "telephone number",
+      "type": "Concept",
+      "description": "Phone number."
+    },
+    {
+      "name": "bank account",
+      "type": "Concept",
+      "description": "Bank account details."
+    },
+    {
+      "name": "payment card details",
+      "type": "Concept",
+      "description": "Credit or debit card details."
+    },
+    {
+      "name": "Transaction Data",
+      "type": "Concept",
+      "description": "Data category including details about payments to and from the user and other details of products and services purchased."
+    },
+    {
+      "name": "Technical Data",
+      "type": "Concept",
+      "description": "Data category including device and technical identifiers used to access the site and related information."
+    },
+    {
+      "name": "Profile Data",
+      "type": "Concept",
+      "description": "Data category including visitor usernames and passwords, purchases, interests, preferences, feedback, and survey responses."
+    },
+    {
+      "name": "payments to and from you",
+      "type": "Concept",
+      "description": "Payment details to and from the user."
+    },
+    {
+      "name": "details of products and services you have purchased from us",
+      "type": "Concept",
+      "description": "Details of purchases of products and services by the user."
+    },
+    {
+      "name": "IP address",
+      "type": "Technology",
+      "description": "Internet protocol address."
+    },
+    {
+      "name": "visitor login data",
+      "type": "Technology",
+      "description": "Login data for visitors."
+    },
+    {
+      "name": "browser type and version",
+      "type": "Technology",
+      "description": "Browser type and version used by the visitor."
+    },
+    {
+      "name": "time zone setting",
+      "type": "Technology",
+      "description": "Time zone setting of the visitor."
+    },
+    {
+      "name": "location",
+      "type": "Technology",
+      "description": "Geographic location of the visitor."
+    },
+    {
+      "name": "browser plug-in types and versions",
+      "type": "Technology",
+      "description": "Types and versions of browser plug-ins."
+    },
+    {
+      "name": "operating system and platform",
+      "type": "Technology",
+      "description": "Visitor's operating system and platform."
+    },
+    {
+      "name": "device ID",
+      "type": "Technology",
+      "description": "Device identifier used by the visitor to access the site."
+    },
+    {
+      "name": "other technology on the devices visitor uses to access our site",
+      "type": "Technology",
+      "description": "Other technology on the devices used to access the site."
+    },
+    {
+      "name": "visitor username and password",
+      "type": "Technology",
+      "description": "Visitor credentials (username and password)."
+    },
+    {
+      "name": "purchases or orders",
+      "type": "Technology",
+      "description": "Purchases or orders made by the user."
+    },
+    {
+      "name": "interests",
+      "type": "Technology",
+      "description": "User interests."
+    },
+    {
+      "name": "preferences",
+      "type": "Technology",
+      "description": "User preferences."
+    },
+    {
+      "name": "feedback",
+      "type": "Technology",
+      "description": "Feedback provided by the user."
+    },
+    {
+      "name": "survey responses",
+      "type": "Technology",
+      "description": "Responses to surveys."
+    },
+    {
+      "name": "Usage Data",
+      "type": "Concept",
+      "description": "Information about how visitors interact with and use the site, products and services."
+    },
+    {
+      "name": "Site",
+      "type": "Platform",
+      "description": "The site referenced in the text."
+    },
+    {
+      "name": "Site Usage Information",
+      "type": "Concept",
+      "description": "Information about how visitors interact with and use the Site, Products and Services."
+    },
+    {
+      "name": "Marketing and Communications Data",
+      "type": "Concept",
+      "description": "Visitor preferences in receiving marketing from us and our third parties and their communication preferences."
+    },
+    {
+      "name": "Marketing Preferences",
+      "type": "Concept",
+      "description": "Visitor preferences in receiving marketing."
+    },
+    {
+      "name": "Aggregated Data",
+      "type": "Concept",
+      "description": "Aggregated data such as statistical or demographic data; may be derived from personal data and is not considered personal data in law."
+    },
+    {
+      "name": "Statistical Data",
+      "type": "Concept",
+      "description": "Statistical data."
+    },
+    {
+      "name": "Demographic Data",
+      "type": "Concept",
+      "description": "Demographic data."
+    },
+    {
+      "name": "Programmable Datachain",
+      "type": "Technology",
+      "description": "A programmable datachain for AI & beyond."
+    },
+    {
+      "name": "High-Performance Composable Utilities",
+      "type": "Feature",
+      "description": "High-performance composable utilities mentioned as part of Irys Network."
+    },
+    {
+      "name": "Data networks",
+      "type": "Concept",
+      "description": "A class of networks that store data."
+    },
+    {
+      "name": "instructions",
+      "type": "Feature",
+      "description": "Instructions that can be embedded, retrieved instantly, and shared across applications."
+    },
+    {
+      "name": "onchain services",
+      "type": "Technology",
+      "description": "Services that operate on-chain within blockchain networks."
+    },
+    {
+      "name": "developers",
+      "type": "Role",
+      "description": "Developers building on Irys Network to create onchain services."
+    },
+    {
+      "name": "data",
+      "type": "Concept",
+      "description": "Data that can be leveraged by onchain services."
+    },
+    {
+      "name": "Onchain data",
+      "type": "Concept",
+      "description": "Data stored on a blockchain; described as moving faster and costing less."
+    },
+    {
+      "name": "Irys data layer",
+      "type": "Technology",
+      "description": "A data layer that ecosystems can integrate with, providing a shared foundation for AI and beyond."
+    },
+    {
+      "name": "Storage",
+      "type": "Technology",
+      "description": "Storage component of Irys enabling onchain storage as part of storage and execution."
+    },
+    {
+      "name": "Execution",
+      "type": "Technology",
+      "description": "Execution component of Irys enabling onchain services to work together."
+    },
+    {
+      "name": "Web2 cloud storage",
+      "type": "Technology",
+      "description": "Web2 cloud storage referenced as a comparator for Irys pricing."
+    },
+    {
+      "name": "Web3 storage alternatives",
+      "type": "Technology",
+      "description": "Web3 storage options referenced as a comparator for Irys pricing."
+    },
+    {
+      "name": "Stable pricing models",
+      "type": "Concept",
+      "description": "Pricing models described as stable and designed to eliminate fluctuating fees."
+    },
+    {
+      "name": "Smart contracts",
+      "type": "Technology",
+      "description": "Programmable contracts that can be triggered."
+    },
+    {
+      "name": "Embedded instructions in data",
+      "type": "Concept",
+      "description": "Developers can embed instructions directly into data."
+    },
+    {
+      "name": "Transactions execution",
+      "type": "Concept",
+      "description": "Execution of onchain transactions enabled by embedded data."
+    },
+    {
+      "name": "AI workflows automation",
+      "type": "Concept",
+      "description": "Automation of AI workflows enabled by embedded data."
+    },
+    {
+      "name": "Ownership enforcement",
+      "type": "Concept",
+      "description": "Enforcement of ownership via embedded data."
+    },
+    {
+      "name": "Smart contracts triggering",
+      "type": "Concept",
+      "description": "Triggering of smart contracts via embedded data."
+    },
+    {
+      "name": "Terms of Use",
+      "type": "Concept",
+      "description": "Document outlining the terms of use for IRYS."
+    },
+    {
+      "name": "BN Labs Ltd",
+      "type": "Organization",
+      "description": "Company registered in England and Wales; company number 14211627; trading as Irys; registered address: 101 New Cavendish Street, 1st Floor South, London, United Kingdom, W1W 6XH."
+    },
+    {
+      "name": "Data processing terms",
+      "type": "Concept",
+      "description": "Terms describing how personal data is processed, as set out by the Privacy Policy."
+    },
+    {
+      "name": "irys.xyz",
+      "type": "Platform",
+      "description": "Official website hosting the cookie policy referenced in the text."
+    },
+    {
+      "name": "Cookie Policy (irys.xyz/cookies)",
+      "type": "Concept",
+      "description": "Policy describing cookies and similar technologies used on the irys.xyz site."
+    },
+    {
+      "name": "Cookies and similar technologies used on this site",
+      "type": "Technology",
+      "description": "Cookies and similar technologies used on the site described by the policy."
+    },
+    {
+      "name": "User identification/access details and login details",
+      "type": "Concept",
+      "description": "Information that may be provided as part of security procedures."
+    },
+    {
+      "name": "Security procedures",
+      "type": "Concept",
+      "description": "Security procedures in which the above information may be used."
+    },
+    {
+      "name": "United Kingdom",
+      "type": "Concept",
+      "description": "The site is directed to people and/or entities in the United Kingdom."
+    },
+    {
+      "name": "User identification/access details",
+      "type": "Concept",
+      "description": "Credentials used to identify and access a user account."
+    },
+    {
+      "name": "User login details",
+      "type": "Concept",
+      "description": "Login credentials used to access a user account."
+    },
+    {
+      "name": "Under-18 age restriction",
+      "type": "Concept",
+      "description": "Policy that the site is not intended for users under 18."
+    },
+    {
+      "name": "Compliance notification process",
+      "type": "Concept",
+      "description": "Process requiring users to notify compliance when someone other than themselves knows their credentials."
+    },
+    {
+      "name": "Irys Testnet Faucet",
+      "type": "Tool",
+      "description": "A faucet for the Irys testnet that provides free testnet tokens."
+    },
+    {
+      "name": "Irys Explorer",
+      "type": "Feature",
+      "description": ""
+    },
+    {
+      "name": "Transactions Explorer",
+      "type": "Tool",
+      "description": ""
+    },
+    {
+      "name": "Irys Statistics",
+      "type": "Feature",
+      "description": ""
+    },
+    {
+      "name": "Latest Blocks",
+      "type": "Feature",
+      "description": ""
+    },
+    {
+      "name": "Latest Transactions",
+      "type": "Feature",
+      "description": ""
+    },
+    {
+      "name": "Cookies Policy",
+      "type": "Concept",
+      "description": "Policy document about cookies mentioned in the text."
+    },
+    {
+      "name": "Introduction",
+      "type": "Concept",
+      "description": "Section of the cookies policy."
+    },
+    {
+      "name": "What are Cookies and Similar Technologies?",
+      "type": "Concept",
+      "description": "Section header in the cookies policy."
+    },
+    {
+      "name": "Why Do We Use Cookies and Similar Technologies?",
+      "type": "Concept",
+      "description": "Section header in the cookies policy."
+    },
+    {
+      "name": "Cookies That We Use",
+      "type": "Concept",
+      "description": "Section header in the cookies policy."
+    },
+    {
+      "name": "Third Parties",
+      "type": "Concept",
+      "description": "Section header in the cookies policy."
+    },
+    {
+      "name": "Your Privacy",
+      "type": "Concept",
+      "description": "Section header in the cookies policy."
+    },
+    {
+      "name": "Options",
+      "type": "Concept",
+      "description": "Section header in the cookies policy."
+    },
+    {
+      "name": "Cookies",
+      "type": "Concept",
+      "description": "Topic mentioned in the policy."
+    },
+    {
+      "name": "Similar Technologies",
+      "type": "Concept",
+      "description": "Topic mentioned in the policy."
+    },
+    {
+      "name": "Cookies",
+      "type": "Technology",
+      "description": "Small file of letters and numbers stored on browser or hard drive with user consent."
+    },
+    {
+      "name": "Web beacons",
+      "type": "Technology",
+      "description": "Small images or text (usually invisible) on a web page or email used to collect information."
+    },
+    {
+      "name": "Local storage",
+      "type": "Technology",
+      "description": "Web storage mechanism in the browser."
+    },
+    {
+      "name": "Session storage",
+      "type": "Technology",
+      "description": "Web storage mechanism in the browser for a session."
+    },
+    {
+      "name": "IP address",
+      "type": "Concept",
+      "description": "A numeric label assigned to a device on a network; data collected by web beacons."
+    },
+    {
+      "name": "URL",
+      "type": "Concept",
+      "description": "The URL of the page where the web beacon is located."
+    },
+    {
+      "name": "Time_date_viewed",
+      "type": "Concept",
+      "description": "The time and date when content was viewed."
+    },
+    {
+      "name": "Browser_details",
+      "type": "Concept",
+      "description": "Details about the browser used."
+    },
+    {
+      "name": "Device_details",
+      "type": "Concept",
+      "description": "Details about the device used."
+    },
+    {
+      "name": "Visitor_distinction",
+      "type": "Concept",
+      "description": "Distinguishing a user from other visitors via cookies."
+    },
+    {
+      "name": "Browser",
+      "type": "Platform",
+      "description": "Software environment that can clear local storage via settings or storage limits."
+    },
+    {
+      "name": "Login credentials",
+      "type": "Concept",
+      "description": "Credentials used to log in; often stored in local storage in hashed or encrypted form."
+    },
+    {
+      "name": "User preferences",
+      "type": "Concept",
+      "description": "User preferences or settings stored in local storage to personalize the experience."
+    },
+    {
+      "name": "User-specific configurations",
+      "type": "Concept",
+      "description": "Configurations stored in local storage for a personalized experience."
+    },
+    {
+      "name": "User-generated form data",
+      "type": "Concept",
+      "description": "Form data created by the user stored in local storage."
+    },
+    {
+      "name": "Analytics and performance data",
+      "type": "Concept",
+      "description": "Analytics and performance data stored in local storage."
+    },
+    {
+      "name": "Temporary session identifiers",
+      "type": "Concept",
+      "description": "Identifiers stored in session storage for the duration of a session."
+    },
+    {
+      "name": "Form inputs",
+      "type": "Concept",
+      "description": "Data from form inputs stored in session storage."
+    },
+    {
+      "name": "Navigation history",
+      "type": "Concept",
+      "description": "Data related to user navigation stored in session storage."
+    },
+    {
+      "name": "Session-specific features or actions information",
+      "type": "Concept",
+      "description": "Information related to features or actions that are specific to a session stored in session storage."
+    },
+    {
+      "name": "irys.xyz",
+      "type": "Channel",
+      "description": "Website domain associated with Irys Network."
+    },
+    {
+      "name": "Wallets",
+      "type": "Feature",
+      "description": "Feature enabling access to cryptocurrency wallets on the Irys Network platform."
+    },
+    {
+      "name": "Bridges",
+      "type": "Feature",
+      "description": "Feature enabling cross-chain bridges on the Irys Network platform."
+    },
+    {
+      "name": "Block Explorers",
+      "type": "Feature",
+      "description": "Feature providing block explorer capabilities on the Irys Network platform."
+    },
+    {
+      "name": "Dashboards",
+      "type": "Feature",
+      "description": "Feature providing dashboards on the Irys Network platform."
+    },
+    {
+      "name": "Analytics",
+      "type": "Feature",
+      "description": "Feature allowing analytics and visitor tracking on the Irys Network platform."
+    },
+    {
+      "name": "Developer Resources",
+      "type": "Feature",
+      "description": "Resources for developers available on the Irys Network platform."
+    },
+    {
+      "name": "SDKs",
+      "type": "Tool",
+      "description": "Software Development Kits available on the Irys Network platform."
+    },
+    {
+      "name": "Transaction Tools",
+      "type": "Tool",
+      "description": "Tools for handling transactions on the Irys Network platform."
+    },
+    {
+      "name": "Education Resources",
+      "type": "Feature",
+      "description": "Educational resources available on the Irys Network platform."
+    },
+    {
+      "name": "Related Services",
+      "type": "Concept",
+      "description": "Other services available across Irys Network websites."
+    },
+    {
+      "name": "Sales",
+      "type": "Concept",
+      "description": "Sales-related functionality/services across Irys Network websites."
+    },
+    {
+      "name": "Events",
+      "type": "Event",
+      "description": "Events related to Irys Network across its websites."
+    },
+    {
+      "name": "Targeting",
+      "type": "Concept",
+      "description": "A targeting mechanism described as recording visits to the website, the pages visited, and the links followed, used to tailor the website and displayed advertising to user interests."
+    },
+    {
+      "name": "_ga",
+      "type": "Technology",
+      "description": "A Google Analytics cookie used to distinguish one visitor from another; category Analytics/Performance; duration 2 years; controller Google."
+    },
+    {
+      "name": "Google",
+      "type": "Organization",
+      "description": "Controller of the _ga cookie."
+    },
+    {
+      "name": "Analytics/Performance",
+      "type": "Concept",
+      "description": "Category assigned to the _ga cookie."
+    },
+    {
+      "name": "Website",
+      "type": "Platform",
+      "description": "The website that uses cookies (including _ga) to record visits for targeting and advertising relevance."
+    },
+    {
+      "name": "_gat_gtgag_UA",
+      "type": "Technology",
+      "description": "Google Analytics cookie to store a unique user ID for statistics; Category: Analytics/Performance; Controller: Google; Duration: 1 minute."
+    },
+    {
+      "name": "_gid",
+      "type": "Technology",
+      "description": "Google Analytics cookie to store and count pageviews for statistics; Category: Analytics/Performance; Controller: Google; Duration: 24 hours."
+    },
+    {
+      "name": "Google Analytics",
+      "type": "Technology",
+      "description": "Web analytics service by Google used to distinguish visitors and for site usage statistics."
+    },
+    {
+      "name": "Learn Hub",
+      "type": "Platform",
+      "description": "The ultimate resource center to learn all you need to know."
+    },
+    {
+      "name": "Learn the Essentials",
+      "type": "Feature",
+      "description": "Learn the Essentials."
+    },
+    {
+      "name": "Begin Building",
+      "type": "Feature",
+      "description": "Begin Building."
+    },
+    {
+      "name": "Build Docs",
+      "type": "Channel",
+      "description": "Documentation resource to access everything you need to get started."
+    },
+    {
+      "name": "Learn Docs",
+      "type": "Channel",
+      "description": "Documentation resource to explore what Irys is, what it isn’t, and how it works."
+    },
+    {
+      "name": "Irys Academy",
+      "type": "Feature",
+      "description": "Guides you through the basics of programmable data, blockchain tech, and Irys."
+    },
+    {
+      "name": "Programmable data",
+      "type": "Technology",
+      "description": "Concept related to programmable data within Irys."
+    },
+    {
+      "name": "Blockchain tech",
+      "type": "Technology",
+      "description": "Blockchain technology."
+    },
+    {
+      "name": "Thedatachain",
+      "type": "Organization",
+      "description": "Powering Irys technology"
+    },
+    {
+      "name": "Programmable Data Multi-Ledger System",
+      "type": "Technology",
+      "description": "Programmable Data Multi-Ledger System"
+    },
+    {
+      "name": "Irys VM",
+      "type": "Technology",
+      "description": "Irys virtual machine"
+    },
+    {
+      "name": "Hybrid Consensus Model",
+      "type": "Technology",
+      "description": "Hybrid consensus model"
+    },
+    {
+      "name": "Submit Ledger",
+      "type": "Feature",
+      "description": "Ledger for validation of data before promotion to the Publish Ledger."
+    },
+    {
+      "name": "Publish Ledger",
+      "type": "Feature",
+      "description": "Ledger for long-term, verifiable storage of data promoted from the Submit Ledger."
+    },
+    {
+      "name": "EVM",
+      "type": "Technology",
+      "description": "Upgraded Ethereum Virtual Machine execution layer used by Irys."
+    },
+    {
+      "name": "AI agents",
+      "type": "Technology",
+      "description": "AI agents that can interact with onchain data via Irys."
+    },
+    {
+      "name": "Ownership",
+      "type": "Concept",
+      "description": "Concept of ownership enabled by Irys without external databases or oracles."
+    },
+    {
+      "name": "Licensing",
+      "type": "Concept",
+      "description": "Concept of licensing enabled by Irys without external databases or oracles."
+    },
+    {
+      "name": "AI-driven automation",
+      "type": "Concept",
+      "description": "New kinds of automation driven by AI enabled by Irys without external databases or oracles."
+    },
+    {
+      "name": "Term-based ledgers",
+      "type": "Feature",
+      "description": "Additional ledgers that allow custom storage durations."
+    },
+    {
+      "name": "custom storage durations",
+      "type": "Concept",
+      "description": "User-defined storage duration values for ledgers."
+    },
+    {
+      "name": "IrysVM",
+      "type": "Technology",
+      "description": "High-performance, EVM-compatible execution layer designed to work natively with onchain data."
+    },
+    {
+      "name": "AI models",
+      "type": "Concept",
+      "description": "AI models that can be managed directly onchain."
+    },
+    {
+      "name": "inference proofs",
+      "type": "Concept",
+      "description": "Inference proofs that can be managed directly onchain."
+    },
+    {
+      "name": "programmable datasets",
+      "type": "Concept",
+      "description": "Programmable datasets that can be managed directly onchain."
+    },
+    {
+      "name": "enforcement of rules on stored programmable data",
+      "type": "Concept",
+      "description": "The ability for onchain rules to be enforced on stored programmable data."
+    },
+    {
+      "name": "Hybrid consensus model",
+      "type": "Concept",
+      "description": "A consensus mechanism that combines Proof of Work and Staking."
+    },
+    {
+      "name": "Proof of Work (PoW)",
+      "type": "Technology",
+      "description": "Proof of Work mechanism used as part of the hybrid consensus model."
+    },
+    {
+      "name": "Staking",
+      "type": "Technology",
+      "description": "Resource staking as part of the hybrid consensus model."
+    },
+    {
+      "name": "Miners",
+      "type": "Role",
+      "description": "Participants in the network that mine; described as required to stake resources to activate mining addresses."
+    },
+    {
+      "name": "Verifiable storage",
+      "type": "Feature",
+      "description": "Storage that is verifiable as part of the network's security approach."
+    },
+    {
+      "name": "Economic incentive model",
+      "type": "Concept",
+      "description": "An incentive framework that keeps storage honest."
+    },
+    {
+      "name": "onchain data storage",
+      "type": "Concept",
+      "description": "Storage of data on a blockchain."
+    },
+    {
+      "name": "economical onchain storage",
+      "type": "Concept",
+      "description": "Storage onchain at economical cost; early datachains solved this problem."
+    },
+    {
+      "name": "ecosystem",
+      "type": "Concept",
+      "description": "An ecosystem that could be driven by stored data; the next step is making stored data useful and versatile."
+    },
+    {
+      "name": "Irys Explorer",
+      "type": "Tool",
+      "description": "Not specified in the text."
+    },
+    {
+      "name": "Transactions Explorer",
+      "type": "Feature",
+      "description": "Not specified in the text."
+    },
+    {
+      "name": "Programmable Data",
+      "type": "Feature",
+      "description": "Feature mentioned in the text."
+    },
+    {
+      "name": "Price",
+      "type": "Feature",
+      "description": "Pricing-related feature mentioned in the text."
+    },
+    {
+      "name": "total data transactions",
+      "type": "Concept",
+      "description": "Total data transactions metric mentioned in the text."
+    },
+    {
+      "name": "Total Active Addresses",
+      "type": "Concept",
+      "description": "Total active addresses metric mentioned in the text."
+    },
+    {
+      "name": "Network Overview",
+      "type": "Concept",
+      "description": "Overview of the Irys network."
+    },
+    {
+      "name": "Protocol Overview",
+      "type": "Concept",
+      "description": "Overview of the Irys protocol."
+    },
+    {
+      "name": "Programmability",
+      "type": "Technology",
+      "description": "Programmability mentioned in relation to Irys."
+    },
+    {
+      "name": "Programmable datachain",
+      "type": "Concept",
+      "description": "A datachain that is programmable; data becomes active and usable across applications."
+    },
+    {
+      "name": "Ledgers Overview",
+      "type": "Concept",
+      "description": "Section titled 'Ledgers Overview' in the text."
+    },
+    {
+      "name": "Ledgers",
+      "type": "Concept",
+      "description": "Term appearing in headings related to ledger overview."
+    },
+    {
+      "name": "ONCHAIN STORAGE",
+      "type": "Concept",
+      "description": "Onchain storage referenced in the text ('Build ONCHAIN STORAGE PROGRAMMABILITY')."
+    },
+    {
+      "name": "PROGRAMMABILITY",
+      "type": "Concept",
+      "description": "Programmability referenced in the text ('BUILD ONCHAIN STORAGE PROGRAMMABILITY')."
+    },
+    {
+      "name": "Submit Ledger",
+      "type": "Concept",
+      "description": "Ledger submission step mentioned in the text."
+    },
+    {
+      "name": "Publish Ledger",
+      "type": "Concept",
+      "description": "Ledger publication step mentioned in the text."
+    },
+    {
+      "name": "Continuous Integrity Checks",
+      "type": "Concept",
+      "description": "Continuous integrity checks mentioned in the text."
+    },
+    {
+      "name": "Replication Across Partitions",
+      "type": "Concept",
+      "description": "Replication across partitions mentioned in the text."
+    },
+    {
+      "name": "Entry to the Submit Ledger",
+      "type": "Concept",
+      "description": "Phase described as entry to the Submit Ledger."
+    },
+    {
+      "name": "Promotion to the Publish Ledger",
+      "type": "Concept",
+      "description": "Phase described as promotion to the Publish Ledger."
+    },
+    {
+      "name": "Constant Proof Generation",
+      "type": "Technology",
+      "description": "Constant proof generation mentioned in the text."
+    },
+    {
+      "name": "Challenge-Response System",
+      "type": "Technology",
+      "description": "Challenge-response system mentioned in the text."
+    },
+    {
+      "name": "Scalability",
+      "type": "Concept",
+      "description": "Scalability mentioned in the text."
+    },
+    {
+      "name": "Cost Efficiency",
+      "type": "Concept",
+      "description": "Cost efficiency mentioned in the text."
+    },
+    {
+      "name": "Data Integrity",
+      "type": "Concept",
+      "description": "Data integrity mentioned in the text."
+    },
+    {
+      "name": "Adaptability",
+      "type": "Concept",
+      "description": "Adaptability mentioned in the text."
+    },
+    {
+      "name": "Modular Expansion",
+      "type": "Concept",
+      "description": "Modular expansion mentioned in the text."
+    },
+    {
+      "name": "multi-ledger system",
+      "type": "Technology",
+      "description": "A system that divides data based on how long it’s needed and what it’s meant to do; the first stop for data on Irys; holds data temporarily during a probation period; data that does not meet the upload criteria within the allotted time is cleared."
+    },
+    {
+      "name": "probation period",
+      "type": "Concept",
+      "description": "A time window during which data is held on Irys."
+    },
+    {
+      "name": "upload criteria",
+      "type": "Concept",
+      "description": "Criteria that data must meet within the allotted time to progress on Irys."
+    },
+    {
+      "name": "Publish Ledger",
+      "type": "Platform",
+      "description": "A platform where data that meets all standards is promoted for long-term, verifiable storage."
+    },
+    {
+      "name": "Long-term, verifiable storage",
+      "type": "Concept",
+      "description": "Long-term, verifiable storage."
+    },
+    {
+      "name": "Submit Ledger",
+      "type": "Technology",
+      "description": "A ledger in which data resides."
+    },
+    {
+      "name": "Permanent Ledger",
+      "type": "Technology",
+      "description": "A ledger to which transactions are promoted after enough ingress proofs."
+    },
+    {
+      "name": "Ingress proofs",
+      "type": "Concept",
+      "description": "Cryptographic certifications verifying that data has been uploaded and replicated across the network."
+    },
+    {
+      "name": "multi-ledger system",
+      "type": "Feature",
+      "description": "system that divides data into purpose-specific ledgers to address scalability and prevent congestion and bottlenecks; keeps storage and execution independent."
+    },
+    {
+      "name": "purpose-specific ledgers",
+      "type": "Concept",
+      "description": "ledgers dedicated to specific purposes to prevent congestion."
+    },
+    {
+      "name": "Matrix Packing",
+      "type": "Technology",
+      "description": "technique used with Irys; integrated with capacity partitions to enable onboard storage resources ahead of demand."
+    },
+    {
+      "name": "capacity partitions",
+      "type": "Concept",
+      "description": "Irys’s use of capacity partitions to onboard storage resources ahead of demand."
+    },
+    {
+      "name": "onboarding of storage resources ahead of demand",
+      "type": "Concept",
+      "description": "process of bringing storage resources into the network before demand."
+    },
+    {
+      "name": "storage resources",
+      "type": "Concept",
+      "description": "resources used for storage within the network."
+    },
+    {
+      "name": "miners",
+      "type": "Concept",
+      "description": "participants referenced as new miners that could join or add resources."
+    },
+    {
+      "name": "Term ledgers with defined durations",
+      "type": "Feature",
+      "description": "Additional ledgers with defined durations to tailor storage costs."
+    },
+    {
+      "name": "Temporary holding area for new data",
+      "type": "Concept",
+      "description": "Temporary storage area used by the Submit Ledger."
+    },
+    {
+      "name": "Secure, permanent storage for data requiring long-term reliability",
+      "type": "Concept",
+      "description": "Permanent, secure storage provided by the Publish Ledger."
+    },
+    {
+      "name": "Pricing model anchored to physical cost of data storage",
+      "type": "Concept",
+      "description": "Pricing that is based on the physical cost of storing data, not on token market volatility."
+    },
+    {
+      "name": "Usage-based pricing",
+      "type": "Concept",
+      "description": "Pricing where users pay for storage based on the amount used."
+    },
+    {
+      "name": "Ethereum Virtual Machine",
+      "type": "Technology",
+      "description": "Ethereum Virtual Machine; provides similar benefits to IrysVM."
+    },
+    {
+      "name": "Smart contracts",
+      "type": "Concept",
+      "description": "Self-executing contracts on the Irys platform."
+    },
+    {
+      "name": "Data storage",
+      "type": "Concept",
+      "description": "Data storage function; traditionally separate from contract execution on many blockchains."
+    },
+    {
+      "name": "Irys data ledgers",
+      "type": "Concept",
+      "description": "Irys’s data ledgers accessible by IrysVM."
+    },
+    {
+      "name": "Programmable data properties",
+      "type": "Concept",
+      "description": "Properties attached to data that can be programmable."
+    },
+    {
+      "name": "Ownership rights",
+      "type": "Concept",
+      "description": "Rights related to ownership that can be enforced via data on Irys."
+    },
+    {
+      "name": "Royalties",
+      "type": "Concept",
+      "description": "Royalties that can be automated."
+    },
+    {
+      "name": "Access permissions",
+      "type": "Concept",
+      "description": "Permissions controlling access to data."
+    },
+    {
+      "name": "Data verification",
+      "type": "Concept",
+      "description": "Verification of uploaded data."
+    },
+    {
+      "name": "Predefined instructions execution",
+      "type": "Concept",
+      "description": "Execution of pre-defined instructions within smart contracts."
+    },
+    {
+      "name": "Separate processing lanes for storage and smart contract transactions",
+      "type": "Concept",
+      "description": "Design where storage and smart contract transactions are processed on separate lanes."
+    },
+    {
+      "name": "Predictable transaction costs",
+      "type": "Feature",
+      "description": "Costs of transactions are predictable for developers."
+    },
+    {
+      "name": "Scalability over time",
+      "type": "Feature",
+      "description": "Easier to scale applications as storage needs increase."
+    },
+    {
+      "name": "Irys Consensus Overview",
+      "type": "Concept",
+      "description": "Overview of Irys consensus"
+    },
+    {
+      "name": "ONCHAIN STORAGE PROGRAMMABILITY",
+      "type": "Technology",
+      "description": "On-chain storage programmability"
+    },
+    {
+      "name": "Step 1: Staking and Pledging",
+      "type": "Event",
+      "description": "Step 1 in the Irys consensus process"
+    },
+    {
+      "name": "Step 2: Data Storage Commitment",
+      "type": "Event",
+      "description": "Step 2 in the Irys consensus process"
+    },
+    {
+      "name": "Step 3: Useful Proof of Work",
+      "type": "Event",
+      "description": "Step 3 in the Irys consensus process"
+    },
+    {
+      "name": "Step 4: Reward Distribution",
+      "type": "Event",
+      "description": "Step 4 in the Irys consensus process"
+    },
+    {
+      "name": "Reliable Long-Term Data",
+      "type": "Concept",
+      "description": "Reliable long-term data"
+    },
+    {
+      "name": "Economic Accountability",
+      "type": "Concept",
+      "description": "Economic accountability"
+    },
+    {
+      "name": "Purpose-Driven Mining",
+      "type": "Concept",
+      "description": "Mining driven by a purpose"
+    },
+    {
+      "name": "Supporting Network Growth",
+      "type": "Concept",
+      "description": "Effort to support network growth"
+    },
+    {
+      "name": "consensus mechanism (uPoW + staking)",
+      "type": "Technology",
+      "description": "A consensus mechanism combining useful Proof of Work and staking."
+    },
+    {
+      "name": "useful Proof of Work (uPoW)",
+      "type": "Technology",
+      "description": "Proof of Work variant that contributes meaningful data toward network security."
+    },
+    {
+      "name": "Mining rewards",
+      "type": "Concept",
+      "description": "Rewards given to miners for mining activity, tied to their ability to maintain and prove access to historical data."
+    },
+    {
+      "name": "financial penalties",
+      "type": "Concept",
+      "description": "Penalties for noncompliance in staking."
+    },
+    {
+      "name": "Irys consensus model",
+      "type": "Concept",
+      "description": "Secure, scalable, and efficient consensus model designed to support reliable onchain data storage."
+    },
+    {
+      "name": "16TB partitions",
+      "type": "Feature",
+      "description": "Storage partitions of 16 terabytes that miners are responsible for storing and ensuring availability and verifiability of historical data."
+    },
+    {
+      "name": "Periodic validation checks",
+      "type": "Feature",
+      "description": "Regular checks that verify storage obligations and incentivize ongoing compliance."
+    },
+    {
+      "name": "$IRYS",
+      "type": "Token",
+      "description": "Native token used as collateral by miners and to govern mining rewards on the Irys Network."
+    },
+    {
+      "name": "Stake",
+      "type": "Concept",
+      "description": "Collateral locked by miners in IRYS tokens; forfeited for failing to uphold responsibilities."
+    },
+    {
+      "name": "Mining rewards",
+      "type": "Feature",
+      "description": "Rewards distributed to miners based on storage contributions and reliability."
+    },
+    {
+      "name": "Useful Proof of Work",
+      "type": "Technology",
+      "description": "Transforms computational effort into a tool for verifying storage integrity."
+    },
+    {
+      "name": "storage integrity verification",
+      "type": "Concept",
+      "description": "Process of verifying that storage integrity is maintained."
+    },
+    {
+      "name": "Mining on Irys",
+      "type": "Concept",
+      "description": "Mining activity on Irys; described as contributing to the protocol’s purpose rather than merely expending energy."
+    },
+    {
+      "name": "block production",
+      "type": "Concept",
+      "description": "Process of producing new blocks in the protocol."
+    },
+    {
+      "name": "storage validation",
+      "type": "Concept",
+      "description": "Process of validating storage as part of the protocol."
+    },
+    {
+      "name": "hybrid model",
+      "type": "Concept",
+      "description": "A model that integrates uPoW and staking to scale efficiently alongside network demands."
+    },
+    {
+      "name": "uPoW",
+      "type": "Technology",
+      "description": "A component of the hybrid model used with staking to scale efficiently."
+    },
+    {
+      "name": "consensus mechanism",
+      "type": "Concept",
+      "description": "Irys's consensus mechanism that operates through four distinct steps."
+    },
+    {
+      "name": "stable block rewards",
+      "type": "Feature",
+      "description": "A benefit provided by Irys Network to miners and developers."
+    },
+    {
+      "name": "predictable costs",
+      "type": "Feature",
+      "description": "A benefit provided by Irys Network to miners and developers."
+    },
+    {
+      "name": "system that grows with increasing storage needs",
+      "type": "Feature",
+      "description": "A feature of Irys Network describing a system that scales with storage demands."
+    },
+    {
+      "name": "IRYS Token",
+      "type": "Token",
+      "description": "Token used as collateral by miners on the Irys Network."
+    },
+    {
+      "name": "16TB partitions of data",
+      "type": "Concept",
+      "description": "Data partitions of 16 terabytes each to which mining resources are pledged."
+    },
+    {
+      "name": "Mining Address",
+      "type": "Concept",
+      "description": "Address to which a partition is mapped."
+    },
+    {
+      "name": "Partition ID",
+      "type": "Concept",
+      "description": "Identifier assigned to a pledged partition after a pledge."
+    },
+    {
+      "name": "Irys Protocol",
+      "type": "Platform",
+      "description": "Protocol that assigns Partition IDs after a pledge."
+    },
+    {
+      "name": "Irys SDK",
+      "type": "Tool",
+      "description": "Not provided."
+    },
+    {
+      "name": "Uploading Data",
+      "type": "Feature",
+      "description": "Not provided."
+    },
+    {
+      "name": "Uploading a File",
+      "type": "Feature",
+      "description": "Not provided."
+    },
+    {
+      "name": "Uploading a Folder",
+      "type": "Feature",
+      "description": "Not provided."
+    },
+    {
+      "name": "3rd-Party Build Tools",
+      "type": "Tool",
+      "description": "Not provided."
+    },
+    {
+      "name": "Build",
+      "type": "Concept",
+      "description": "Not provided."
+    },
+    {
+      "name": "Parcel",
+      "type": "Concept",
+      "description": "Not provided."
+    },
+    {
+      "name": "ETH",
+      "type": "Token",
+      "description": "Ether, used for payment in the example."
+    },
+    {
+      "name": "ETH payment code example",
+      "type": "Tool",
+      "description": "Code sample for using ETH for payment."
+    },
+    {
+      "name": "Supported tokens",
+      "type": "Concept",
+      "description": "Set of tokens supported for funding on the Irys Network."
+    },
+    {
+      "name": "gateway.irys.xyz",
+      "type": "Technology",
+      "description": "Gateway service that provides access to uploaded files via direct URLs using transactionId or manifestId/fileName."
+    },
+    {
+      "name": "Upload a group of files as a single transaction",
+      "type": "Feature",
+      "description": "Ability to upload multiple files as a single transaction from both server and browser."
+    },
+    {
+      "name": "Parcel",
+      "type": "Tool",
+      "description": "Build tool; requires manual enabling of package exports by editing package.json in the project root."
+    },
+    {
+      "name": "Direct access URLs",
+      "type": "Concept",
+      "description": "URLs to access uploaded files via the gateway (e.g., transactionId-based URL and manifestId/fileName URL)."
+    },
+    {
+      "name": "datachains",
+      "type": "Concept",
+      "description": "A system where data is treated as a static, passive entity that is collected, stored, and left to rest."
+    },
+    {
+      "name": "execution_chains",
+      "type": "Concept",
+      "description": "A storage layer described as an alternative to datachains."
+    },
+    {
+      "name": "programmable_data",
+      "type": "Concept",
+      "description": "Data that can act, respond, and evolve through interaction with smart contracts."
+    },
+    {
+      "name": "smart_contracts",
+      "type": "Technology",
+      "description": "Programmable code that executes predefined logic on a blockchain to enable data to act."
+    },
+    {
+      "name": "Data Layer",
+      "type": "Concept",
+      "description": "Data layer referenced as part of Irys, providing the pathway to IrysVM for onchain execution."
+    },
+    {
+      "name": "Data on Irys",
+      "type": "Concept",
+      "description": "Data equipped with instructions carrying properties and rules, moving across applications and capable of interacting with smart contracts."
+    },
+    {
+      "name": "Onchain execution",
+      "type": "Concept",
+      "description": "Execution of instructions directly on the blockchain."
+    },
+    {
+      "name": "First-generation datachains",
+      "type": "Concept",
+      "description": "Older datachains contrasted with Irys's onchain approach."
+    },
+    {
+      "name": "Royalty structures",
+      "type": "Concept",
+      "description": "Royalty structures that data on Irys can enforce."
+    },
+    {
+      "name": "Encryption standards",
+      "type": "Concept",
+      "description": "Encryption standards that data on Irys can uphold."
+    },
+    {
+      "name": "Interaction rules",
+      "type": "Concept",
+      "description": "Rules for interaction with other applications that data on Irys can carry."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Programmable Datachain for AI & Beyond"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "HighPerformance ComposableUtilities"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "CostEfficient ProgrammableData"
+    },
+    {
+      "subject": "native execution layer",
+      "relation": "enables",
+      "object": "data programmability"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Cheaper retrieval costs"
+    },
+    {
+      "subject": "Cheaper retrieval costs",
+      "relation": "enables",
+      "object": "Programmable data"
+    },
+    {
+      "subject": "Cheaper retrieval costs",
+      "relation": "enables",
+      "object": "Onchain services"
+    },
+    {
+      "subject": "Irys",
+      "relation": "enables",
+      "object": "Onchain services"
+    },
+    {
+      "subject": "Irys",
+      "relation": "integrates_with",
+      "object": "Data Layer"
+    },
+    {
+      "subject": "Data Layer",
+      "relation": "supports",
+      "object": "AI"
+    },
+    {
+      "subject": "Datachain",
+      "relation": "enables",
+      "object": "On-chain storage"
+    },
+    {
+      "subject": "Datachain",
+      "relation": "provides",
+      "object": "Affordable on-chain storage"
+    },
+    {
+      "subject": "Datachain",
+      "relation": "has_component",
+      "object": "Storing data"
+    },
+    {
+      "subject": "IRYS",
+      "relation": "provides",
+      "object": "Privacy Policy"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "What Personal Data We Collect About You"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "How We Collect Your Personal Data"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "How We Use Your Personal Data"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Marketing"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Automated Decision Making"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "How We May Share Your Personal Data"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "International Transfers"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Data Security"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Data Retention"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Your Legal Rights"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Complaints"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Third Party Links"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Changes to This Privacy Policy"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "About Us"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "contains",
+      "object": "Our Contact Details"
+    },
+    {
+      "subject": "Personal data",
+      "relation": "has_component",
+      "object": "Name"
+    },
+    {
+      "subject": "Personal data",
+      "relation": "has_component",
+      "object": "Contact details"
+    },
+    {
+      "subject": "Personal data",
+      "relation": "has_component",
+      "object": "Identification numbers"
+    },
+    {
+      "subject": "Personal data",
+      "relation": "has_component",
+      "object": "Electronic location data"
+    },
+    {
+      "subject": "Personal data",
+      "relation": "has_component",
+      "object": "Online identifiers"
+    },
+    {
+      "subject": "Identity Data",
+      "relation": "has_component",
+      "object": "first name"
+    },
+    {
+      "subject": "Identity Data",
+      "relation": "has_component",
+      "object": "last name"
+    },
+    {
+      "subject": "Identity Data",
+      "relation": "has_component",
+      "object": "username or similar identifier"
+    },
+    {
+      "subject": "Identity Data",
+      "relation": "has_component",
+      "object": "title"
+    },
+    {
+      "subject": "Identity Data",
+      "relation": "has_component",
+      "object": "date of birth"
+    },
+    {
+      "subject": "Contact Data",
+      "relation": "has_component",
+      "object": "current address"
+    },
+    {
+      "subject": "Contact Data",
+      "relation": "has_component",
+      "object": "email address"
+    },
+    {
+      "subject": "Contact Data",
+      "relation": "has_component",
+      "object": "telephone number"
+    },
+    {
+      "subject": "Financial Data",
+      "relation": "has_component",
+      "object": "bank account"
+    },
+    {
+      "subject": "Financial Data",
+      "relation": "has_component",
+      "object": "payment card details"
+    },
+    {
+      "subject": "Transaction Data",
+      "relation": "contains",
+      "object": "payments to and from you"
+    },
+    {
+      "subject": "Transaction Data",
+      "relation": "contains",
+      "object": "details of products and services you have purchased from us"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "IP address"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "visitor login data"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "browser type and version"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "time zone setting"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "location"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "browser plug-in types and versions"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "operating system and platform"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "device ID"
+    },
+    {
+      "subject": "Technical Data",
+      "relation": "contains",
+      "object": "other technology on the devices visitor uses to access our site"
+    },
+    {
+      "subject": "Profile Data",
+      "relation": "contains",
+      "object": "visitor username and password"
+    },
+    {
+      "subject": "Profile Data",
+      "relation": "contains",
+      "object": "purchases or orders"
+    },
+    {
+      "subject": "Profile Data",
+      "relation": "contains",
+      "object": "interests"
+    },
+    {
+      "subject": "Profile Data",
+      "relation": "contains",
+      "object": "preferences"
+    },
+    {
+      "subject": "Profile Data",
+      "relation": "contains",
+      "object": "feedback"
+    },
+    {
+      "subject": "Profile Data",
+      "relation": "contains",
+      "object": "survey responses"
+    },
+    {
+      "subject": "Usage Data",
+      "relation": "contains",
+      "object": "Site Usage Information"
+    },
+    {
+      "subject": "Marketing and Communications Data",
+      "relation": "contains",
+      "object": "Marketing Preferences"
+    },
+    {
+      "subject": "Aggregated Data",
+      "relation": "contains",
+      "object": "Statistical Data"
+    },
+    {
+      "subject": "Aggregated Data",
+      "relation": "contains",
+      "object": "Demographic Data"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Programmable Datachain"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "High-Performance Composable Utilities"
+    },
+    {
+      "subject": "Programmable Datachain",
+      "relation": "enables",
+      "object": "AI"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "offers",
+      "object": "CostEfficient ProgrammableData"
+    },
+    {
+      "subject": "Data networks",
+      "relation": "has_component",
+      "object": "Native execution layer"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "instructions"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "developers"
+    },
+    {
+      "subject": "onchain services",
+      "relation": "uses",
+      "object": "data"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Onchain data"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Onchain services"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "Storage"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "Execution"
+    },
+    {
+      "subject": "Irys",
+      "relation": "integrates_with",
+      "object": "Irys data layer"
+    },
+    {
+      "subject": "Irys",
+      "relation": "offers",
+      "object": "Stable pricing models"
+    },
+    {
+      "subject": "Irys data layer",
+      "relation": "connects_to",
+      "object": "AI"
+    },
+    {
+      "subject": "Embedded instructions in data",
+      "relation": "enables",
+      "object": "Transactions execution"
+    },
+    {
+      "subject": "Embedded instructions in data",
+      "relation": "enables",
+      "object": "AI workflows automation"
+    },
+    {
+      "subject": "Embedded instructions in data",
+      "relation": "enables",
+      "object": "Ownership enforcement"
+    },
+    {
+      "subject": "Embedded instructions in data",
+      "relation": "enables",
+      "object": "Smart contracts triggering"
+    },
+    {
+      "subject": "Embedded instructions in data",
+      "relation": "enables",
+      "object": "Smart contracts"
+    },
+    {
+      "subject": "Irys data layer",
+      "relation": "supports",
+      "object": "AI"
+    },
+    {
+      "subject": "IRYS",
+      "relation": "has_component",
+      "object": "Terms of Use"
+    },
+    {
+      "subject": "Irys",
+      "relation": "created_by",
+      "object": "BN Labs Ltd"
+    },
+    {
+      "subject": "BN Labs Ltd",
+      "relation": "has_component",
+      "object": "Irys"
+    },
+    {
+      "subject": "Terms of Use",
+      "relation": "connects_to",
+      "object": "Privacy Policy"
+    },
+    {
+      "subject": "Privacy Policy",
+      "relation": "provides",
+      "object": "Data processing terms"
+    },
+    {
+      "subject": "irys.xyz",
+      "relation": "contains",
+      "object": "Cookie Policy (irys.xyz/cookies)"
+    },
+    {
+      "subject": "Cookie Policy (irys.xyz/cookies)",
+      "relation": "contains",
+      "object": "Cookies and similar technologies used on this site"
+    },
+    {
+      "subject": "User identification/access details and login details",
+      "relation": "uses",
+      "object": "Security procedures"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "disable user identification/access details and/or user login details"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "User identification/access details"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "User login details"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Terms of use"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Under-18 age restriction"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Compliance notification process"
+    },
+    {
+      "subject": "Irys Testnet Faucet",
+      "relation": "provides",
+      "object": "IRYS"
+    },
+    {
+      "subject": "Irys",
+      "relation": "provides",
+      "object": "Cookies Policy"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "Introduction"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "What are Cookies and Similar Technologies?"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "Why Do We Use Cookies and Similar Technologies?"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "Cookies That We Use"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "Third Parties"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "Your Privacy"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "Options"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "Cookies"
+    },
+    {
+      "subject": "Cookies Policy",
+      "relation": "contains",
+      "object": "Similar Technologies"
+    },
+    {
+      "subject": "Cookies",
+      "relation": "uses",
+      "object": "Web beacons"
+    },
+    {
+      "subject": "Cookies",
+      "relation": "uses",
+      "object": "Local storage"
+    },
+    {
+      "subject": "Cookies",
+      "relation": "uses",
+      "object": "Session storage"
+    },
+    {
+      "subject": "Cookies",
+      "relation": "enables",
+      "object": "Visitor_distinction"
+    },
+    {
+      "subject": "Web beacons",
+      "relation": "provides",
+      "object": "IP address"
+    },
+    {
+      "subject": "Web beacons",
+      "relation": "provides",
+      "object": "URL"
+    },
+    {
+      "subject": "Web beacons",
+      "relation": "provides",
+      "object": "Time_date_viewed"
+    },
+    {
+      "subject": "Web beacons",
+      "relation": "provides",
+      "object": "Browser_details"
+    },
+    {
+      "subject": "Web beacons",
+      "relation": "provides",
+      "object": "Device_details"
+    },
+    {
+      "subject": "Local storage",
+      "relation": "contains",
+      "object": "Login credentials"
+    },
+    {
+      "subject": "Local storage",
+      "relation": "contains",
+      "object": "User preferences"
+    },
+    {
+      "subject": "Local storage",
+      "relation": "contains",
+      "object": "User-specific configurations"
+    },
+    {
+      "subject": "Local storage",
+      "relation": "contains",
+      "object": "User-generated form data"
+    },
+    {
+      "subject": "Local storage",
+      "relation": "contains",
+      "object": "Analytics and performance data"
+    },
+    {
+      "subject": "Session storage",
+      "relation": "contains",
+      "object": "Temporary session identifiers"
+    },
+    {
+      "subject": "Session storage",
+      "relation": "contains",
+      "object": "Form inputs"
+    },
+    {
+      "subject": "Session storage",
+      "relation": "contains",
+      "object": "Navigation history"
+    },
+    {
+      "subject": "Session storage",
+      "relation": "contains",
+      "object": "Session-specific features or actions information"
+    },
+    {
+      "subject": "Browser",
+      "relation": "manages",
+      "object": "Local storage"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Wallets"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Bridges"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Block Explorers"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Dashboards"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Analytics"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Developer Resources"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "SDKs"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Transaction Tools"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Education Resources"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Related Services"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Sales"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Marketing"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Events"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "connects_to",
+      "object": "irys.xyz"
+    },
+    {
+      "subject": "Targeting",
+      "relation": "has_component",
+      "object": "_ga"
+    },
+    {
+      "subject": "Website",
+      "relation": "contains",
+      "object": "_ga"
+    },
+    {
+      "subject": "Google",
+      "relation": "manages",
+      "object": "_ga"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "uses",
+      "object": "Google Analytics"
+    },
+    {
+      "subject": "Google Analytics",
+      "relation": "has_component",
+      "object": "_gat_gtgag_UA"
+    },
+    {
+      "subject": "Google Analytics",
+      "relation": "has_component",
+      "object": "_gid"
+    },
+    {
+      "subject": "Google",
+      "relation": "manages",
+      "object": "_gat_gtgag_UA"
+    },
+    {
+      "subject": "Google",
+      "relation": "manages",
+      "object": "_gid"
+    },
+    {
+      "subject": "Learn Hub",
+      "relation": "uses",
+      "object": "IRYS"
+    },
+    {
+      "subject": "Irys",
+      "relation": "provides",
+      "object": "Build Docs"
+    },
+    {
+      "subject": "Irys",
+      "relation": "provides",
+      "object": "Learn Docs"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "Irys Academy"
+    },
+    {
+      "subject": "Irys Academy",
+      "relation": "uses",
+      "object": "Programmable data"
+    },
+    {
+      "subject": "Irys Academy",
+      "relation": "uses",
+      "object": "Blockchain tech"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "Irys VM"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "Hybrid Consensus Model"
+    },
+    {
+      "subject": "Thedatachain",
+      "relation": "enables",
+      "object": "Irys"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Submit Ledger"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "Publish Ledger"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Smart contracts"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "AI agents"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "uses",
+      "object": "EVM"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Ownership"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Licensing"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "AI-driven automation"
+    },
+    {
+      "subject": "Term-based ledgers",
+      "relation": "enables",
+      "object": "custom storage durations"
+    },
+    {
+      "subject": "Submit Ledger",
+      "relation": "connects_to",
+      "object": "Publish Ledger"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "integrates_with",
+      "object": "onchain data"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "enables",
+      "object": "AI models"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "enables",
+      "object": "inference proofs"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "enables",
+      "object": "programmable datasets"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "supports",
+      "object": "Smart contracts"
+    },
+    {
+      "subject": "Smart contracts",
+      "relation": "enables",
+      "object": "enforcement of rules on stored programmable data"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "uses",
+      "object": "Hybrid consensus model"
+    },
+    {
+      "subject": "Hybrid consensus model",
+      "relation": "uses",
+      "object": "Proof of Work (PoW)"
+    },
+    {
+      "subject": "Hybrid consensus model",
+      "relation": "uses",
+      "object": "Staking"
+    },
+    {
+      "subject": "Miners",
+      "relation": "participates_in",
+      "object": "Hybrid consensus model"
+    },
+    {
+      "subject": "Miners",
+      "relation": "uses",
+      "object": "Staking"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Verifiable storage"
+    },
+    {
+      "subject": "Economic incentive model",
+      "relation": "supports",
+      "object": "Verifiable storage"
+    },
+    {
+      "subject": "datachain",
+      "relation": "provides",
+      "object": "economical onchain storage"
+    },
+    {
+      "subject": "datachain",
+      "relation": "enables",
+      "object": "onchain data storage"
+    },
+    {
+      "subject": "datachain",
+      "relation": "enables",
+      "object": "ecosystem"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "offers",
+      "object": "Programmable Data"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "offers",
+      "object": "Price"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "offers",
+      "object": "total data transactions"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "offers",
+      "object": "Total Active Addresses"
+    },
+    {
+      "subject": "Irys",
+      "relation": "provides",
+      "object": "Programmable datachain"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "multi-ledger system"
+    },
+    {
+      "subject": "multi-ledger system",
+      "relation": "contains",
+      "object": "data"
+    },
+    {
+      "subject": "data",
+      "relation": "participates_in",
+      "object": "probation period"
+    },
+    {
+      "subject": "data",
+      "relation": "uses",
+      "object": "upload criteria"
+    },
+    {
+      "subject": "Publish Ledger",
+      "relation": "provides",
+      "object": "Long-term, verifiable storage"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "uses",
+      "object": "Submit Ledger"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "uses",
+      "object": "Permanent Ledger"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "uses",
+      "object": "Ledgers"
+    },
+    {
+      "subject": "Miners",
+      "relation": "participates_in",
+      "object": "Ingress proofs"
+    },
+    {
+      "subject": "Ingress proofs",
+      "relation": "enables",
+      "object": "Permanent Ledger"
+    },
+    {
+      "subject": "Permanent Ledger",
+      "relation": "enables",
+      "object": "Programmable Data"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "multi-ledger system"
+    },
+    {
+      "subject": "Irys",
+      "relation": "uses",
+      "object": "Matrix Packing"
+    },
+    {
+      "subject": "Irys",
+      "relation": "uses",
+      "object": "capacity partitions"
+    },
+    {
+      "subject": "multi-ledger system",
+      "relation": "contains",
+      "object": "purpose-specific ledgers"
+    },
+    {
+      "subject": "Matrix Packing",
+      "relation": "integrates_with",
+      "object": "capacity partitions"
+    },
+    {
+      "subject": "capacity partitions",
+      "relation": "enables",
+      "object": "onboarding of storage resources ahead of demand"
+    },
+    {
+      "subject": "onboarding of storage resources ahead of demand",
+      "relation": "uses",
+      "object": "storage resources"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "uses",
+      "object": "Pricing model anchored to physical cost of data storage"
+    },
+    {
+      "subject": "Submit Ledger",
+      "relation": "provides",
+      "object": "Temporary holding area for new data"
+    },
+    {
+      "subject": "Publish Ledger",
+      "relation": "provides",
+      "object": "Secure, permanent storage for data requiring long-term reliability"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "offers",
+      "object": "Term ledgers with defined durations"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "uses",
+      "object": "Usage-based pricing"
+    },
+    {
+      "subject": "Irys",
+      "relation": "contains",
+      "object": "IrysVM"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "integrates_with",
+      "object": "Data storage"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "integrates_with",
+      "object": "Smart contracts"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "provides",
+      "object": "Ethereum Virtual Machine"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "enables",
+      "object": "Irys data ledgers"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "enables",
+      "object": "Programmable data properties"
+    },
+    {
+      "subject": "Programmable data properties",
+      "relation": "enables",
+      "object": "Ownership rights"
+    },
+    {
+      "subject": "Programmable data properties",
+      "relation": "enables",
+      "object": "Royalties"
+    },
+    {
+      "subject": "Programmable data properties",
+      "relation": "enables",
+      "object": "Access permissions"
+    },
+    {
+      "subject": "Programmable data properties",
+      "relation": "enables",
+      "object": "Data verification"
+    },
+    {
+      "subject": "Programmable data properties",
+      "relation": "enables",
+      "object": "Predefined instructions execution"
+    },
+    {
+      "subject": "Developers",
+      "relation": "enables",
+      "object": "Programmable data properties"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "IrysVM"
+    },
+    {
+      "subject": "IrysVM",
+      "relation": "enables",
+      "object": "Separate processing lanes for storage and smart contract transactions"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Predictable transaction costs"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Scalability over time"
+    },
+    {
+      "subject": "Irys",
+      "relation": "provides",
+      "object": "Irys Consensus Overview"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Step 1: Staking and Pledging"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Step 2: Data Storage Commitment"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Step 3: Useful Proof of Work"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Step 4: Reward Distribution"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "ONCHAIN STORAGE PROGRAMMABILITY"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Protocol Overview"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Reliable Long-Term Data"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Economic Accountability"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Purpose-Driven Mining"
+    },
+    {
+      "subject": "Irys Consensus Overview",
+      "relation": "has_component",
+      "object": "Supporting Network Growth"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "consensus mechanism (uPoW + staking)"
+    },
+    {
+      "subject": "consensus mechanism (uPoW + staking)",
+      "relation": "uses",
+      "object": "useful Proof of Work (uPoW)"
+    },
+    {
+      "subject": "consensus mechanism (uPoW + staking)",
+      "relation": "uses",
+      "object": "staking"
+    },
+    {
+      "subject": "Miners",
+      "relation": "participates_in",
+      "object": "onchain data storage"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Mining rewards"
+    },
+    {
+      "subject": "staking",
+      "relation": "enables",
+      "object": "financial penalties"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Irys consensus model"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "onchain data storage"
+    },
+    {
+      "subject": "Miners",
+      "relation": "has_component",
+      "object": "16TB partitions"
+    },
+    {
+      "subject": "Miners",
+      "relation": "uses",
+      "object": "$IRYS"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Periodic validation checks"
+    },
+    {
+      "subject": "Periodic validation checks",
+      "relation": "enables",
+      "object": "Mining rewards"
+    },
+    {
+      "subject": "Mining rewards",
+      "relation": "connects_to",
+      "object": "16TB partitions"
+    },
+    {
+      "subject": "Miners",
+      "relation": "has_component",
+      "object": "Stake"
+    },
+    {
+      "subject": "Useful Proof of Work",
+      "relation": "enables",
+      "object": "storage integrity verification"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "integrates_with",
+      "object": "Mining on Irys"
+    },
+    {
+      "subject": "block production",
+      "relation": "connects_to",
+      "object": "storage validation"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "has_component",
+      "object": "consensus mechanism"
+    },
+    {
+      "subject": "hybrid model",
+      "relation": "integrates_with",
+      "object": "uPoW"
+    },
+    {
+      "subject": "hybrid model",
+      "relation": "integrates_with",
+      "object": "staking"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "stable block rewards"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "predictable costs"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "system that grows with increasing storage needs"
+    },
+    {
+      "subject": "Miners",
+      "relation": "uses",
+      "object": "IRYS Token"
+    },
+    {
+      "subject": "Miners",
+      "relation": "participates_in",
+      "object": "16TB partitions of data"
+    },
+    {
+      "subject": "16TB partitions of data",
+      "relation": "connects_to",
+      "object": "Mining Address"
+    },
+    {
+      "subject": "Partition ID",
+      "relation": "created_by",
+      "object": "Irys Protocol"
+    },
+    {
+      "subject": "Partition ID",
+      "relation": "enables",
+      "object": "Matrix Packing"
+    },
+    {
+      "subject": "Miners",
+      "relation": "uses",
+      "object": "Matrix Packing"
+    },
+    {
+      "subject": "Irys",
+      "relation": "has_component",
+      "object": "Irys SDK"
+    },
+    {
+      "subject": "Uploading Data",
+      "relation": "contains",
+      "object": "3rd-Party Build Tools"
+    },
+    {
+      "subject": "Uploading Data",
+      "relation": "contains",
+      "object": "Uploading a File"
+    },
+    {
+      "subject": "Uploading Data",
+      "relation": "contains",
+      "object": "Uploading a Folder"
+    },
+    {
+      "subject": "Network Overview",
+      "relation": "contains",
+      "object": "Protocol Overview"
+    },
+    {
+      "subject": "Build",
+      "relation": "contains",
+      "object": "ONCHAIN STORAGE"
+    },
+    {
+      "subject": "Build",
+      "relation": "contains",
+      "object": "PROGRAMMABILITY"
+    },
+    {
+      "subject": "ETH payment code example",
+      "relation": "uses",
+      "object": "ETH"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "supports",
+      "object": "Supported tokens"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "enables",
+      "object": "Upload a group of files as a single transaction"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "gateway.irys.xyz"
+    },
+    {
+      "subject": "gateway.irys.xyz",
+      "relation": "provides",
+      "object": "Direct access URLs"
+    },
+    {
+      "subject": "datachains",
+      "relation": "contains",
+      "object": "data"
+    },
+    {
+      "subject": "programmable_data",
+      "relation": "uses",
+      "object": "smart_contracts"
+    },
+    {
+      "subject": "Data on Irys",
+      "relation": "connects_to",
+      "object": "Smart Contracts"
+    },
+    {
+      "subject": "Data Layer",
+      "relation": "connects_to",
+      "object": "IrysVM"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "connects_to",
+      "object": "IrysVM"
+    },
+    {
+      "subject": "Irys Network",
+      "relation": "provides",
+      "object": "Onchain execution"
+    }
+  ],
+  "total_entities": 336,
+  "total_relationships": 289
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-12-05T14:28:02.723251",
+  "total_pages_scraped": 21,
+  "total_failed": 1,
+  "pages_per_domain": {
+    "irys.xyz": 9,
+    "docs.irys.xyz": 9,
+    "explorer.irys.xyz": 3
+  },
+  "visited_urls": [
+    "https://docs.irys.xyz/learn/protocol-overview/ledgers-overview",
+    "https://irys.xyz/connect-hub",
+    "https://irys.xyz",
+    "https://irys.xyz/privacy",
+    "https://docs.irys.xyz/learn/why/why-irysvm",
+    "https://docs.irys.xyz",
+    "https://irys.xyz/faucet",
+    "https://docs.irys.xyz/learn/what/what-irys-is",
+    "https://irys.xyz/core-features",
+    "https://docs.irys.xyz/build/d/quickstart",
+    "https://irys.xyz/terms",
+    "https://docs.irys.xyz/learn/why/why-programmable-data",
+    "https://irys.xyz/cookies",
+    "https://docs.irys.xyz/",
+    "https://explorer.irys.xyz/",
+    "https://docs.irys.xyz/learn/what/what-a-datachain-is",
+    "https://explorer.irys.xyz/analytics",
+    "https://irys.xyz/",
+    "https://docs.irys.xyz/learn/protocol-overview/irys-consensus-overview",
+    "https://explorer.irys.xyz",
+    "https://irys.xyz/learn-hub"
+  ],
+  "failed_urls": [
+    "https://irys.xyz/ecosystem"
+  ]
+}

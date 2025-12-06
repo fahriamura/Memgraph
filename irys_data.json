@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    { "id": "Irys", "type": "Platform", "description": "Layer-1 programmable datachain" },
+    { "id": "IrysVM", "type": "Component", "description": "EVM-compatible execution layer" },
+    { "id": "Submit Ledger", "type": "Ledger", "description": "Temporary ledger for data validation" },
+    { "id": "Publish Ledger", "type": "Ledger", "description": "Permanent ledger for verified data storage" },
+    { "id": "Programmable Data", "type": "Feature", "description": "On-chain data with logic/metadata, not passive" },
+    { "id": "Hybrid Consensus Model", "type": "ConsensusMechanism", "description": "Combination of PoW + Staking for decentralization & security" },
+    { "id": "Testnet", "type": "NetworkState", "description": "Current testing phase of Irys chain" },
+    { "id": "IRYS Token", "type": "Cryptocurrency", "description": "Native token of Irys" },
+    { "id": "Ecosystem / dApps", "type": "Ecosystem", "description": "Applications built on Irys (AI, DePIN, data-heavy dApps)" },
+    { "id": "Developer Tools", "type": "Toolset", "description": "SDK/CLI/Query packages to build on Irys" },
+
+    { "id": "Irys Portal", "type": "Platform", "description": "Main access portal for quests and activities" },
+    { "id": "QuestLand", "type": "Feature", "description": "Quest system inside Irys Portal" },
+    { "id": "Galxe", "type": "Platform", "description": "Platform for collecting points and rank" },
+    { "id": "Discord", "type": "Community", "description": "Official Irys Discord server" },
+    { "id": "X", "type": "SocialPlatform", "description": "X (formerly Twitter) used for contributions" },
+    { "id": "Kaito Leaderboard", "type": "Leaderboard", "description": "Leaderboard that tracks X contributions for Irys" },
+
+    { "id": "Snake", "type": "Game", "description": "Game on Irys testnet" },
+    { "id": "Spritetype", "type": "Game", "description": "Game on Irys testnet" },
+    { "id": "Irys Games Checker", "type": "Tool", "description": "Checks game scores and participation" },
+    { "id": "Faucet", "type": "Tool", "description": "Provides testnet tokens" },
+
+    { "id": "Writers Channel", "type": "DiscordChannel", "description": "#writers channel on Discord" },
+    { "id": "Creators Channel", "type": "DiscordChannel", "description": "#creators channel on Discord" },
+
+    { "id": "Deshi", "type": "Role", "level": 1, "description": "Apprentices, first steps" },
+    { "id": "Shugo", "type": "Role", "level": 2, "description": "Practitioners with foundations" },
+    { "id": "Senshi", "type": "Role", "level": 3, "description": "Warriors & protectors" },
+    { "id": "Shihan", "type": "Role", "level": 4, "description": "Masters, guiding the community" },
+
+    { "id": "Contribution", "type": "Action", "description": "User-created content or engagement" },
+    { "id": "Rank", "type": "Metric", "description": "User ranking in Irys ecosystem" },
+    { "id": "Reward", "type": "Outcome", "description": "Potential reward / airdrop / recognition" },
+
+
+
+    { 
+      "id": "Genesis Hunt", 
+      "type": "Campaign", 
+      "description": "2-week campaign to earn Genesis NFT whitelist via Bitomo evolution" 
+    },
+
+    { 
+      "id": "OKX Wallet", 
+      "type": "Wallet", 
+      "description": "Partner wallet for Genesis Hunt" 
+    },
+
+    { 
+      "id": "Bitomo NFT", 
+      "type": "NFT", 
+      "description": "Evolving NFT used in Genesis Hunt", 
+      "stages": 3 
+    },
+
+    { 
+      "id": "Irys Genesis NFT", 
+      "type": "NFT", 
+      "description": "Genesis NFT of Irys (2000 supply)" 
+    },
+
+    { 
+      "id": "Bitomo Portal", 
+      "type": "CampaignPage", 
+      "description": "Genesis Hunt entry page",
+      "url": "https://bitomokx.irys.xyz"
+    },
+
+    { 
+      "id": "Daily Quests", 
+      "type": "Feature", 
+      "description": "Repeated tasks to influence Bitomo evolution" 
+    },
+
+    { 
+      "id": "Evolution System", 
+      "type": "Mechanism", 
+      "description": "Hidden system that evolves Bitomo based on engagement" 
+    },
+
+    { 
+      "id": "Mutable References", 
+      "type": "Technology", 
+      "description": "Irys tech that powers dynamic NFT evolution" 
+    }
+  ],
+
+  "edges": [
+    { "from": "Irys", "to": "IrysVM", "relation": "has_component" },
+    { "from": "Irys", "to": "Submit Ledger", "relation": "uses_ledger" },
+    { "from": "Irys", "to": "Publish Ledger", "relation": "uses_ledger" },
+    { "from": "IrysVM", "to": "Programmable Data", "relation": "enables" },
+    { "from": "Programmable Data", "to": "Publish Ledger", "relation": "stored_in" },
+    { "from": "Programmable Data", "to": "Submit Ledger", "relation": "validated_by" },
+    { "from": "Irys", "to": "Hybrid Consensus Model", "relation": "uses_consensus" },
+    { "from": "Irys", "to": "IRYS Token", "relation": "issues_token" },
+    { "from": "Irys", "to": "Testnet", "relation": "in_phase" },
+    { "from": "Irys", "to": "Ecosystem / dApps", "relation": "supports_apps" },
+    { "from": "Irys", "to": "Developer Tools", "relation": "provides_tools" },
+
+    { "from": "Irys", "to": "Irys Portal", "relation": "has_portal" },
+    { "from": "Irys Portal", "to": "QuestLand", "relation": "contains" },
+    { "from": "QuestLand", "to": "Galxe", "relation": "rewards_points_on" },
+
+    { "from": "Irys", "to": "Discord", "relation": "has_community" },
+    { "from": "Discord", "to": "Deshi", "relation": "has_role" },
+    { "from": "Discord", "to": "Shugo", "relation": "has_role" },
+    { "from": "Discord", "to": "Senshi", "relation": "has_role" },
+    { "from": "Discord", "to": "Shihan", "relation": "has_role" },
+
+    { "from": "Shihan", "to": "Senshi", "relation": "higher_than" },
+    { "from": "Senshi", "to": "Shugo", "relation": "higher_than" },
+    { "from": "Shugo", "to": "Deshi", "relation": "higher_than" },
+
+    { "from": "Testnet", "to": "Faucet", "relation": "uses" },
+    { "from": "Testnet", "to": "Snake", "relation": "hosts_game" },
+    { "from": "Testnet", "to": "Spritetype", "relation": "hosts_game" },
+
+    { "from": "Snake", "to": "Irys Games Checker", "relation": "tracked_by" },
+    { "from": "Spritetype", "to": "Irys Games Checker", "relation": "tracked_by" },
+
+    { "from": "Irys", "to": "X", "relation": "supports_contributions_on" },
+    { "from": "Irys", "to": "Discord", "relation": "supports_contributions_on" },
+
+    { "from": "Discord", "to": "Writers Channel", "relation": "has_channel" },
+    { "from": "Discord", "to": "Creators Channel", "relation": "has_channel" },
+
+    { "from": "Writers Channel", "to": "Contribution", "relation": "accepts" },
+    { "from": "Creators Channel", "to": "Contribution", "relation": "accepts" },
+    { "from": "X", "to": "Contribution", "relation": "generates" },
+
+    { "from": "Contribution", "to": "Rank", "relation": "affects" },
+    { "from": "Rank", "to": "Galxe", "relation": "displayed_on" },
+    { "from": "X", "to": "Kaito Leaderboard", "relation": "ranked_by" },
+    { "from": "Kaito Leaderboard", "to": "Rank", "relation": "measures" },
+    { "from": "Rank", "to": "Reward", "relation": "influences" },
+
+
+    { "from": "Genesis Hunt", "to": "Irys", "relation": "runs_on" },
+    { "from": "Genesis Hunt", "to": "OKX Wallet", "relation": "partnered_with" },
+    { "from": "Genesis Hunt", "to": "Bitomo NFT", "relation": "uses" },
+    { "from": "Genesis Hunt", "to": "Irys Genesis NFT", "relation": "awards_whitelist_for" },
+
+    { "from": "Bitomo Portal", "to": "Genesis Hunt", "relation": "hosts" },
+    { "from": "Bitomo Portal", "to": "Daily Quests", "relation": "contains" },
+
+    { "from": "Daily Quests", "to": "Evolution System", "relation": "drives" },
+    { "from": "Bitomo NFT", "to": "Evolution System", "relation": "evolves_with" },
+
+    { "from": "Evolution System", "to": "Mutable References", "relation": "powered_by" },
+    { "from": "Evolution System", "to": "Testnet", "relation": "depends_on" },
+
+    { "from": "OKX Wallet", "to": "Testnet", "relation": "connects_to" },
+    { "from": "Bitomo NFT", "to": "Reward", "relation": "qualifies_for" }
+  ]
+}

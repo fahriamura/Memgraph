@@ -1,0 +1,237 @@
+[
+  {
+    "url": "https://irys.xyz",
+    "timestamp": "2025-12-05T10:17:26.797720",
+    "title": "The First Programmable Datachain for AI & Beyond",
+    "headings": [
+      {
+        "level": 1,
+        "text": "$3 Trillion in Data UndiscoveredUntil Now"
+      },
+      {
+        "level": 2,
+        "text": "Purpose Built to SCALE,WithoutLimits"
+      },
+      {
+        "level": 2,
+        "text": "Backed by"
+      },
+      {
+        "level": 2,
+        "text": "the best"
+      },
+      {
+        "level": 3,
+        "text": "Welcome to"
+      },
+      {
+        "level": 3,
+        "text": "HighPerformance"
+      },
+      {
+        "level": 3,
+        "text": "ComposableUtilities"
+      },
+      {
+        "level": 3,
+        "text": "CostEfficient"
+      },
+      {
+        "level": 3,
+        "text": "ProgrammableData"
+      },
+      {
+        "level": 3,
+        "text": "IRYS"
+      }
+    ],
+    "paragraphs": [
+      "Other data networks  only store data",
+      "but faster, cheaper, and with a  native execution layer that",
+      "makes data programmable",
+      "can be embedded with instructions  retrieved instantly and  shared across applications",
+      "Enabling developers to build onchain services that",
+      "leverage each other's data to",
+      "All at a fraction of the cost of",
+      "traditional solutions",
+      "Onchain data should move faster, cost less, and do more. Irys makes that possible. Cheaper retrieval costs unlock programmable data and enable onchain services that weren’t possible before.",
+      "Irys is a network of utilities where storage and execution enable onchain services to work together—permissionlessly. Projects can launch new utilities on Irys, while entire ecosystems can integrate with our data layer—creating a shared foundation for AI and beyond.",
+      "Storage shouldn't come with unpredictable costs. Irys is cheaper than both Web2 cloud storage and Web3 alternatives, with stable pricing models that eliminate fluctuating fees. Lower costs mean more powerful applications, better margins, and more room to scale.",
+      "Developers can embed instructions directly into data, enabling it to execute transactions, automate AI workflows, enforce ownership, trigger smart contracts, and more. Any rule, any function, any action—embedded directly into data and enforced onchain."
+    ],
+    "links": [
+      {
+        "text": "Features",
+        "url": "https://irys.xyz/core-features"
+      },
+      {
+        "text": "Social",
+        "url": "https://irys.xyz/connect-hub"
+      },
+      {
+        "text": "Build",
+        "url": "https://irys.xyz/learn-hub"
+      },
+      {
+        "text": "Framework",
+        "url": "https://www.framework.ventures/"
+      },
+      {
+        "text": "Lemniscap",
+        "url": "https://lemniscap.com/"
+      },
+      {
+        "text": "Primitive",
+        "url": "https://primitive.ventures/"
+      },
+      {
+        "text": "Smokey The Bera",
+        "url": "https://x.com/SmokeyTheBera"
+      },
+      {
+        "text": "Home",
+        "url": "https://irys.xyz/"
+      },
+      {
+        "text": "Faucet",
+        "url": "https://irys.xyz/faucet"
+      },
+      {
+        "text": "Explorer",
+        "url": "https://explorer.irys.xyz"
+      },
+      {
+        "text": "Ecosystem",
+        "url": "https://irys.xyz/ecosystem"
+      },
+      {
+        "text": "Whitepaper",
+        "url": "https://irys.xyz/assets/IrysWhitepaper.pdf"
+      },
+      {
+        "text": "Privacy",
+        "url": "https://irys.xyz/privacy"
+      },
+      {
+        "text": "Terms",
+        "url": "https://irys.xyz/terms"
+      },
+      {
+        "text": "Cookies",
+        "url": "https://irys.xyz/cookies"
+      }
+    ],
+    "metadata": {
+      "description": "High-performance datachain unifying data storage and native smart contract execution.",
+      "og:title": "The First Programmable Datachain for AI & Beyond",
+      "og:description": "High-performance datachain unifying data storage and native smart contract execution.",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "601",
+      "og:image": "https://irys.xyz/opengraph-image.png?ce4b3cab51ae8ff5"
+    },
+    "source_name": "main"
+  },
+  {
+    "url": "https://docs.irys.xyz",
+    "timestamp": "2025-12-05T10:17:29.204615",
+    "title": "Irys | What a Datachain Is",
+    "headings": [
+      {
+        "level": 1,
+        "text": "What a Datachain Is"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      },
+      {
+        "level": 3,
+        "text": "Learn"
+      },
+      {
+        "level": 3,
+        "text": "What"
+      },
+      {
+        "level": 3,
+        "text": "Why"
+      },
+      {
+        "level": 3,
+        "text": "Network Overview"
+      },
+      {
+        "level": 3,
+        "text": "Protocol Overview"
+      },
+      {
+        "level": 3,
+        "text": "Build"
+      },
+      {
+        "level": 3,
+        "text": "ONCHAIN STORAGE"
+      },
+      {
+        "level": 3,
+        "text": "PROGRAMMABILITY"
+      }
+    ],
+    "paragraphs": [
+      "A datachain is a blockchain designed for one task: storing data. Unlike blockchains optimized only for executing smart contracts—where storage is exceptionally expensive—datachains focus on keeping data onchain affordably. They make it possible to store large quantities of data without the excessive costs associated with typical execution-heavy blockchains like Ethereum or Solana.",
+      "The early datachains solved one clear problem: the need for economical onchain storage. But while they excelled at storing information, they stopped there. A stored piece of data remains just that—stored. It isn’t part of any system where it can react, interact, or fuel other applications.",
+      "The next step is making stored data useful and versatile, capable of driving an ecosystem."
+    ],
+    "links": [
+      {
+        "text": "Explorer",
+        "url": "https://explorer.irys.xyz"
+      },
+      {
+        "text": "Github",
+        "url": "https://github.com/Irys-xyz"
+      },
+      {
+        "text": "What a Datachain Is",
+        "url": "#what-a-datachain-is"
+      }
+    ],
+    "metadata": {
+      "og:title": "Irys | What a Datachain Is",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "600",
+      "og:image": "https://docs.irys.xyz/opengraph-image.png?8c892bc9b92ee1a8"
+    },
+    "source_name": "docs"
+  }
+]

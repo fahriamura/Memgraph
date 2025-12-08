@@ -13,7 +13,6 @@ class MemgraphHandler:
             auth = (self.username, self.password) if self.username else None
             self.driver = GraphDatabase.driver(self.uri, auth=auth)
             
-            # Test connection
             with self.driver.session() as session:
                 result = session.run("RETURN 1 as test")
                 result.single()
@@ -26,9 +25,6 @@ class MemgraphHandler:
             return False
     
     def disconnect(self):
-        """
-        Disconnect from Memgraph
-        """
         if self.driver:
             self.driver.close()
             print("✓ Disconnected from Memgraph")
@@ -40,6 +36,8 @@ class MemgraphHandler:
                 return list(result)
         except Exception as e:
             print(f"✗ Query execution failed: {e}")
+            print(f"  Query: {query}")
+            print(f"  Params: {parameters}")
             return None
     
     def node_exists(self, node_id: str, node_type: str) -> bool:
@@ -49,27 +47,40 @@ class MemgraphHandler:
     
     def create_node(self, node_id: str, node_type: str, properties: Dict):
         """
-        Create new node with specific label
+        Create new node - FIXED VERSION with proper parameter binding
         """
-        # Sanitize node_type (remove spaces, special chars)
+        # Sanitize node_type
         node_type = node_type.replace(" ", "_").replace("-", "_")
         
-        props_list = [f"{k}: ${k}" for k in properties.keys()]
-        props_str = ", ".join(props_list)
+        # Build parameters dict - start with id
+        params = {"node_id": node_id}
         
-        query = f"CREATE (n:{node_type} {{id: $id, {props_str}}}) RETURN n"
-        params = {"id": node_id, **properties}
+        # Add other properties (exclude 'id' to avoid duplication)
+        prop_assignments = ["id: $node_id"]  # Always set id first
+        
+        for key, value in properties.items():
+            if key != 'id':  # Skip 'id' if present in properties
+                # Create unique parameter name
+                param_name = f"prop_{key}"
+                params[param_name] = value
+                prop_assignments.append(f"{key}: ${param_name}")
+        
+        # Build query
+        props_str = ", ".join(prop_assignments)
+        query = f"CREATE (n:{node_type} {{{props_str}}}) RETURN n"
+        
+        # Debug print (remove in production)
+        # print(f"DEBUG Query: {query}")
+        # print(f"DEBUG Params: {params}")
         
         result = self.execute_query(query, params)
+        
         if result:
             print(f"✓ Created node: {node_id} (:{node_type})")
             return True
         return False
 
     def node_exists_any_label(self, node_id: str) -> bool:
-        """
-        Check if node exists with ANY label
-        """
         query = "MATCH (n {id: $node_id}) RETURN count(n) as count"
         result = self.execute_query(query, {"node_id": node_id})
         return result and result[0]["count"] > 0
@@ -89,22 +100,35 @@ class MemgraphHandler:
     
     def create_relationship(self, from_id: str, to_id: str, 
                           relation_type: str, properties: Dict = None):
-        props_str = ""
+        """
+        Create relationship - FIXED VERSION
+        """
         params = {
             "from_id": from_id,
             "to_id": to_id
         }
         
         if properties:
-            props_list = [f"{k}: ${k}" for k in properties.keys()]
-            props_str = "{" + ", ".join(props_list) + "}"
-            params.update(properties)
-        
-        query = f"""
-        MATCH (a {{id: $from_id}}), (b {{id: $to_id}})
-        CREATE (a)-[r:{relation_type} {props_str}]->(b)
-        RETURN r
-        """
+            # Build property assignments with unique param names
+            prop_assignments = []
+            for key, value in properties.items():
+                param_name = f"rel_{key}"
+                params[param_name] = value
+                prop_assignments.append(f"{key}: ${param_name}")
+            
+            props_str = "{" + ", ".join(prop_assignments) + "}"
+            
+            query = f"""
+            MATCH (a {{id: $from_id}}), (b {{id: $to_id}})
+            CREATE (a)-[r:{relation_type} {props_str}]->(b)
+            RETURN r
+            """
+        else:
+            query = f"""
+            MATCH (a {{id: $from_id}}), (b {{id: $to_id}})
+            CREATE (a)-[r:{relation_type}]->(b)
+            RETURN r
+            """
         
         result = self.execute_query(query, params)
         
@@ -116,17 +140,20 @@ class MemgraphHandler:
     def insert_triplet(self, subject: str, subject_type: str,
                       relation: str, obj: str, obj_type: str,
                       source: str = None):
+        """
+        Insert triplet - FIXED VERSION
+        """
+        # Create subject if not exists
         if not self.node_exists(subject, subject_type):
-            self.create_node(subject, subject_type, {
-                "description": subject,
-                "source": source or "scraped"
-            })
+            properties = {"source": source or "scraped"}
+            # Don't add description = subject (that's the bug!)
+            self.create_node(subject, subject_type, properties)
         
+        # Create object if not exists
         if not self.node_exists(obj, obj_type):
-            self.create_node(obj, obj_type, {
-                "description": obj,
-                "source": source or "scraped"
-            })
+            properties = {"source": source or "scraped"}
+            # Don't add description = obj
+            self.create_node(obj, obj_type, properties)
         
         # Create relationship
         query = f"""
@@ -148,9 +175,6 @@ class MemgraphHandler:
         return False
     
     def get_all_nodes(self) -> List[Dict]:
-        """
-        Get all nodes
-        """
         query = "MATCH (n) RETURN n"
         result = self.execute_query(query)
         
@@ -166,9 +190,6 @@ class MemgraphHandler:
         return nodes
     
     def get_all_relationships(self) -> List[Dict]:
-        """
-        Get all relationships from graph
-        """
         query = "MATCH (a)-[r]->(b) RETURN a.id as from_id, type(r) as rel_type, b.id as to_id, properties(r) as props"
         result = self.execute_query(query)
         
@@ -204,7 +225,6 @@ class MemgraphHandler:
         return nodes
     
     def get_graph_statistics(self) -> Dict:
-
         stats = {
             "total_nodes": 0,
             "total_relationships": 0,
@@ -215,16 +235,13 @@ class MemgraphHandler:
         nodes = self.get_all_nodes()
         stats["total_nodes"] = len(nodes)
         
-
         for node in nodes:
             node_type = node["type"]
             stats["node_types"][node_type] = stats["node_types"].get(node_type, 0) + 1
         
-     
         relationships = self.get_all_relationships()
         stats["total_relationships"] = len(relationships)
         
-
         for rel in relationships:
             rel_type = rel["relation"]
             stats["relationship_types"][rel_type] = stats["relationship_types"].get(rel_type, 0) + 1
@@ -238,28 +255,35 @@ if __name__ == "__main__":
     if handler.connect():
         print("\n✓ Connection test successful!")
         
+        # Clean test
+        print("\nCleaning old test data...")
+        handler.execute_query("MATCH (n) WHERE n.source = 'test' DETACH DELETE n")
+        
+        # Test insert
+        print("\nTesting insert...")
         handler.insert_triplet(
-            subject="Irys",
+            subject="TestIrys",
             subject_type="Platform",
             relation="has_component",
-            obj="IrysVM",
-            obj_type="Platform",
+            obj="TestIrysVM",
+            obj_type="Component",
             source="test"
         )
         
+        # Verify
         nodes = handler.get_all_nodes()
-        print(f"\nTotal nodes in graph: {len(nodes)}")
+        test_nodes = [n for n in nodes if n['properties'].get('source') == 'test']
         
-        relationships = handler.get_all_relationships()
-        print(f"Total relationships in graph: {len(relationships)}")
-
-        stats = handler.get_graph_statistics()
-        print(f"\nGraph Statistics:")
-        print(f"  Nodes: {stats['total_nodes']}")
-        print(f"  Relationships: {stats['total_relationships']}")
+        print(f"\nCreated {len(test_nodes)} test nodes:")
+        for node in test_nodes:
+            print(f"\n  {node['id']} ({node['type']}):")
+            for k, v in node['properties'].items():
+                print(f"    {k}: {v}")
+        
+        # Cleanup
+        print("\nCleaning up test data...")
+        handler.execute_query("MATCH (n) WHERE n.source = 'test' DETACH DELETE n")
         
         handler.disconnect()
     else:
         print("\n✗ Connection test failed!")
-        print("\nMake sure Memgraph is running:")
-        print("  docker run -p 7687:7687 memgraph/memgraph")

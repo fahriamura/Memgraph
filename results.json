@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "timestamp": "2026-03-04T14:21:58.392571",
+    "total_questions": 7,
+    "model": "gpt-5.1",
+    "kg_database": "Memgraph"
+  },
+  "summary": {
+    "success_rate": {
+      "llm_only": "7/7 (100.0%)",
+      "llm_rag": "7/7 (100.0%)"
+    },
+    "average_latency_ms": {
+      "llm_only": 5443.2,
+      "llm_rag": 11211.83,
+      "difference": 5768.63
+    },
+    "average_coverage": {
+      "llm_only": 0.26,
+      "llm_rag": 0.95,
+      "improvement": 0.69
+    },
+    "average_tokens": {
+      "llm_only": 260.3,
+      "llm_rag": 1228.3
+    },
+    "kg_retrieval": {
+      "avg_facts_retrieved": 14.1,
+      "avg_kg_time_ms": 45.28
+    }
+  },
+  "detailed_results": [
+    {
+      "question_id": "Q1",
+      "question": "What is Irys Netowrk?",
+      "category": "definition",
+      "expected_entities": [
+        "Irys Network",
+        "Programmable Datachain",
+        "IrysVM"
+      ],
+      "llm_only": {
+        "method": "LLM_ONLY",
+        "answer": "Irys Network is a data availability and storage network designed for blockchains and rollups. It lets applications and chains publish data (like transactions, proofs, and app data) in a verifiable, permanent way, while using existing chains (such as Ethereum and others) for security and settlement. In practice, developers use Irys to reliably store on-chain or off-chain data with cryptographic guarantees that it’s available, tamper‑resistant, and persistently retrievable.",
+        "latency_ms": 5214.88,
+        "tokens_used": 161,
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 1,
+          "coverage": 0.33,
+          "contains_expected": [
+            "Irys Network"
+          ]
+        }
+      },
+      "llm_rag": {
+        "method": "LLM_RAG",
+        "answer": "Irys Network is described as **“The First Programmable Datachain for AI & Beyond”** (m.id: Irys Network in all facts).\n\nFrom the facts:\n\n- It **is a “Programmable Datachain for AI & Beyond”** (Fact 1, 5), meaning it’s a blockchain-based data layer explicitly framed as programmable and targeted at AI and broader use cases.\n- It **“provides” and “offers” “CostEfficient ProgrammableData”** (Facts 3, 7), indicating that data on Irys Network is programmable and cost-efficient.\n- It **“provides” “HighPerformance ComposableUtilities” / “High-Performance Composable Utilities”** (Facts 2, 6), so it supplies high-performance, composable onchain utilities as part of the platform.\n- It **“enables” “Onchain data”** (Fact 10), where onchain data is defined as “Data stored on a blockchain; described as moving faster and costing less,” showing that Irys Network focuses on faster and cheaper onchain data.\n- It **“enables” “Cheaper retrieval costs”** for onchain data (Fact 4), specifically: “Costs to retrieve onchain data that are lower than traditional solutions.”\n- It **“enables” “Onchain services”** (Fact 11), i.e., services that operate directly on the blockchain, powered by the datachain.\n- It **“provides” “Onchain execution”** (Fact 15), meaning instructions can be executed directly on-chain.\n- It **has “instructions” as a component** (Fact 8), defined as “Instructions that can be embedded, retrieved instantly, and shared across applications,” showing that programmable, shareable instructions are a native part of the network.\n- It **“enables” “developers”** (Fact 9), specifically “Developers building on Irys Network to create onchain services,” so it is a developer platform for building onchain services using its programmable data and utilities.\n- It **has multiple onchain-related components** (Facts 18–20):\n  - **Wallets**: “Feature enabling access to cryptocurrency wallets on the Irys Network platform.”\n  - **Bridges**: “Feature enabling cross-chain bridges on the Irys Network platform.”\n  - **Block Explorers**: “Feature providing block explorer capabilities on the Irys Network platform.”\n- It also **has components and policies around identity and access**:\n  - **User identification/access details** and **User login details** as components (Facts 13, 14).\n  - It can **“disable user identification/access details and/or user login details”** (Fact 12).\n  - It has a **“Compliance notification process”** (Fact 17), requiring users to notify compliance when someone else knows their credentials.\n  - It **provides an “Under-18 age restriction”** (Fact 16), a policy that the site is not intended for users under 18.\n\nPutting this together:\n\n**Irys Network is a blockchain-based, programmable datachain platform built for AI and broader applications that:**\n\n- Centers on **cost-efficient, programmable onchain data** with **cheaper retrieval costs** than traditional solutions.\n- Offers **high-performance, composable onchain utilities** and **onchain execution** of embedded instructions.\n- **Enables developers** to build **onchain services** using its datachain, instructions, and utilities.\n- Includes core Web3 components such as **wallets**, **cross-chain bridges**, and **block explorers**.\n- Manages **user identification and login details**, with capabilities to disable them, and incorporates **compliance** and **age-restriction policies** as part of the platform.",
+        "latency_ms": 18437.22,
+        "kg_retrieval_ms": 15.66,
+        "llm_synthesis_ms": 18421.55,
+        "tokens_used": 1901,
+        "facts_retrieved": 20,
+        "query_type": "irys_definition",
+        "context_used": "1. n.id: Programmable Datachain for AI & Beyond | type(r): enables | m.id: Irys Network | n_desc: A programmable datachain for AI & Beyond | m_desc: The First Programmable Datachain for AI & Beyond\n2. n.id: HighPerformance ComposableUtilities | type(r): provides | m.id: Irys Network | n_desc: HighPerformance ComposableUtilities | m_desc: The First Programmable Datachain for AI & Beyond\n3. n.id: CostEfficient ProgrammableData | type(r): provides | m.id: Irys Network | n_desc: CostEfficient Progra...",
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 2,
+          "coverage": 0.67,
+          "contains_expected": [
+            "Irys Network",
+            "Programmable Datachain"
+          ]
+        }
+      },
+      "timestamp": "2026-03-04T14:20:17.401547"
+    },
+    {
+      "question_id": "Q2",
+      "question": "What is the highest discord role in Irys Network?",
+      "category": "hierarchy",
+      "expected_entities": [
+        "Shihan",
+        "Role"
+      ],
+      "llm_only": {
+        "method": "LLM_ONLY",
+        "answer": "The highest Discord role in the Irys Network server is the **“Core Team”** role.",
+        "latency_ms": 1249.05,
+        "tokens_used": 88,
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 1,
+          "coverage": 0.5,
+          "contains_expected": [
+            "Role"
+          ]
+        }
+      },
+      "llm_rag": {
+        "method": "LLM_RAG",
+        "answer": "The highest Discord role in Irys Network is **“Shihan”**.\n\nFrom the facts:\n- Fact 1: The role **Shihan** (level 4) is described as “Masters, guiding the community” and is explicitly related to **Discord** via the relation **has_role**, meaning Shihan is a Discord role in Irys Network.\n- Fact 2: The role **Shihan** is **higher_than** the role **Senshi**, establishing a clear hierarchy where Shihan is above Senshi.\n\nCombining these, **Shihan** is identified as a Discord role and is higher than Senshi, so **Shihan is the highest Discord role mentioned in the Irys Network facts.**",
+        "latency_ms": 5676.01,
+        "kg_retrieval_ms": 34.79,
+        "llm_synthesis_ms": 5633.28,
+        "tokens_used": 328,
+        "facts_retrieved": 2,
+        "query_type": "hierarchy",
+        "context_used": "1. role: Shihan | description: Masters, guiding the community | level: 4 | relation: has_role | related: Discord\n2. role: Shihan | description: Masters, guiding the community | level: 4 | relation: higher_than | related: Senshi",
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 2,
+          "coverage": 1.0,
+          "contains_expected": [
+            "Shihan",
+            "Role"
+          ]
+        }
+      },
+      "timestamp": "2026-03-04T14:20:25.532616"
+    },
+    {
+      "question_id": "Q3",
+      "question": "How to check points in irys network?",
+      "category": "process",
+      "expected_entities": [
+        "Galxe",
+        "QuestLand",
+        "Rank"
+      ],
+      "llm_only": {
+        "method": "LLM_ONLY",
+        "answer": "On Irys, “points” are just your node’s reputation/score in the network. How you check them depends on what you’re running:\n\n1. **For Uploaders using a Bundlr/Irys-compatible client (JS/TS, CLI, etc.):**  \n   - There is *no public “points balance”* you query like a token balance.  \n   - What matters is your **funds balance** on the node and your **successful upload history** (both are reflected by the node and the underlying L1, not as a separate “points” field).  \n   - Use the SDK/CLI to check:\n     - `getLoadedBalance()` / `getBalance(address)` (or equivalent) to see funds.\n     - Your recent transactions (via block explorer or the node’s APIs) to see reliability/history.\n\n2. **For Node Operators / Validators (if you’re running an Irys node):**  \n   - Node “points” or reputation are usually exposed via the **node’s metrics / status endpoint**, not via a smart contract.  \n   - Check the node docs for your version (e.g. `/metrics`, `/health`, or `/stats` endpoints). These endpoints typically show:\n     - Uptime/availability\n     - Number of bundles processed\n     - Error rates and other stats that contribute to your effective reputation.\n\n3. **If you mean user-facing “points” from a community program or incentives campaign:**  \n   - Those are off-chain accounting, not part of Irys protocol itself.  \n   - You need to check the **specific campaign dashboard** or **web app** (often linked from the official Irys docs, Twitter, or Discord) where they track points for that promotion.\n\nIn summary: there is no universal on-chain “points” balance to query. Use the SDK/CLI for balances and history, node metrics for operator reputation, and any separate dashboard for campaign-specific points.",
+        "latency_ms": 9084.21,
+        "tokens_used": 460,
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 0,
+          "coverage": 0.0,
+          "contains_expected": []
+        }
+      },
+      "llm_rag": {
+        "method": "LLM_RAG",
+        "answer": "To check points related to the Irys Network, you need to use **Galxe** and the **QuestLand / Irys Portal**:\n\n1. **Galxe as the points platform**\n   - **Galxe** is the platform where points and ranks are displayed:\n     - `Galxe | type(r): rewards_points_on | m.id: QuestLand` – Galxe is used to award points for **QuestLand**.\n     - `Rank | type(r): displayed_on | m.id: Galxe` – Ranks (i.e., point-based status) are shown on **Galxe**.\n     - `Galxe | type(r): uses | m.id: Irys Network` – Galxe is used in connection with the **Irys Network**.\n\n2. **QuestLand / Irys Portal as the quest system**\n   - **QuestLand** is a component of the **Irys Portal** and vice versa:\n     - `QuestLand | type(r): has_component | m.id: Irys Portal`\n     - `Irys Portal | type(r): has_component | m.id: QuestLand`\n   - **QuestLand** enables **Quests**, and **Quests** enable **QuestLand**:\n     - `Quests | type(r): enables | m.id: QuestLand`\n     - `QuestLand | type(r): enables | m.id: Quests`\n   - **QuestLand** rewards points on **Galxe** for completing activities:\n     - `QuestLand | type(r): rewards_points_on | m.id: Galxe | desc: Portal feature for completing quests (games, Discord roles, social tasks) to earn Galxe points.`\n   - These quests include:\n     - `Games | type(r): contains | m.id: questLand` and `questLand | type(r): contains | m.id: Games`\n     - `Discord Roles | type(r): contains | m.id: questLand` and `questLand | type(r): contains | m.id: Discord Roles`\n     - `Social Tasks | type(r): contains | m.id: questLand`\n\n3. **Where this lives (portal.irys.xyz / QuestLand)**\n   - `questLand | type(r): contains | m.id: portal.irys.xyz`\n   - `portal.irys.xyz | type(r): contains | m.id: questLand`\n   - This shows that **QuestLand** is tied to **portal.irys.xyz**, the **Irys Portal** environment.\n\n**Putting it together:**\n\n- You complete **Quests** (including **Games**, **Discord Roles**, and **Social Tasks**) inside **QuestLand** on **portal.irys.xyz** (the **Irys Portal**).\n- **QuestLand** then **rewards points on Galxe**.\n- Your **Rank** and points related to the **Irys Network** are **displayed on Galxe**.\n\nSo, to check your points for Irys:\n\n1. Use **QuestLand** via **portal.irys.xyz** (Irys Portal) to earn points through quests.\n2. Go to **Galxe**, which:\n   - Uses the **Irys Network**, and  \n   - Displays your **Rank** and points that **QuestLand** rewards on Galxe.",
+        "latency_ms": 11017.47,
+        "kg_retrieval_ms": 59.52,
+        "llm_synthesis_ms": 10952.76,
+        "tokens_used": 1143,
+        "facts_retrieved": 15,
+        "query_type": "points",
+        "context_used": "1. n.id: Galxe | type(r): rewards_points_on | m.id: QuestLand | desc: Platform used to award points for Irys.\n2. n.id: QuestLand | type(r): has_component | m.id: Irys Portal | desc: QuestLand\n3. n.id: Irys Portal | type(r): has_component | m.id: QuestLand | desc: Irys Portal\n4. n.id: Quests | type(r): enables | m.id: QuestLand | desc: Quests\n5. n.id: QuestLand | type(r): enables | m.id: Quests | desc: QuestLand\n6. n.id: Galxe | type(r): uses | m.id: Irys Network\n7. n.id: QuestLand | type(r): rew...",
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 3,
+          "coverage": 1.0,
+          "contains_expected": [
+            "Galxe",
+            "QuestLand",
+            "Rank"
+          ]
+        }
+      },
+      "timestamp": "2026-03-04T14:20:46.871444"
+    },
+    {
+      "question_id": "Q4",
+      "question": "What games are available in Irys Network?",
+      "category": "listing",
+      "expected_entities": [
+        "Snake",
+        "Spritetype",
+        "Testnet"
+      ],
+      "llm_only": {
+        "method": "LLM_ONLY",
+        "answer": "Based on information available up to late 2024, Irys Network itself does not provide or maintain a catalog of on-chain “games” in the way a gaming platform or marketplace does. It’s a data availability and storage layer (used heavily by dApps, NFTs, and other protocols), not a dedicated gaming hub.\n\nSome blockchain games and game-related projects may use Irys/Arweave-style perma-storage for assets or metadata, but there is no official, network-wide list of games “available in Irys Network” as a user-facing feature.",
+        "latency_ms": 3773.94,
+        "tokens_used": 179,
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 0,
+          "coverage": 0.0,
+          "contains_expected": []
+        }
+      },
+      "llm_rag": {
+        "method": "LLM_RAG",
+        "answer": "Based on the provided facts, the games available in Irys Network are:\n\n1. **Snake**  \n   - Fact 1: `Testnet` **hosts_game** `Snake`  \n   - Fact 7 & 8: `IRYS` **uses** `Snake` and `Snake` **uses** `IRYS`  \n   - Fact 11: `Snake` **hosts_game** `Testnet`  \n\n   These relationships show that the game **Snake** is hosted on the `Testnet` environment of Irys Network and is integrated with `IRYS`.\n\n2. **Spritetype**  \n   - Fact 3: `Testnet` **hosts_game** `Spritetype`  \n   - Fact 9 & 10: `Spritetype` **uses** `IRYS` and `IRYS` **uses** `Spritetype`  \n   - Fact 12: `Spritetype` **hosts_game** `Testnet`  \n\n   These relationships show that the game **Spritetype** is also hosted on the `Testnet` environment of Irys Network and is integrated with `IRYS`.\n\nTherefore, the games available in Irys Network, as shown in these facts, are **Snake** and **Spritetype**, both hosted on the `Testnet` and used by `IRYS`.",
+        "latency_ms": 6602.45,
+        "kg_retrieval_ms": 29.99,
+        "llm_synthesis_ms": 6572.47,
+        "tokens_used": 642,
+        "facts_retrieved": 12,
+        "query_type": "games",
+        "context_used": "1. n.id: Testnet | type(r): hosts_game | m.id: Snake\n2. n.id: Irys Games Checker | type(r): tracked_by | m.id: Snake\n3. n.id: Testnet | type(r): hosts_game | m.id: Spritetype\n4. n.id: Irys Games Checker | type(r): tracked_by | m.id: Spritetype\n5. n.id: Snake | type(r): tracked_by | m.id: Irys Games Checker\n6. n.id: Spritetype | type(r): tracked_by | m.id: Irys Games Checker\n7. n.id: IRYS | type(r): uses | m.id: Snake\n8. n.id: Snake | type(r): uses | m.id: IRYS\n9. n.id: Spritetype | type(r): uses...",
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 3,
+          "coverage": 1.0,
+          "contains_expected": [
+            "Snake",
+            "Spritetype",
+            "Testnet"
+          ]
+        }
+      },
+      "timestamp": "2026-03-04T14:20:58.457184"
+    },
+    {
+      "question_id": "Q5",
+      "question": "Explain IrysVM",
+      "category": "explanation",
+      "expected_entities": [
+        "IrysVM",
+        "Smart contracts",
+        "Data Layer"
+      ],
+      "llm_only": {
+        "method": "LLM_ONLY",
+        "answer": "IrysVM is Irys Network’s on-chain virtual machine that lets developers run arbitrary, deterministic programs directly at the data-availability layer instead of relying on a separate L1/L2 smart contract environment.\n\nKey points:\n\n- **Purpose**: It turns Irys from “just” a permanent data layer into a programmable execution layer, so logic can be tied directly to the data being stored and verified.\n\n- **Model**:  \n  - Deterministic, sandboxed execution over Irys data (e.g., on upload or query).  \n  - Typically operates over content-addressed data (bundles, transactions) and can enforce rules (validation, indexing, transformations) before data is accepted or when it is read.\n\n- **Execution & Security**:  \n  - Programs are executed by Irys nodes as part of the protocol; all honest nodes see the same inputs and must arrive at the same outputs.  \n  - This allows verifiable behaviors like content validation, attestations, and proofs to be baked into the storage process.\n\n- **Use cases**:  \n  - Schema and content validation for uploads.  \n  - On-chain indexing and metadata derivation (e.g., tags, search indices).  \n  - Policy enforcement (e.g., pay-to-access or quota rules) at the DA layer.  \n  - Application-specific logic tightly coupled with stored data (decentralized backends, verifiable pipelines, AI/data provenance flows).\n\nIn short, IrysVM is the programmable execution environment that lets developers embed verifiable logic and computation directly into Irys’s permanent, verifiable data layer.",
+        "latency_ms": 7962.62,
+        "tokens_used": 386,
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 2,
+          "coverage": 0.67,
+          "contains_expected": [
+            "IrysVM",
+            "Data Layer"
+          ]
+        }
+      },
+      "llm_rag": {
+        "method": "LLM_RAG",
+        "answer": "IrysVM is a **high-performance, EVM-compatible execution layer designed to work natively with onchain data** (facts 1–4, 7–9, 10–11, 16, 18–20).\n\n### Role in the Irys ecosystem\n\n- **Component of Irys Network:**  \n  The *Irys Network* is described as **“The First Programmable Datachain for AI & Beyond”**, and it **has_component** and **connects_to** *IrysVM* (facts 7–8).  \n- **Contained within Irys:**  \n  *Irys* is a **network of utilities where storage and execution enable onchain services to work together**, and it **contains** *IrysVM* (facts 3, 9).  \n- **Connection to the Data Layer:**  \n  A dedicated **Data Layer**—“a data layer that ecosystems can integrate with, creating a shared foundation for AI and beyond”—**connects_to** *IrysVM* (facts 4, 10).  \n- **Integration with data storage:**  \n  The **Data storage** function, which is “traditionally separate from contract execution on many blockchains,” **integrates_with** *IrysVM* (fact 16), showing that IrysVM is closely tied to data handling, not just computation.\n\n### EVM compatibility\n\n- The **Ethereum Virtual Machine (EVM)** “provides similar benefits to IrysVM” (fact 18), and IrysVM is explicitly **EVM‑compatible** (facts 1–4, 7–9, 10).  \n  This means IrysVM is an execution environment that behaves similarly to the EVM while being tailored to native onchain data usage within the Irys Network.\n\n### Smart contracts and programmability\n\n- **Supports and integrates with smart contracts:**  \n  *IrysVM* **supports** and **integrates_with** **Smart contracts**, which are “programmable contracts that can be triggered” (facts 5–6, 15, 17).  \n- **Programmable data:**  \n  It **enables Programmable data properties**—“properties attached to data that can be programmable” (fact 20).  \n- **Programmable datasets:**  \n  It **enables programmable datasets that can be managed directly onchain** (fact 14).\n\nTogether, these show that IrysVM is not just for code execution but for **making data itself programmable** onchain.\n\n### Native onchain data and ledgers\n\n- IrysVM is “designed to work natively with **onchain data**,” and **onchain data integrates_with IrysVM** (facts 1–4, 10–11).  \n- It **enables Irys data ledgers**, described as “Irys’s data ledgers accessible by IrysVM” (fact 19).  \n  This indicates that IrysVM can directly access and operate on Irys’s data-centric ledgers as a core part of its design.\n\n### AI and inference\n\nIrysVM is central to the “AI & Beyond” goal of the Irys Network:\n\n- **AI models:**  \n  *AI models* that “can be managed directly onchain” are **enabled** by *IrysVM* (fact 12).  \n- **Inference proofs:**  \n  *Inference proofs* that “can be managed directly onchain” are also **enabled** by *IrysVM* (fact 13).\n\nThis means IrysVM provides the execution environment for managing AI models and their inference proofs directly onchain, leveraging the programmable data and data ledgers described above.\n\n---\n\n**In summary:**  \nIrysVM is an **EVM-compatible, high-performance execution layer** that sits at the core of the **Irys Network** and **Irys** ecosystem. It tightly **connects to the Data Layer**, **integrates with data storage**, and **works natively with onchain data** and **Irys data ledgers**. It **supports and integrates with smart contracts**, enables **programmable datasets** and **programmable data properties**, and powers onchain management of **AI models** and **inference proofs**, aligning with Irys Network’s vision as “The First Programmable Datachain for AI & Beyond.”",
+        "latency_ms": 13931.09,
+        "kg_retrieval_ms": 32.68,
+        "llm_synthesis_ms": 13898.41,
+        "tokens_used": 2154,
+        "facts_retrieved": 20,
+        "query_type": "irysvm",
+        "context_used": "1. n.id: IrysVM | type(r): connects_to | m.id: Irys Network | n_desc: High-performance, EVM-compatible execution layer designed to work natively with onchain data. | m_desc: The First Programmable Datachain for AI & Beyond\n2. n.id: IrysVM | type(r): has_component | m.id: Irys Network | n_desc: High-performance, EVM-compatible execution layer designed to work natively with onchain data. | m_desc: The First Programmable Datachain for AI & Beyond\n3. n.id: IrysVM | type(r): contains | m.id: Irys | n...",
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 3,
+          "coverage": 1.0,
+          "contains_expected": [
+            "IrysVM",
+            "Smart contracts",
+            "Data Layer"
+          ]
+        }
+      },
+      "timestamp": "2026-03-04T14:21:21.488858"
+    },
+    {
+      "question_id": "Q6",
+      "question": "What consensus mechanism does Irys Network use?",
+      "category": "technical",
+      "expected_entities": [
+        "Hybrid Consensus Model",
+        "Proof of Work",
+        "Staking"
+      ],
+      "llm_only": {
+        "method": "LLM_ONLY",
+        "answer": "Irys Network does **not** use its own on-chain consensus mechanism; instead it is a **layer on top of existing blockchains**, relying on the consensus of the underlying chains it settles to (e.g., Arweave, Ethereum, Solana, etc.). In other words, Irys inherits the consensus of those base layer networks rather than running a separate consensus protocol.",
+        "latency_ms": 2776.41,
+        "tokens_used": 142,
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 0,
+          "coverage": 0.0,
+          "contains_expected": []
+        }
+      },
+      "llm_rag": {
+        "method": "LLM_RAG",
+        "answer": "Irys Network uses a **hybrid consensus mechanism that combines Proof of Work (PoW) and Staking**.\n\nFrom the facts:\n\n- **Irys Network uses a \"Hybrid consensus model\"** (Fact 9: *“Irys Network | uses | Hybrid consensus model”*).\n- This **Hybrid consensus model** is explicitly described as *“a consensus mechanism that combines Proof of Work and Staking”* (Facts 1, 13, 14).\n- The model is further specified as a **“consensus mechanism (uPoW + staking)”** (Fact 2), indicating it combines **useful Proof of Work (uPoW)** with **staking**.\n- The **Irys consensus model** is described as a **secure, scalable, and efficient consensus model** supporting reliable onchain data storage (Fact 3).\n- **Miners participate in this Hybrid consensus model** and are *“required to stake resources to activate mining”* (Fact 10, reinforced by Fact 15), showing how PoW and staking are both involved operationally.\n\nPutting this together:  \n**Irys Network uses a Hybrid consensus model—a consensus mechanism combining useful Proof of Work (uPoW) and Staking, in which miners participate by staking resources to perform Proof of Work.**",
+        "latency_ms": 5627.35,
+        "kg_retrieval_ms": 127.61,
+        "llm_synthesis_ms": 5499.74,
+        "tokens_used": 942,
+        "facts_retrieved": 15,
+        "query_type": "consensus",
+        "context_used": "1. n.id: Hybrid consensus model | type(r): uses | m.id: Irys Network | n_desc: A consensus mechanism that combines Proof of Work and Staking.\n2. n.id: consensus mechanism (uPoW + staking) | type(r): has_component | m.id: Irys Network | n_desc: A consensus mechanism combining useful Proof of Work and staking.\n3. n.id: Irys consensus model | type(r): provides | m.id: Irys Network | n_desc: Secure, scalable, and efficient consensus model designed to support reliable onchain data storage.\n4. n.id: c...",
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 3,
+          "coverage": 1.0,
+          "contains_expected": [
+            "Hybrid Consensus Model",
+            "Proof of Work",
+            "Staking"
+          ]
+        }
+      },
+      "timestamp": "2026-03-04T14:21:31.053648"
+    },
+    {
+      "question_id": "Q7",
+      "question": "How do miners participate in Irys Network?",
+      "category": "process",
+      "expected_entities": [
+        "Miners",
+        "Staking",
+        "16TB partitions"
+      ],
+      "llm_only": {
+        "method": "LLM_ONLY",
+        "answer": "Miners on Irys don’t “mine blocks” like in PoW chains; instead, they act as **data uploaders and bundlers** that earn fees for reliably pushing users’ data to the underlying settlement layer (e.g., Arweave).\n\nIn practice, a miner on Irys:\n\n1. **Runs an Irys node (bundler)**  \n   - Accepts data upload requests from users.  \n   - Verifies signatures, enforces size/type limits, and aggregates many small uploads into larger “bundles.”\n\n2. **Pays the base chain and gets reimbursed**  \n   - The miner actually pays the settlement chain fee (e.g., Arweave transaction cost) to store the bundled data.  \n   - Users pay the miner in the supported payment tokens (e.g., ETH, MATIC, etc.).  \n   - The miner’s profit is the spread between what users pay and what it costs to anchor the data on-chain, minus operating costs.\n\n3. **Competes on price, reliability, and performance**  \n   - Miners choose fee structures and supported currencies.  \n   - Users (or apps) select which Irys node to upload through, so miners compete by being cheaper, faster, and more reliable.\n\n4. **Maintain availability and indexing**  \n   - Serve stored data to clients and index bundles so content can be located and verified.  \n   - Good uptime and correct behavior are critical to retaining traffic and revenue.\n\nIn short, miners participate in Irys by running bundler nodes that front the cost of permanent storage, bundle and submit data to the base chain, and earn fees from users for providing this upload and availability service.",
+        "latency_ms": 8041.29,
+        "tokens_used": 406,
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 1,
+          "coverage": 0.33,
+          "contains_expected": [
+            "Miners"
+          ]
+        }
+      },
+      "llm_rag": {
+        "method": "LLM_RAG",
+        "answer": "Miners participate in the Irys Network through the **hybrid consensus model** and by managing storage capacity, backed by staking the **$IRYS / IRYS Token** as collateral:\n\n1. **Consensus participation (uPoW + staking / Hybrid consensus model)**\n   - The network uses a **“consensus mechanism (uPoW + staking)”** as a component of the **Irys Network** (Fact 1), described as “a consensus mechanism combining useful Proof of Work and staking.”\n   - **Miners** are explicitly described as participants in a **Hybrid consensus model** (Fact 3, Fact 6), which is “a consensus mechanism that combines Proof of Work and Staking.”\n   - This hybrid model **uses Staking** (Fact 4), and **Miners use Staking** (Fact 5), meaning miners must stake resources to activate mining.\n\n2. **Staking and collateral**\n   - **Staking** is part of the hybrid consensus model (Fact 4), and miners both **use** and are linked to **Staking** (Facts 5, 7).\n   - Miners use the **$IRYS** token (Fact 11) and the **IRYS Token** (Fact 13) as **collateral**; these tokens “govern mining rewards on the Irys Network.”\n   - Each miner has a **Stake** (Fact 12), defined as “collateral locked by miners in IRYS tokens; forfeited for failing to uphold responsibilities.”  \n   - Thus, miners participate by locking **IRYS tokens** as stake, which secures their role and can be slashed if they fail duties.\n\n3. **Storage responsibilities and capacity partitions**\n   - Irys uses **capacity partitions** to onboard storage resources ahead of demand (Fact 2).\n   - Miners are responsible for **16TB partitions** (Fact 10) and **16TB partitions of data** (Fact 14), which are “storage partitions of 16 terabytes that miners are responsible for storing and ensuring availability” and “to which mining resources are pledged.”\n   - Miners use **Matrix Packing** (Fact 15), described as a technique used with Irys and “integrated with capacity partitions to enable onboard storage resources” (truncated but clearly tied to capacity partitions).\n   - Together, this means miners participate by pledging mining resources to specific **16TB partitions of data**, using **Matrix Packing** with **capacity partitions** to provide and ensure storage capacity and availability.\n\n4. **Data and proof responsibilities**\n   - Miners participate in **Ingress proofs** (Fact 8), which are “cryptographic certifications verifying that data has been uploaded and replicated across the network.”  \n   - Miners also participate in **onchain data storage** (Fact 9), i.e., “storage of data on a blockchain.”\n   - So miners help certify data ingestion and replication (via **Ingress proofs**) and take part in storing data **on-chain**.\n\n5. **Token and reward linkage**\n   - The **$IRYS** token is “used as collateral by miners and to govern mining rewards on the Irys Network” (Fact 11).\n   - Thus, miners’ participation—in consensus, storage, and proofs—is economically tied to **$IRYS / IRYS Token** staking and reward governance.\n\nIn summary, miners on the Irys Network participate by:\n- Taking part in the **hybrid consensus model (uPoW + staking)**,\n- **Staking IRYS / $IRYS tokens** as collateral (“Stake”) to activate mining and secure their obligations,\n- Pledging resources to and maintaining **16TB storage partitions** within **capacity partitions**, using **Matrix Packing**,\n- Producing **Ingress proofs** and supporting **onchain data storage**,\n- With their **staked IRYS tokens** governing mining rewards and subject to forfeiture if they fail these responsibilities.",
+        "latency_ms": 17191.24,
+        "kg_retrieval_ms": 16.74,
+        "llm_synthesis_ms": 17159.46,
+        "tokens_used": 1488,
+        "facts_retrieved": 15,
+        "query_type": "miners",
+        "context_used": "1. n.id: consensus mechanism (uPoW + staking) | type(r): has_component | m.id: Irys Network | desc: A consensus mechanism combining useful Proof of Work and staking.\n2. n.id: capacity partitions | type(r): uses | m.id: Irys | desc: Irys’s use of capacity partitions to onboard storage resources ahead of demand.\n3. n.id: Miners | type(r): participates_in | m.id: Hybrid consensus model | desc: Participants in the network that mine; described as required to stake resources to activate mining a\n4. n....",
+        "success": true,
+        "error": null,
+        "evaluation": {
+          "entities_mentioned": 3,
+          "coverage": 1.0,
+          "contains_expected": [
+            "Miners",
+            "Staking",
+            "16TB partitions"
+          ]
+        }
+      },
+      "timestamp": "2026-03-04T14:21:57.376662"
+    }
+  ]
+}
